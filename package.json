@@ -9,7 +9,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "pretag": "node scripts/pretag.mjs"
+    "pretag": "node --env-file=.env scripts/pretag.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.112.4",
