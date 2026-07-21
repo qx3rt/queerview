@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 100898,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Pim",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay teen whose secret romantic and sexual relationship with Gino is central to the story; treated as the emotional heart of the narrative and ends on a hopeful note.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Gino",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as gay and in a relationship with Pim, but complicated by his pursuit of other romantic interests, giving him a more ambivalent arc before reconnecting with Pim.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source describes a same-sex coming-of-age romance between two teens, Pim and Gino, both stated to be gay. Note content warning: sexual content involving teenage characters, plus grief over the mother's death. Ends hopefully with Gino returning to Pim. No creator identities, subtitle, or audio-language info provided in the source; language fields left empty. Spicy level set to 3 based on described sexual content but with no further detail; maintainer should verify."
+}

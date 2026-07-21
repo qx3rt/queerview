@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 65953,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Vanessa",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a young Puerto Rican transgender woman navigating her transition; portrayed with 'tender performances' and played by transgender actress Harmony Santana, lending authenticity to the role.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Harmony Santana",
+      "role": "actor",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source states she is herself transgender and made history as the first openly transgender actress nominated for an Independent Spirit Award for this role."
+    }
+  ],
+  "trigger_warnings": [
+    "transphobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "own-voices"
+  ],
+  "contributor_notes": "Source lists trigger warnings for family dysfunction, parental rejection of LGBTQ+ identity, and infidelity, which have no direct enum match beyond transphobia; a maintainer may wish to note these. Notable for a rare interracial same-sex relationship involving a Hispanic transgender woman. No subtitle or audio language info provided in source."
+}

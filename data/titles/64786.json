@@ -1,0 +1,47 @@
+{
+  "tmdb_id": 64786,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Thai"
+  ],
+  "queer_characters": [
+    {
+      "name": "Pie",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a closeted young lesbian from a conservative family who ultimately chooses to openly pursue her relationship with Kim, ending happily.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Kim",
+      "identities": [
+        "lesbian",
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "An openly masculine 'tom' (butch lesbian) student; the source notes this as the first Thai lesbian-genre film with a 'tom' lead. The 'tom' identity in Thai culture can carry gender-nonconforming dimensions, but the source labels her a butch lesbian.",
+      "contested": true,
+      "contest_notes": "Source describes Kim as a butch lesbian ('tom'); the 'tom' label may be read by some as a masculine/gender-nonconforming identity rather than strictly lesbian, but the text does not resolve this."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "suicide"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Kim's 'transgender' tag is speculative and flagged as contested — the source explicitly calls her a butch lesbian 'tom,' and a maintainer should verify whether the transgender reading is appropriate or should be removed. Content warnings drawn from listed parental rejection based on orientation (homophobia) and suicidal ideation. Emotional manipulation/coercion and jealousy were noted but did not map cleanly to the trigger-warning enum. Spicy level set to 1 as no explicit content is indicated; adjust if the film contains more."
+}

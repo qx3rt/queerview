@@ -1,0 +1,33 @@
+{
+  "tmdb_id": 108917,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Vito Russo",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Documentary subject described as a pioneering gay activist and film scholar; real historical figure whose life and contributions to LGBTQ+ cinema criticism are chronicled.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "hiv-aids"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "period-piece"
+  ],
+  "contributor_notes": "Documentary about Vito Russo, author of The Celluloid Closet. Source text confirms Russo as a gay activist. No information provided about the film's director or other creators' identities, so queer_creators left empty. No subtitle or audio language info given. Russo's death from AIDS-related illness is noted as historical context. Human maintainer should verify director/creator credits and language availability."
+}

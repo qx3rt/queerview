@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 244063,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Dutch"
+  ],
+  "queer_characters": [
+    {
+      "name": "Sieger",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in source as a 15-year-old gay track athlete who moves from suppressing his feelings to self-acceptance, ending happily with Marc.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Marc",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in source as Sieger's teammate and love interest, explicitly gay; part of the film's affirming happy ending.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Audio language inferred as Dutch from the source noting the film is Dutch; no subtitle info provided. Trigger warnings drawn from source: parental death (character-death) and social pressure/identity suppression (tentatively tagged homophobia — maintainer should verify whether this reflects external homophobia or internalized distress). Both leads explicitly described as gay with a happy ending. No creator info in source. Please verify spicy level; source only mentions kisses."
+}

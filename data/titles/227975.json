@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 227975,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Donato",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist, a Brazilian lifeguard whose gay identity and pursuit of a lost male love drive the entire narrative; described plainly as gay in the source.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Konrad",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "German man rescued by Donato a decade earlier and identified as gay; the romantic connection between them is stated in the source.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "suicide"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source lists two gay male leads with an explicit romantic connection. Trigger warnings adapted from source: the drowning tourist's death maps to character-death, and implied suicide-ideation themes map to suicide; note the enum lacks a specific 'drowning' tag. No creator identity info provided in source. Subtitle/audio languages not mentioned. Maintainer should verify ending outcome (potential bury-your-gays/tragic-queer considerations) as source text does not clarify the fates of the queer leads."
+}
