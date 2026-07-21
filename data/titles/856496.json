@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 856496,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Link",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Mi'kmaq teen who discovers his sexuality and falls in love with Pasmay; the source labels him queer and centers his romantic arc positively, praised for the leads' chemistry.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Pasmay",
+      "identities": [
+        "two-spirit"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an openly two-spirit Mi'kmaq powwow dancer who guides Link into both indigenous culture and a romantic relationship; his identity is stated plainly in the text.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "child-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Source text notes a happy, celebratory ending with the family reuniting, so happy-ending and no-death are supported. Sexual content involving late-teen characters is flagged; spicy level set to 3 based on 'sexual content' with no explicit detail given. No creator identities were provided in the source, so queer_creators is left empty. 'own-voices' and 'found-family' were not confirmed by the source and omitted pending review. Both leads' identities are stated directly in the text (queer for Link, two-spirit for Pasmay)."
+}

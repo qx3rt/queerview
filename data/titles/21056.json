@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 21056,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Henry Hart",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a gay artist; portrayed sympathetically as the protagonist who finds love in an accepting community.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Pike Dexter",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Shown developing romantic feelings for Henry and ending the film as his partner; the text confirms his same-gender attraction but does not attach a specific label, so the queer umbrella is used.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Both leads end the film happily partnered; the grandfather's death is a plot point but no queer character dies. Source highlights a rare wholly-affirming, homophobia-free rural setting. Pike is a Native American character but the text does not specify a two-spirit or other Indigenous queer identity, so none was added. No information provided on subtitles, audio languages, or the sexual orientations of the creators."
+}

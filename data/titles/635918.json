@@ -1,0 +1,56 @@
+{
+  "tmdb_id": 635918,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Eddie",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Closeted gay teen whose arc moves from hiding in a fake relationship to accepting his identity and building an authentic life; framed sympathetically.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Amber",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Closeted lesbian teen who begins a real relationship with Sarah and comes out to her mother; portrayed as self-actualizing despite being outed.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Sarah",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Woman with whom Amber begins a real romantic relationship; source text confirms same-sex relationship but no specific label is given.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "suicide"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Set in 1995 rural Ireland. Both leads are explicitly gay and lesbian per the plot. Sarah's specific label isn't stated, so tagged under the queer umbrella. Content notes mention homophobic bullying and the suicide of Amber's father; being outed by a priest is also a sensitive theme. No queer characters die. Creator identities not provided in source. Subtitle/audio language info not mentioned."
+}

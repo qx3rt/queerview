@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 158875,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Gabe",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay man and one of two central protagonists; his life and past relationship with his ex-wife Shannon are given full narrative focus rather than being sidelined.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ernesto",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a gay man and co-protagonist; his ongoing connection to former partner Luis is part of the central story, giving him a fleshed-out emotional arc.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text explicitly labels both leads as gay men, so 'explicit-in-text' is used. Content notes mention identity conflict and rejection in a conservative small-town Southern context, supporting a homophobia trigger warning. No information provided about subtitles, audio languages, or the sexual explicitness level (spicy_level defaulted to 1 for lack of evidence). No creator identity info was provided. Please verify festival/creator details and consider whether additional trigger warnings apply after viewing."
+}

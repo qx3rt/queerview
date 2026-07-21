@@ -1,0 +1,33 @@
+{
+  "tmdb_id": 619154,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Portuguese"
+  ],
+  "queer_characters": [
+    {
+      "name": "Alice",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Alice is described as a transgender teenager and the film is framed as a coming-of-age romcom centered on her first kiss, treating her journey earnestly and positively.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "transphobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms Alice as a transgender protagonist (explicit-in-text). Bullying and Catholic-school religious conflict noted as content warnings; tagged transphobia given the transgender student context, though the text does not detail the exact nature of the bullying. Audio language inferred as Portuguese only from 'Brazilian' descriptor — maintainer should verify. No subtitle info, creators, or spice level indicated in source; spicy_level defaulted to 1 (teen romcom, no sexual content mentioned). Please verify all before publishing."
+}

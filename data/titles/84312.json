@@ -1,0 +1,55 @@
+{
+  "tmdb_id": 84312,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Yolanda (Mosquita)",
+      "identities": [
+        "queer",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source describes both leads as 'queer/questioning Latina teens' and frames the film as a love story centered on feelings they cannot articulate; portrayal praised as authentic and resisting stereotypes.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Mari",
+      "identities": [
+        "queer",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source explicitly labels both leads as 'queer/questioning'; the relationship deepens into an intimate moment though it remains physically undefined, reflecting the theme of unnamed emotions.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Aurora Guerrero",
+      "role": "director",
+      "identities": [
+        "queer"
+      ],
+      "source": "self-identified-public",
+      "notes": "Director has publicly said she came to identify as queer and recognized her first love was one of her best friends, informing this story."
+    }
+  ],
+  "trigger_warnings": [
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "Source states both leads are 'queer/questioning Latina teens' and the film centers a love story between them, so I used explicit-in-text; note the relationship is intentionally physically undefined ('almost-contact' and 'heavy silences'). Content notes mention a scene depicting survival sex work and themes of class/immigration—flagged poverty as the closest supported trigger warning, but a maintainer should verify whether sexual-violence applies to the survival sex work scene. No subtitle/audio language info given."
+}
