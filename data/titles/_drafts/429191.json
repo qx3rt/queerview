@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 429191,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Marina",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a young trans woman and a groundbreaking representation of trans life; narrative centers her dignity, grief, and resilience against transphobia.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Daniela Vega",
+      "role": "actor",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Trans woman who first served as a cultural consultant and was later cast in the lead role of Marina."
+    }
+  ],
+  "trigger_warnings": [
+    "transphobia",
+    "character-death",
+    "sexual-violence"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Marina's trans identity is explicit in the source text. Daniela Vega's casting makes this an own-voices trans portrayal. Sexual-violence trigger flagged for the forced nude examinations described; a maintainer may want to verify severity/framing. Audio and subtitle languages were not specified in the source (film is Chilean, likely Spanish, but not stated), so left empty. Happy-ending was not tagged as the film ends on survival/artistic triumph rather than a clearly resolved romantic arc."
+}

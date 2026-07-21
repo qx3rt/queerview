@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 18329,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Lai Yiu-Fai",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as one half of a gay couple; the film is characterized by critics as chronicling gay love, and Fai embodies restraint and nurturing in a nuanced, central portrayal.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ho Po-Wing",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly part of the gay central couple. Portrayed as impulsive, flamboyant, promiscuous, and dependent, which leans on some stereotypical framing, though within a serious, complex relationship narrative.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Chang",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Fai smiles while stealing a photo of Chang, which the source text says suggests possible belonging elsewhere; any queer reading of Chang is inferred subtext rather than stated.",
+      "contested": true,
+      "contest_notes": "The source text only says the ending 'suggests possible belonging elsewhere rather than reconciliation with Po-Wing.' Whether this implies a queer romantic interest in Chang or simply a new emotional connection is open to interpretation."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "explicit-representation",
+    "period-piece"
+  ],
+  "contributor_notes": "Draft based only on provided source text. The tragic-queer tag reflects the bittersweet ending in which both men mourn their relationship separately, though it is not a 'bury-your-gays' death and the source hints at possible future belonging for Fai. Note scholar Jeremy Tambling's argument that universalizing praise 'erases the specificity' of the characters as gay men of color in exile — maintainers may wish to reflect this in rep_quality discussion. No information in the source text about subtitles, audio languages, or creator identities."
+}

@@ -1,0 +1,102 @@
+{
+  "tmdb_id": 31225,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Dorian Corey",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Featured as a prominent figure in the film's African-American and Latino gay and transgender ball communities. Source does not assign a more specific label to this individual.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Pepper LaBeija",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Prominent house figure within the gay and transgender ball scene the film documents; text does not specify an individual label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Venus Xtravaganza",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A central subject whose unsolved murder closes the film, grounding the celebration in tragic reality. Text places her within the gay and transgender communities but does not individually specify her label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Octavia St. Laurent",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Prominent participant in the ball culture the film celebrates; source gives no individual identity label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Willi Ninja",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Notable figure in the documented ball scene; text does not assign a specific individual label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Angie Xtravaganza",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "House mother figure whose emotional reaction to Venus's murder concludes the film; source does not individually specify her label.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Jennie Livingston",
+      "role": "director",
+      "identities": [
+        "queer",
+        "genderqueer"
+      ],
+      "source": "self-identified-public",
+      "notes": "Described in the source as Jewish, gender-nonconforming, and queer; mapped gender-nonconforming to the closest available label. Remained physically absent from the film using cinema verite techniques."
+    }
+  ],
+  "trigger_warnings": [
+    "homophobia",
+    "transphobia",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "found-family",
+    "period-piece"
+  ],
+  "contributor_notes": "Documentary about 1980s NYC ball culture. Source describes the featured communities collectively as African-American and Latino gay and transgender, including gay cisgender men, transgender women, drag queens, and butch women, but does not individually assign specific identities to named subjects, so all are tagged with the queer umbrella pending maintainer refinement. The film's subjects (e.g., Venus and Angie Xtravaganza) are widely understood as transgender women, but a specific per-person label is not stated in the provided text. Notable critical debate: bell hooks critiqued the film as spectacle for white spectators and questioned drag's political efficacy, while Judith Butler defended the complexity of the gender performances; both critiqued Livingston's outside-observer positioning. Trigger warnings reflect systemic hardships depicted (poverty, homelessness, AIDS, violence, sex work) and Venus Xtravaganza's murder; AIDS and poverty lacked matching enum values."
+}

@@ -1,0 +1,50 @@
+{
+  "tmdb_id": 79120,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Russell",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states Russell is a gay man; portrayed with nuance as reserved and self-conscious about being gay in public, showing growth in the final public kiss.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Glen",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states Glen is a gay man; depicted as openly expressive and philosophical about sexuality, with a stated aversion to relationships stemming from a past partner who cheated.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Andrew Haigh",
+      "role": "writer",
+      "identities": [],
+      "source": "explicit-in-text",
+      "notes": "Wrote and directed the film. Source text does not state Haigh's own identity, so no identity tags are applied here."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Both leads are explicitly gay per the source. Andrew Haigh is credited as writer/director but the source does not state his personal identity, so creator identities are left empty pending confirmation. 'happy-ending' is a soft read of the affirming train-station kiss and gift; maintainer may wish to reconsider given Glen's departure to Oregon. Spicy level set to 2 based on described intimacy without explicit detail in the source. No subtitle/audio language info provided."
+}

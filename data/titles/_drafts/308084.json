@@ -1,0 +1,65 @@
+{
+  "tmdb_id": 308084,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Sin-Dee Rella",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a transgender sex worker and portrayed by a transgender actress; the source notes critics commended the film's trans representation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Alexandra",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a trans sex worker; her act of care toward Sin-Dee at the laundromat serves as the film's emotional resolution, emphasizing friendship and solidarity rather than tragedy.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Kitana Kiki Rodriguez",
+      "role": "actor",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Described as a transgender actress; one of the first openly transgender actresses to have an Academy Awards campaign launched for her."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Mya Taylor",
+      "role": "actor",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Described as a transgender actress; became the first transgender actress to win a Gotham Award."
+    }
+  ],
+  "trigger_warnings": [
+    "transphobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family",
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Sin-Dee and Alexandra are explicitly trans; both played by trans actresses (Rodriguez and Taylor), supporting an own-voices tag. Razmik, the Armenian cab driver with a 'secret interest in trans sex workers,' and Chester, who slept with both trans women, are not given explicit queer labels in the source, so I left them out — a maintainer may want to review whether either warrants an inferred entry. Trigger warning for transphobia reflects the slurs and urine-throwing assault near the film's end; a maintainer may consider adding sexual-violence given the sex-work context. Subtitle/audio languages not discussed in source."
+}

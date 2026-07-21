@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 61662,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "David Rose",
+      "identities": [
+        "pansexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as the pansexual son of the family; his relationship with Patrick is accepted by other characters with no homophobia in the storyline, and their love story ends in marriage.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Patrick Brewer",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Enters as David's business partner; their relationship evolves into romance culminating in marriage, and he sings wedding vows to David in the finale. The source text does not assign him a more specific label than his same-sex marriage to David.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation",
+    "no-death"
+  ],
+  "contributor_notes": "David Rose is explicitly pansexual per the source; Patrick's queerness is clear from his same-sex marriage to David but no specific orientation label is given in the text, so the 'queer' umbrella is used. Dan Levy is credited as co-creator, showrunner, and the actor playing David, but the source text does not state his sexual orientation, so no identity tags were added for creators — a maintainer may wish to verify. Source praises the show for portraying queerness with no homophobia; GLAAD and Dorian Award recognition noted. Censorship of same-sex kisses by some broadcasters is mentioned but is not a content trigger within the show itself. Subtitle/audio language info not provided."
+}
