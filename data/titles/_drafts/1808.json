@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 1808,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Brian Slade",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states Slade openly discusses his bisexuality and embodies bisexual androgyny central to glam rock's aesthetic.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Curt Wild",
+      "identities": [
+        "queer",
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Depicted as uninhibited regarding sex and sexuality, embodying transgressive queerness; has an affair with Slade, a man. Bisexual/queer label supported by his same-sex relationship as described.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Arthur Stuart",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "The film's ending, in which Arthur reconnects with Curt Wild suggesting reconciliation and personal growth, reads as an arc of queer self-discovery, but the source text does not explicitly label his sexuality.",
+      "contested": true,
+      "contest_notes": "Source text implies but does not explicitly state Arthur's own queerness; the reconnection with Wild is described as symbolic rather than confirmed romantic."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "period-piece"
+  ],
+  "contributor_notes": "Todd Haynes wrote and directed; source text does not state his identity, so he is omitted from queer_creators. The film centers explicitly on queer themes (glam rock, bisexuality, same-sex relationships) and engages with queer artistic legacy via Oscar Wilde imagery. Arthur Stuart's identity is inferred and flagged as contested pending maintainer review. No subtitle/audio languages mentioned in source. Spicy level estimated from descriptions of affairs and uninhibited sexuality; needs verification."
+}

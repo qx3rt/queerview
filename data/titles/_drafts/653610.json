@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 653610,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Laverne Cox",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Appears as herself, a prominent trans actor and activist speaking about her own experience of trans representation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jamie Clayton",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Interviewed as herself, a trans actor discussing trans media representation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Chaz Bono",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Appears as himself among the trans figures speaking about their own experiences.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Michaela Jae Rodriguez",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Interviewed as herself, described among prominent trans figures.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Angelica Ross",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Appears as herself, a trans actor and activist.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Susan Stryker",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Interviewed as herself, a trans cultural critic speaking about representation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Alexandra Billings",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Appears as herself among prominent trans figures.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Trace Lysette",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Interviewed as herself, a trans actor discussing her experience.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Yance Ford",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Appears as himself among the trans interviewees.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jen Richards",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Interviewed as herself, a trans actor and writer.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Elliot Fletcher",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Appears as himself among the trans figures speaking about representation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Brian Michael Smith",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Interviewed as himself among prominent trans figures.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lilly Wachowski",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Appears as herself, a trans filmmaker speaking about her experience.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Sam Feder",
+      "role": "director",
+      "identities": [],
+      "source": "inferred",
+      "notes": "Directed and produced the film. The source text does not state Feder's gender identity, so no identity tags are applied — needs verification by a maintainer."
+    }
+  ],
+  "trigger_warnings": [
+    "transphobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Documentary about Hollywood's depiction of trans people. All named interviewees are described as prominent trans figures speaking about their own experiences, hence self-identified-public sourcing. The film critiques the 'deceptive trans' trope in other media (e.g. Ace Ventura, Tootsie) rather than employing it, so rep_tropes is left empty. Sam Feder's identity is not stated in the source text and should be verified before publication."
+}

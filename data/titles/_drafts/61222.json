@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 61222,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Todd Chavez",
+      "identities": [
+        "asexual",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Todd's asexual awakening occurs in season three; in the finale he explicitly grapples with his identity ('I don't think I'm straight... I think I might be nothing') and by season six identifies with the ace community, creating an asexual dating app and dating Maude. Treated with genuine depth rather than ridicule.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Maude",
+      "identities": [
+        "asexual"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Maude is a rabbit Todd meets through his asexual dating app 'All About That Ace,' which strongly implies she is also asexual, though the source text does not state her identity in her own words.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text focuses on Todd Chavez's asexual arc, widely praised by critics and scholars for asexual visibility. Todd's identity is explicit in-text; Maude's asexuality is inferred from her meeting Todd via an asexual dating app. No information provided on the queerness of creators or voice actors, or on subtitle/audio languages. The show broadly explores depression and trauma; only 'addiction' maps to the available trigger warning enum. Human maintainer should verify Maude's identity and check for additional characters/creators not covered here."
+}

@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 109939,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Stede Bonnet",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central romance with Ed Teach is made explicit; they acknowledge love, kiss, and eventually retire together. Source does not specify a more precise label than the queer umbrella.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Edward 'Ed' Teach (Blackbeard)",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Half of the central love story, described as intentional from conception and explicitly consummated by season two. No narrower label stated in source.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jim Jimenez",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as a nonbinary character involved in one of the show's three queer relationships.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source confirms a central explicit romance between Stede Bonnet and Ed Teach, praised for subverting queerbaiting, plus a nonbinary character (Jim Jimenez) and three queer relationships total. Creator David Jenkins pitched the show around the central relationship, but the source does not state his identity, so he is not listed as a queer creator. Specific labels (gay/bi) for Stede and Ed are not given in the source, so the queer umbrella is used. Izzy Hands is mentioned but not explicitly identified as queer. A third relationship is referenced but its participants are not named. Human maintainer should verify audio/subtitle availability and any additional cast details."
+}

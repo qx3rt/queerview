@@ -1,0 +1,33 @@
+{
+  "tmdb_id": 95215,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Willie Jack (Wilhelmina Jacqueline Sampson)",
+      "identities": [
+        "two-spirit"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The source text states she is explicitly identified in the show as a Two-Spirit person, and describes her as a fully realized character with close family relationships rather than a token figure.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "suicide",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Willie Jack is the only character the source text explicitly identifies as queer (Two-Spirit). No other characters' identities are supported by the provided text. Neither co-creator (Sterlin Harjo, Taika Waititi) is described as queer in the source, so queer_creators is left empty. Note the show's central plot involves a friend's death by suicide (Daniel) — flagged for suicide and character-death. The 'own-voices' tag reflects the Indigenous-led writers' room and cast, though this pertains to Indigenous rather than queer authorship; a maintainer should verify appropriateness. No sexual content mentioned in source, so spicy_level set to 1."
+}
