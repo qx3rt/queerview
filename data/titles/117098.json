@@ -1,0 +1,40 @@
+{
+  "tmdb_id": 117098,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Stella",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an older lesbian woman determined to legally marry her longtime partner Dotty; central sympathetic protagonist on a road trip to marry.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Dotty",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Stella's longtime partner, an older lesbian woman; her forced institutionalization drives the plot and centers an aging lesbian relationship.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms Stella and Dotty as an older lesbian couple seeking legal marriage. Content touches on aging and forced institutionalization of an elderly person against her wishes (family conflict) — a maintainer may wish to consider whether a relevant trigger warning applies, though the provided enum has no clean match. No information provided on creators, subtitles, or audio languages. Spicy level set to 1 as no sexual content is indicated."
+}

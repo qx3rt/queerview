@@ -1,0 +1,20 @@
+{
+  "tmdb_id": 685264,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "conversion-therapy",
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "Documentary about survivors and former leaders of the ex-gay conversion therapy movement. The source text states that some former leaders come out as gay or trans, but does not name specific individuals, so no individual queer_characters or queer_creators entries could be sourced — a maintainer should add named subjects (self-identified-public) as details become available. Trigger warnings drawn directly from the provided list: conversion therapy is explicit; homophobia captured under 'LGBTQ+ discrimination.' Consider adding transphobia if the film's content supports it, since trans subjects are mentioned. Marked 'own-voices' because the film centers survivors and former participants speaking about their own experiences. Spicy level set to 1 as no sexual content is indicated for this documentary."
+}

@@ -1,0 +1,79 @@
+{
+  "tmdb_id": 49671,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [
+    "German"
+  ],
+  "queer_characters": [
+    {
+      "name": "Gad Beck",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "self-identified-public",
+      "notes": "A Jewish resistance fighter who gives survivor testimony about aiding refugee escapes from Berlin; identified as a gay man persecuted under Paragraph 175.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Pierre Seel",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "self-identified-public",
+      "notes": "Alsatian survivor who recounts witnessing extreme violence in concentration camps; testifies as a gay man persecuted under Nazi rule.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Albrecht Becker",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "self-identified-public",
+      "notes": "German Christian photographer arrested for homosexuality; shares his testimony as a gay survivor.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Annette Eick",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "historical-context",
+      "source": "self-identified-public",
+      "notes": "Jewish lesbian who escaped to England; provides survivor testimony in the documentary.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Karl Gorath",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "self-identified-public",
+      "notes": "Named survivor whose testimony is featured; persecuted under Paragraph 175 as a gay man.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "own-voices"
+  ],
+  "contributor_notes": "Documentary on Nazi persecution of gay men under Paragraph 175. Character identities are drawn from real survivors' recorded testimonies (treated as self-identified-public). Source text mentions German language; subtitle availability not stated. Content warnings note extreme concentration-camp violence, graphic descriptions of prisoner deaths, and Holocaust-related persecution of gay and Jewish people — a human maintainer should verify whether additional trigger tags (e.g., sexual-violence) apply. Historical-context rep_quality reflects documentary testimony of real historical persecution."
+}

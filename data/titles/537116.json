@@ -1,0 +1,32 @@
+{
+  "tmdb_id": 537116,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Michael",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Michael is Larson's best friend, an out gay man who reveals he is HIV-positive and cannot access the personal happiness Larson takes for granted. Sympathetic and central, but critics noted the film 'views the AIDS crisis from the perspective of a straight male who did not contract the disease,' limiting his interiority.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "hiv-aids",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Michael is explicitly gay and HIV-positive per the source text. Rep_quality marked 'mixed' based on the cited critical observation that the AIDS crisis is filtered through a straight protagonist's viewpoint. The 'Sunday' sequence references the AIDS epidemic's toll via Rent cast members playing homeless characters. No subtitle/audio languages or creator identities are discussed in the source text. Larson himself is depicted as straight per the plot (girlfriend Susan). Maintainer should verify whether the 'tragic-queer'/AIDS-narrative framing warrants a trope tag — I left it off since Michael survives on screen and the text doesn't state his death."
+}

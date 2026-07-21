@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 664300,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Danielle",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a 'directionless young bisexual Jewish woman' who has relationships with both a male sugar daddy and her ex-girlfriend Maya; framed as an authentic exploration of identity and self-worth, called one of the best bisexual films by a critic.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Maya",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Danielle's ex-girlfriend and a love interest she reconnects with; her prior relationship with Danielle is stated in the plot, but no specific label for Maya is given so the queer umbrella is used.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Emma Seligman",
+      "role": "writer",
+      "identities": [
+        "bisexual"
+      ],
+      "source": "self-identified-public",
+      "notes": "Writer-director who drew on her own bisexuality when developing the character of Danielle, per the source text."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation",
+    "happy-ending"
+  ],
+  "contributor_notes": "Danielle's bisexuality is explicit in the source text and drawn from writer-director Emma Seligman's own experience (own-voices). Maya is confirmed as an ex-girlfriend but given no specific label, so tagged under the queer umbrella; a maintainer may refine. Content warnings noted in source (sexual content/nudity, sex work references, infidelity, anxiety-inducing tension) do not map cleanly to the available trigger_warnings enum, so that array is left empty. Ending described as hopeful/healthier path, hence happy-ending. Subtitle and audio language info not provided."
+}

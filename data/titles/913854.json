@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 913854,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Agnes (and other archival case study subjects)",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "The documentary centers on transgender clients from Harold Garfinkel's 1950s UCLA gender clinic case studies, portrayed through reenactments by transgender actors within a historical framing of trans icons and identity.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Chase Joynt",
+      "role": "director",
+      "identities": [
+        "transgender"
+      ],
+      "source": "inferred",
+      "notes": "Directed this documentary centering transgender histories; the source text describes the trans-focused approach but does not explicitly state Joynt's own identity, so this is an inference and should be verified by the maintainer."
+    }
+  ],
+  "trigger_warnings": [
+    "transphobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Source text lists trigger warnings for historical medical gatekeeping/pathologization of trans identities and transphobia. The reenactments feature transgender actors playing historical case study subjects. Chase Joynt's personal identity is not explicitly stated in the source text and is marked 'inferred'—please verify. No subtitle or audio language info provided. Won a GLAAD Media Award and premiered at Sundance 2022."
+}

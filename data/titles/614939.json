@@ -1,0 +1,62 @@
+{
+  "tmdb_id": 614939,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Bobby Lieber",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an outspoken gay man deeply embedded in queer activism; a central romantic lead in a mainstream gay rom-com.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Aaron Shepard",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly a gay man whose more reserved, 'straight-acting' presentation is used to explore tensions about authenticity and assimilation within LGBTQ+ relationships.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Billy Eichner",
+      "role": "writer",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Openly gay; co-wrote the screenplay with director Nicholas Stoller and starred as Bobby, bringing an authentic queer perspective to mainstream filmmaking."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Billy Eichner",
+      "role": "actor",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Starred as the lead character Bobby Lieber."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "own-voices"
+  ],
+  "contributor_notes": "Source notes the couple separates but reunites, supporting a happy-ending tag. Marketed as one of the first gay rom-coms from a major studio (Universal) with an openly LGBTQ principal cast, and it won the 2023 GLAAD Media Award for Outstanding Film - Wide Release. Spicy level not specified in source; set conservatively and should be verified. No languages/subtitles mentioned in source."
+}

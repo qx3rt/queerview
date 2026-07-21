@@ -1,0 +1,77 @@
+{
+  "tmdb_id": 1058678,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Daniella Carter",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Real Black trans woman documented sharing her own narrative as a sex worker; own-voices approach centers her personal story without othering.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Dominique Silver",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Real Black trans woman whose lived experience guides the documentary's storytelling.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Koko Da Doll",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Real Black trans woman documented through interviews and reenactments, portrayed with optimism amid adverse circumstances.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Liyah Mitchell",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Real Black trans woman sharing her own experiences as a sex worker in her own voice.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "D. Smith",
+      "role": "director",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Grammy-winning music producer and self-identified Black trans woman who developed this deeply own-voices project while unhoused after transitioning."
+    }
+  ],
+  "trigger_warnings": [
+    "transphobia",
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Documentary featuring four real Black trans women; subjects and director are identified in the source as trans. Source lists trigger warnings including sex work and homelessness, which have no matching schema enum values; poverty and transphobia are captured. No subtitle or audio language info provided. Maintainer should verify individuals' preferred identity labels."
+}

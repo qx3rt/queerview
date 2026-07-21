@@ -1,0 +1,32 @@
+{
+  "tmdb_id": 1360,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Frida Kahlo",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The film openly depicts Kahlo, a real historical figure, taking male and female lovers; her relationships with both men and women are portrayed as central to her life story.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Frida Kahlo is a real historical figure; the film explicitly portrays her as bisexual. Content warnings from source (chronic pain/disability from the bus accident, miscarriage, infidelity) do not all map to available enum options—only alcoholism maps to 'addiction'. No subtitle or audio language info provided. Creator identities not discussed in source, so queer_creators left empty. Maintainer should verify."
+}

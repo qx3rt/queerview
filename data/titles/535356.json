@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 535356,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Spanish"
+  ],
+  "queer_characters": [
+    {
+      "name": "Elisa Sanchez Loriga",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Portrayed as a real historical lesbian woman who disguised herself as a man to legally marry Marcela in 1901 Spain; her disguise reflects the era's constraints rather than a trans identity per the source.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Marcela Gracia Ibeas",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Described as a real historical lesbian woman and Elisa's wife in the first recorded same-sex marriage in Spain.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Based on a true story of the 1901 marriage of Elisa Sanchez Loriga and Marcela Gracia Ibeas. Note the plot involves Elisa disguising as a man for legal marriage — the source frames both women as lesbians, not as a trans narrative, but a maintainer may want to review this framing. Trigger warnings could also include parental separation (forced to leave their child), which isn't in the provided enum. A closing postscript notes same-sex relationships remain criminalized in many countries. Critical reception was mixed (47% RT). Subtitle availability not specified in source."
+}

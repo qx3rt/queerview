@@ -1,0 +1,33 @@
+{
+  "tmdb_id": 114524,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Jeffrey Sevcik",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described in the source text as 'a gay man' among the five individuals memorialized in the AIDS Memorial Quilt; presented within a real-life documentary honoring those lost to AIDS.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "hiv-aids",
+    "character-death",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "The source text explicitly identifies only Jeffrey Sevcik as gay. Other memorialized subjects (Dr. Tom Waddell, David Mandell Jr., Robert Perryman, David C. Campbell) are not described with any queer identity in the provided text, so none were tagged despite the film's AIDS/LGBTQ subject matter. A maintainer with additional sourcing may be able to add confirmed identities for others. 'addiction' trigger reflects the noted intravenous drug use; 'character-death' reflects the documentary's focus on people who died of AIDS. No subtitle or audio-language info was provided."
+}

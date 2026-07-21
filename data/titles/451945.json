@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 451945,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [
+    "French"
+  ],
+  "queer_characters": [
+    {
+      "name": "Sean Dalmazo",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "HIV-positive gay man and veteran ACT UP Paris activist; his illness and death are central to a film depicting the real-life AIDS crisis and activist response, framing his death within historical activism rather than gratuitous tragedy.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Nathan",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "HIV-negative gay man who forms a loving emotional and sexual relationship with Sean; portrayed as a full character within the activist community.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "hiv-aids"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Sophie is described as a female ACT UP Paris activist but the source text does not state any queer identity for her, so she is not included. A euthanasia scene and Sean's death are present; the death is embedded in a historical AIDS-crisis narrative rather than functioning as a standalone 'bury your gays' trope, but a maintainer may wish to reassess trope tagging. No subtitle or dub information was provided beyond the original French language. Spicy level estimated from mention of sexual content; verify against actual footage."
+}

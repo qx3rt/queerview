@@ -1,0 +1,69 @@
+{
+  "tmdb_id": 1833,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Tom Collins",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay anarchist philosophy professor living with AIDS; part of a central, loving relationship with Angel.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Angel Dumott Schunard",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A drag queen and street musician in a loving relationship with Collins; portrayed warmly but dies from AIDS, contributing to a tragic arc.",
+      "contested": true,
+      "contest_notes": "Source describes Angel as a 'drag queen' and Collins's partner but does not specify Angel's gender identity; readings vary between a gay man doing drag and a more expansive gender-nonconforming/trans interpretation. Source text does not resolve this."
+    },
+    {
+      "name": "Maureen Johnson",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a bisexual performance artist, currently in a relationship with Joanne.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Joanne Jefferson",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a lesbian, Harvard-educated lawyer and Maureen's girlfriend.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "addiction",
+    "suicide",
+    "hiv-aids",
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "found-family"
+  ],
+  "contributor_notes": "Identities for Collins, Maureen, and Joanne are explicit in the provided plot text. Angel is described as a drag queen and Collins's partner, so tagged 'gay' provisionally; the source does not state Angel's gender identity, so this is flagged as contested for a maintainer to review. Angel's death from AIDS could arguably fit a 'bury-your-gays'/'tragic-queer' framing, but I did not tag it because the source frames AIDS as a central historical theme rather than gratuitous; a maintainer should decide with fuller context. No subtitle or audio-language info was provided. 'found-family' inferred from the bohemian ensemble framing but should be verified."
+}

@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 506281,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Abigail",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A grieving frontier farmwife married to Dyer who falls in love with her neighbor Tallie; their bond evolves into an explicit physical affair. Portrayed sympathetically as a central love story, but framed within tragedy. Source text labels her lesbian/queer, but as a woman in a marriage to a man who loves a woman, 'queer' is used as the umbrella label absent clearer self-identification in the text.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Tallie",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Abigail's neighbor and lover, trapped in an abusive marriage to Finney. Her queerness is explicit in the physical affair with Abigail. Rep is mixed because the character dies, contributing to a tragic-queer arc. 'Queer' used as umbrella label since the text does not support a firmer self-identification.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "domestic-abuse",
+    "character-death"
+  ],
+  "rep_tropes": [
+    "bury-your-gays",
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Won the Queer Lion at Venice 2020. Source text tags both leads as lesbian/queer, but since both are women married to men who fall in love with each other, I used the 'queer' umbrella label rather than 'lesbian' or 'bisexual' absent explicit self-identification in the provided text — a maintainer may wish to refine. Bury-your-gays and tragic-queer flagged because Tallie dies (allegedly of diphtheria) and the affair ends in loss. Content warnings cover Finney's domestic abuse of Tallie and Tallie's death; grief over a child's death is also present but not mapped to an available warning enum. No subtitle or audio language info provided."
+}

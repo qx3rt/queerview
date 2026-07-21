@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 971699,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Jean",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central character explicitly described as a closeted lesbian PE teacher navigating Section 28-era Britain; her interiority and struggle drive the narrative.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Viv",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as Jean's girlfriend and a lesbian, frustrated by Jean's closeting; part of the private lesbian community depicted.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lois",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Described as a student Jean is attracted to; the source does not explicitly state Lois's own identity, so any queerness here is inferred and involves teacher-student dynamics flagged in content considerations.",
+      "contested": true,
+      "contest_notes": "Source text only mentions Jean's attraction to Lois, not Lois's own stated identity; whether Lois is a queer character is unconfirmed by the provided text."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Source confirms Jean and Viv as lesbian characters explicitly. Lois is only referenced via Jean's attraction; her own identity is not stated, so I marked her inferred and contested pending maintainer review. Section 28 provides strong period-specific homophobia context. Spicy level estimated low-moderate as source does not detail explicit content. No subtitle/audio language info provided. No creator identity info provided."
+}

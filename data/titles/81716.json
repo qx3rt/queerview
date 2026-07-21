@@ -1,0 +1,18 @@
+{
+  "tmdb_id": 81716,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "hiv-aids",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "This documentary covers the HIV/AIDS crisis in San Francisco through five interviewees (a counselor, political activist, HIV-positive artist, dancer/florist, and nurse in clinical trials). The source text does not provide the interviewees' names or explicitly state their sexual orientations or gender identities, so no queer_characters entries were drafted despite the film's strong association with the gay community's experience of the epidemic. A maintainer with access to the film should add named subjects and sourced identity tags. No director/creator names were provided in the source text. Trigger warnings drawn from the provided list: AIDS deaths and bereavement (hiv-aids, character-death); the text also mentions grief, terminal illness, and mortality which are not in the controlled vocabulary. Spicy level set to 1 as no sexual content is indicated for a documentary of interviews. Subtitle and audio language info was not mentioned in the source."
+}

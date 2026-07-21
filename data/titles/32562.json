@@ -1,0 +1,30 @@
+{
+  "tmdb_id": 32562,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Rob Epstein",
+      "role": "director",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source text describes Epstein as a 'gay documentarian' who directed alongside collaborators."
+    }
+  ],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "This is a documentary analyzing Hollywood's historical portrayal of LGBTQ characters (sissy characters, coded gays, cruel stereotypes, censorship under the Production Code), not a narrative title with its own queer characters, so queer_characters is left empty. The film critiques harmful tropes rather than employing them, so rep_tropes was left empty; a maintainer may wish to reconsider whether the documented stereotypes warrant tagging. Rob Epstein is described in the source as a 'gay documentarian'; sourced as self-identified-public since the exact attribution isn't given. Adapted from Vito Russo's 1981 book. No subtitle/audio language info provided. Maintainer should verify creator identity sourcing and consider adding co-directors/interviewees if details become available."
+}
