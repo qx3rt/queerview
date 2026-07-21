@@ -1,0 +1,56 @@
+{
+  "tmdb_id": 428493,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 4,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Johnny Saxby",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Depicted as a closeted farmer whose arc moves from repression—binge drinking and anonymous encounters—toward self-acceptance and choosing love, a hopeful and layered portrayal.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Gheorghe Ionescu",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Romanian migrant worker who becomes Johnny's romantic partner; portrayed with emotional maturity and tenderness rather than as a stereotype. Text confirms a same-sex romantic relationship but does not give him a specific self-label.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Francis Lee",
+      "role": "director",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Described in the source as an openly gay filmmaker who drew on personal experience for the autobiographical narrative; also credited as writer."
+    }
+  ],
+  "trigger_warnings": [
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "own-voices",
+    "explicit-representation",
+    "no-death"
+  ],
+  "contributor_notes": "Both leads' queerness is explicit in the text via their romantic/sexual relationship. Gheorghe is tagged 'gay' based on the same-sex relationship, but the source gives no explicit self-label for him—a maintainer may prefer 'queer' or 'unlabeled'. Source notes explicit sexual content (spicy level 4) and that the film ends hopefully, deliberately contrasting with the tragic 'Brokeback Mountain' pattern, so no bury-your-gays trope applies. Addiction warning drawn from Johnny's binge drinking; no audio/subtitle languages were mentioned in the source."
+}

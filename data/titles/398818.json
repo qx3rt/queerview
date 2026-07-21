@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 398818,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Elio Perlman",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The film explicitly depicts Elio's sexual awakening through a romantic and sexual relationship with Oliver. The source text does not specify a more precise label (e.g. gay or bisexual), so the umbrella 'queer' tag is used.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Oliver",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Oliver is explicitly shown in a same-sex sexual relationship with Elio, but the story concludes with his engagement (to a woman, implied by 'engagement announcement'). The source does not specify a precise label, so 'queer' is used. Rep marked mixed because the source notes documented critical concern about the age-gap and power dynamic in the relationship.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Both leads are explicitly involved in a same-sex relationship per the plot, but the source text does not provide specific identity labels, so the 'queer' umbrella is applied to both. The source text explicitly does NOT disclose the sexual orientations of director Luca Guadagnino, screenwriter James Ivory, or actors Timothee Chalamet and Armie Hammer, so no queer_creators are listed — a maintainer may add these if reliable sourcing exists. Note the documented age-gap controversy (17-year-old Elio and 24-year-old Oliver); this is not a listed trigger-warning enum value but a maintainer may wish to flag it. Spicy level set to 3 as an estimate based on the described sexual relationship; adjust with viewing knowledge."
+}

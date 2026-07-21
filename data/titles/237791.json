@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 237791,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Leonardo",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source explicitly states Leonardo 'embraces his identity as gay' and falls in love with Gabriel; portrayed as intelligent, capable, with personal agency rather than as a helpless or tragic figure.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Gabriel",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Gabriel is described as Leonardo's romantic interest who reciprocates a same-gender relationship; the source does not assign him an explicit label, so 'gay' is inferred from the mutual romance.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Leonardo's gay identity is explicit in the source; Gabriel's specific label is inferred from the reciprocated same-gender relationship and should be verified. Won the Teddy Award for best LGBT-themed feature at Berlin 2014. Source describes a 'clear happy ending.' No subtitle/audio language info provided. Director Daniel Ribeiro's own identity is not addressed in the source, so no creator identity tags were added."
+}

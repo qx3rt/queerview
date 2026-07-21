@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 11240,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Omar Ali",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "British-Pakistani protagonist who enters into an explicit same-sex romance with Johnny; central to the plot rather than tokenized.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Johnny Burfoot",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Working-class English punk who is Omar's love interest in an on-screen romantic relationship. Note: source text confirms the romance but does not specify a self-applied label, so 'gay' reflects the same-sex relationship depicted.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "racism",
+    "homophobia",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "period-piece"
+  ],
+  "contributor_notes": "Identity labels for Omar and Johnny are drawn from the explicit same-sex romance in the plot; the source text does not state characters' self-applied labels, so a maintainer may wish to consider 'queer' or 'bisexual' if fuller sourcing supports it. Trigger warnings for violence, alcoholism, and drug trafficking are noted in the source but only mappable enum values were used (addiction covers alcoholism; drug trafficking has no exact enum). Hanif Kureishi is credited as screenwriter but no queer identity is confirmed, so no queer_creators entries were added. Spicy level estimated conservatively as no explicit-content detail is given."
+}

@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 901563,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Leo",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "historical-context",
+      "source": "inferred",
+      "notes": "Leo's intimacy with Remi is queer-coded but never explicitly labeled; the film centers on how societal assumptions read their bond as romantic. Any queer identity is a reading of subtext, not stated in text.",
+      "contested": true,
+      "contest_notes": "Director Dhont explicitly stated the film 'is not about their sexuality' and deliberately avoids confirming or denying the boys' orientation. Some read Leo as queer/questioning; the text supports neither confirmation nor denial."
+    },
+    {
+      "name": "Remi",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "historical-context",
+      "source": "inferred",
+      "notes": "Remi's deep intimacy with Leo is queer-coded; his death follows homophobic social pressure. No explicit orientation is stated in the film.",
+      "contested": true,
+      "contest_notes": "The film deliberately avoids labeling Remi's sexuality; Dhont framed the story as about intimacy and how it is perceived rather than confirmed queerness."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "suicide",
+    "character-death"
+  ],
+  "rep_tropes": [
+    "tragic-queer",
+    "bury-your-gays"
+  ],
+  "community_tags": [],
+  "contributor_notes": "Per the source, Close deliberately avoids explicit queer labeling; both boys are queer-coded rather than confirmed queer, so all identity tags are marked 'inferred' and contested. The tragic-queer and bury-your-gays tropes are noted because a queer-coded character (Remi) dies by suicide following homophobic pressure, but a maintainer should weigh that against Dhont's stated intent that the film transcends queer experience alone. No subtitle/audio info was provided in the source. Please review contested flags carefully."
+}

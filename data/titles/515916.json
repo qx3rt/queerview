@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 515916,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Lara Verhaeghen",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Lara is explicitly a 15-year-old transgender girl undergoing transition. Reception is split: 83% RT praise for poignant drama, but trans critics condemned exploitative framing (camera dwelling on her crotch, focus on breasts/vagina) and the self-mutilation scene as 'trans trauma porn,' while the real-life inspiration Nora Monsecour defended it as authentic to her experience.",
+      "contested": true,
+      "contest_notes": "Rep quality is genuinely disputed: trans critics (Rodriguez, Brennan, Whitney) call it dangerous and exploitative, while Monsecour, the trans dancer who inspired it, defends it as authentic and says the self-harm was crucial to depict as metaphor for suicidal ideation."
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Nora Monsecour",
+      "role": "producer",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Trans Belgian dancer who inspired the film and collaborated on the project (uncredited). Exact production role is unclear from the source; listed here to credit her involvement, pending maintainer correction."
+    }
+  ],
+  "trigger_warnings": [
+    "transphobia",
+    "self-harm",
+    "suicide"
+  ],
+  "rep_tropes": [
+    "tragic-queer"
+  ],
+  "community_tags": [],
+  "contributor_notes": "Lara is played by Victor Polster, a cisgender male, chosen after gender-neutral casting; this casting choice was a major point of criticism. Director Lukas Dhont's identity is not stated in the source. Nora Monsecour's production role is ambiguous ('collaborated uncredited') — please verify before publishing. rep_quality flagged contested per the source's explicit note. No subtitle/audio languages mentioned in source. The self-harm/genital mutilation scene is central and heavily criticized; suicide trigger reflects Monsecour's framing of it as suicidal-ideation metaphor."
+}

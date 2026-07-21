@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 39781,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Nic Allgood",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as one half of a married lesbian couple; OB/GYN and biological mother of Joni, portrayed as part of a grounded family unit.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jules Allgood",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly part of the married lesbian couple, but her affair with the male sperm donor is read by some critics and queer viewers as undermining the lesbian relationship or reinforcing a 'just needs the right man' narrative.",
+      "contested": true,
+      "contest_notes": "The film labels the couple as lesbian, but Jules's affair with a man led some viewers to question or reinterpret her sexuality; the source presents this only as a controversial plot reading, not a stated bisexual identity."
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Lisa Cholodenko",
+      "role": "director",
+      "identities": [
+        "lesbian"
+      ],
+      "source": "self-identified-public",
+      "notes": "Director and writer who drew on her own life as a lesbian parent who used an anonymous sperm donor; became pregnant during production."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [
+    "queer-as-phase"
+  ],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Nic and Jules are explicitly a married lesbian couple per the plot description. The central controversy is the infidelity subplot, which some critics read as invoking a 'just needs the right man' trope; I tagged this tentatively as queer-as-phase but a maintainer should review whether that trope fits, as the source frames it as a contested reading rather than an authorial intent. Roger Ebert's note that the film is 'about marriage itself' rather than lesbianism may inform rep discussion. No trigger warnings clearly supported by the source text; infidelity is present but not in the enum. Spicy level estimated at 2 based on affair plot but not detailed in source."
+}

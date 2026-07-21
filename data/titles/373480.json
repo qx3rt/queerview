@@ -1,0 +1,76 @@
+{
+  "tmdb_id": 373480,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Gia Marie Love",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Real community activist featured advocating for HIV/STI prevention within the ballroom scene; a member of the LGBTQ community depicted, though the source text does not specify a precise identity label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Chi Chi Mizrahi",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "Real community activist shown advocating for HIV/STI prevention; part of the LGBTQ youth-of-color community profiled, with no more specific identity stated in the source.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Trans women subjects (unnamed)",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The documentary follows several trans women's transitions over multiple years of filming, including issues of access to hormone replacement therapy; the source explicitly identifies them as trans women.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Twiggy Pucci Garcon",
+      "role": "writer",
+      "identities": [
+        "queer"
+      ],
+      "source": "inferred",
+      "notes": "Described as a community leader in the drag/voguing ball scene who invited the director to make the film and co-wrote it; the source frames this as an own-voices project but does not state a specific identity label."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Sara Jordeno",
+      "role": "director",
+      "identities": [],
+      "source": "inferred",
+      "notes": "Director invited by community leader Twiggy Pucci Garcon; the source text does not state Jordeno's identity."
+    }
+  ],
+  "trigger_warnings": [
+    "hiv-aids",
+    "poverty",
+    "transphobia",
+    "racism"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "found-family"
+  ],
+  "contributor_notes": "Documentary profiling real LGBTQ youth of color in NYC ball culture; subjects are real people, so identity tags reflect their public participation in the community rather than fictional characterization. Specific labels (beyond the explicitly stated 'trans women') were not detailed in the source, so 'queer' umbrella is used. Creator identities are inferred from the own-voices framing and should be verified by a maintainer. Consider adding homophobia/discrimination and violence warnings if a more detailed source confirms specifics."
+}

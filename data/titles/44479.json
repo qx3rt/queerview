@@ -1,0 +1,87 @@
+{
+  "tmdb_id": 44479,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Cheryl",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a Black lesbian filmmaker protagonist; a fully realized central character whose life and relationships drive the narrative.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Diana",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a white lesbian whom Cheryl dates during production.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Fae Richards",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "A fictional 1930s-40s Black lesbian actress whose queerness is uncovered through Cheryl's documentary; framed as recovering an erased queer history.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "June Walker",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Described as a Black woman who was Fae's long-term partner of 20 years; the source states the relationship but does not assign her a specific label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Shirley Hamilton",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an older Black lesbian, a friend of Cheryl's mother, offering intergenerational queer presence.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Cheryl Dunye",
+      "role": "director",
+      "identities": [
+        "lesbian"
+      ],
+      "source": "self-identified-public",
+      "notes": "Directed, wrote, edited, and starred in the film; described as the first feature directed by a Black lesbian and stated 'our stories have never been told.'"
+    }
+  ],
+  "trigger_warnings": [
+    "racism"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "The film is a mockumentary blending fiction and documentary, with Dunye playing a version of herself. Fae Richards and June Walker are fictional 1930s-40s figures depicted via staged archival materials, hence historical-context rep_quality. Spicy level defaulted to 1 as the source text does not describe explicit sexual content. No subtitle or audio language info provided. Racism trigger warning drawn from the description of 'mammy' roles Fae was relegated to; a maintainer should verify scope."
+}

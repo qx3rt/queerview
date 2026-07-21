@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 142,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ennis Del Mar",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A repressed, emotionally guarded cowboy in a decades-long secret romantic relationship with Jack; his queerness is depicted through the on-screen relationship but never labeled within the film.",
+      "contested": true,
+      "contest_notes": "The film sparked debate over whether the characters are gay, bisexual, or 'two souls that fell in love.' Heath Ledger stated he didn't think Ennis could be labeled gay, while Jake Gyllenhaal called it 'a gay love story.'"
+    },
+    {
+      "name": "Jack Twist",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "The more openly affectionate partner in the relationship; keeps Ennis's shirt, signaling enduring love. Queerness shown through the relationship but not explicitly labeled in the film.",
+      "contested": true,
+      "contest_notes": "Same public debate as Ennis over whether the characters are gay, bisexual, or simply two people in love; the source text does not settle a specific label."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death"
+  ],
+  "rep_tropes": [
+    "bury-your-gays",
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Source text explicitly frames the film as embodying tragic-queer-romance and bury-your-gays conventions (Jack dies, possibly murdered; Ennis grieves alone). Character identities left as 'queer' umbrella because the film never states a specific label and the source describes active debate among cast and audiences. Homophobic violence appears via Ennis's haunting childhood memory of a murdered gay man. No subtitle/audio language info or queer creator identities provided in source. Human maintainer should verify labels and consider whether Best Director/Screenplay/Score creators have public identities to add."
+}

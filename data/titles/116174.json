@@ -1,0 +1,90 @@
+{
+  "tmdb_id": 116174,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ritchie Tozer",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay teenager who is a central member of the friendship group living fiercely through the crisis.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Roscoe Babatunde",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay man from a Nigerian family that disowned him; his story engages both queerness and family rejection.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Colin Morris-Jones",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Gay man from Wales whose AIDS diagnosis and death is a key plotline; rendered within the show's commemorative depiction of the epidemic rather than as gratuitous tragedy.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ash Mukherjee",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Identified as a gay man within the core friend group.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Gregory Finch",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay character working as a bus conductor.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Russell T Davies",
+      "role": "creator",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Openly gay writer who developed the series from his own and his friends' experiences to commemorate those who died from AIDS, and intentionally cast gay actors to create a safe space on set."
+    }
+  ],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death",
+    "hiv-aids"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Jill Baxter is described as a straight ally, so she is not listed among queer characters. Colin's death is part of the AIDS crisis narrative and framed commemoratively; a maintainer may wish to consider whether bury-your-gays/tragic-queer tropes apply, but the source frames it as historical context rather than as a critique-worthy trope. Subtitle and audio language info was not provided in the source text."
+}
