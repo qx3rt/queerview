@@ -8,7 +8,9 @@ import { withBase } from '../../lib/paths';
 export async function getStaticPaths() {
   const ids = new Set<number>();
   for (const t of getAllTitles()) {
-    for (const c of t.queer_creators) ids.add(c.tmdb_person_id);
+    for (const c of t.queer_creators) {
+      if (c.tmdb_person_id != null) ids.add(c.tmdb_person_id);
+    }
   }
   return [...ids].map((id) => ({ params: { tmdb_person_id: String(id) } }));
 }
