@@ -1,0 +1,55 @@
+{
+  "tmdb_id": 73939,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Alike (\"Lee\")",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist whose self-acceptance as a butch lesbian is the emotional core of the narrative; ends on an empowered note choosing college and self over running away.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Laura",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as Alike's 'openly lesbian friend' who supports her through her journey.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Bina",
+      "identities": [
+        "questioning"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Love interest who shares a romantic encounter with Alike but denies being 'really gay-gay,' framing it as 'playful indulgence'; her rejection of the label complicates her representation.",
+      "contested": true,
+      "contest_notes": "The source text states Bina has a romantic encounter with Alike but explicitly denies a lesbian identity, so whether she is queer or experimenting is left ambiguous."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "child-abuse",
+    "domestic-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Director/writer Dee Rees expanded this from her 2007 short; the source article provides no personal identity information for her, so she is not tagged as a queer creator despite the strong own-voices reputation of the film — a maintainer should verify. Bina's identity is deliberately left contested per the source. Trigger warnings for the mother's violent rejection are inferred from 'viciously attacks'; confirm whether to classify as child-abuse and/or domestic-abuse. Ending appears hopeful but is not unambiguously a 'happy-ending,' so that tag was omitted pending review."
+}

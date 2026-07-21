@@ -1,0 +1,60 @@
+{
+  "tmdb_id": 152584,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 5,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Adele",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Source describes her as 'exploring her bisexuality.' Scholarly critics raised concerns about bisexual erasure and a depiction some found performative, hence mixed.",
+      "contested": true,
+      "contest_notes": "Her queerness itself is not disputed, but reviewers debate whether the film authentically represents her bisexuality or erases it in favor of a lesbian framing filtered through a heterosexual male director's gaze."
+    },
+    {
+      "name": "Emma",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Depicted only in relationships with women (Adele, later Lise), so read as lesbian though no explicit label is given in the source. LGBT reviewers criticized the film's 'male fantasies of lesbianism' as inauthentic.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Valentin",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an 'openly gay friend' who introduces Adele to gay spaces.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lise",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Emma's colleague and eventual partner; her relationship with a woman is stated but no specific identity label is given in the source, so the umbrella 'queer' tag is used.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Source flags a significant representation debate: feminist and LGBT reviewers criticized the 'patriarchal gaze' and 'male fantasies of lesbianism,' and graphic novel author Jul Maroh felt the depiction missed something essential about actual lesbians. Concerns about bisexual erasure and a heterosexual male director capturing lesbian experience are noted but do not map cleanly to the available rep_tropes enum values, so tropes were left empty for maintainer review. Reported labor violations and difficult filming conditions for the actresses are noted in the source. Class-based discrimination is present but does not map cleanly to a trigger_warnings enum value. No languages were specified in the source, so subtitle/audio fields are empty. Maintainer: please verify Emma's and Lise's specific labels and revisit trope tagging for bisexual erasure."
+}

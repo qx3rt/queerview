@@ -1,0 +1,88 @@
+{
+  "tmdb_id": 61664,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 4,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Nomi Marks",
+      "identities": [
+        "transgender",
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly portrayed as a trans woman hacktivist; her transgender experience is explored directly and partly drawn from Lana Wachowski's own life. The 'queer' tag reflects her relationship with her girlfriend Amanita; a more specific sexuality label is not stated in the source.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Amanita",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as Nomi's girlfriend; a woman in a relationship with a woman. Source text does not give a more specific label, so the 'queer' umbrella is used.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lito Rodriguez",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a closeted gay actor living with his boyfriend Hernando; his experience with homophobia and being closeted is part of the story.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Hernando",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Described as Lito's boyfriend; a man in a relationship with a man. Source text does not explicitly label his identity, so this is inferred from the relationship.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Lana Wachowski",
+      "role": "creator",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Co-created the series; described as a trans woman who wrote her first transgender character (Nomi) drawing on her own experiences."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Lilly Wachowski",
+      "role": "creator",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Co-created the series; described as a trans woman who stepped back from writing/directing Season 2 after completing her gender transition."
+    }
+  ],
+  "trigger_warnings": [
+    "homophobia",
+    "hiv-aids"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "own-voices"
+  ],
+  "contributor_notes": "Sourced from provided text only. Nomi's and Amanita's specific sexual orientations aren't explicitly labeled, so the 'queer' umbrella is used; Hernando's identity is inferred from his relationship. Jamie Clayton's personal identity is not stated in the source text, so no creator identity tag was added for the actor. Spicy level 4 reflects the noted explicit group intimacy scene—maintainer should verify. Subtitle/audio languages were not discussed in the source."
+}

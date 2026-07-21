@@ -1,0 +1,87 @@
+{
+  "tmdb_id": 10139,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Harvey Milk",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Depicted as the first openly gay man elected to public office in California; portrayed as a heroic activist fighting anti-gay legislation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Scott Smith",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as Milk's lover with whom he moves to San Francisco, reflecting Milk's life as an openly gay man.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jack Lira",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Depicted as Milk's romantic partner and 'a sweet-natured but unbalanced young man,' framing his role around the personal toll of Milk's political devotion.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Cleve Jones",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Portrayed as Milk's mentee within the emerging gay activist movement.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Gus Van Sant",
+      "role": "director",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source describes him as an openly gay filmmaker, though the excerpt does not state it directly within the film."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Dustin Lance Black",
+      "role": "writer",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source describes him as a publicly gay screenwriter and activist who won the Academy Award for Best Original Screenplay."
+    }
+  ],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "own-voices"
+  ],
+  "contributor_notes": "Based on the true story of Harvey Milk; character deaths (Milk and Moscone's assassination) are historical fact rather than a bury-your-gays narrative choice, so that trope was not applied. Van Sant and Black are noted as publicly gay per the source but the excerpt says this is not stated directly in the film text — a maintainer may want to verify sourcing. Sean Penn has no disclosed queer identity and is excluded. Subtitle/audio languages not mentioned in source."
+}

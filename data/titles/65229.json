@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 65229,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Laure (\"Mickael\")",
+      "identities": [
+        "questioning",
+        "genderqueer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "A 10-year-old assigned female who adopts a male name and masculine presentation. The source states the film is deliberately ambiguous about gender identity, crafted so both a transgender viewer and a heterosexual woman could recognize themselves. These identity tags are my reading of that ambiguity, not stated in the text.",
+      "contested": true,
+      "contest_notes": "The director intentionally left the character's gender open to multiple interpretations; per Ebert, the viewer sees a boy or girl depending on their own reading. Some frame the film as trans childhood, others as gender-nonconforming girlhood, and IndieWire lists it as lesbian film despite the protagonist being a child whose orientation is never depicted."
+    },
+    {
+      "name": "Lisa",
+      "identities": [
+        "questioning"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "A girl who becomes romantically involved with Laure/Mickael, whom she believes to be a boy. Any queer reading of Lisa depends entirely on how one interprets Laure's gender, which the film leaves ambiguous.",
+      "contested": true,
+      "contest_notes": "Because the protagonist's gender is deliberately unresolved, whether Lisa's attraction reads as same-sex or opposite-sex is undetermined by the source text."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "The source emphasizes deliberate ambiguity about the protagonist's gender identity, so all identity tags here are inferred readings and marked contested. No information about director Celine Sciamma's personal identity was provided, so she is not listed as a queer creator. IndieWire's inclusion of the film among lesbian films is noted in the source as debatable since the child protagonist's adult orientation is never shown. Trigger warnings for the social rejection depicted may warrant review by a maintainer; I left them empty since the source did not specify homophobic/transphobic content explicitly. The 'explicit-representation' community tag reflects that gender nonconformity is central and on-screen, though it is intentionally unlabeled."
+}

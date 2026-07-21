@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 258480,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Carol Aird",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist in a romantic and consummated relationship with Therese; portrayal praised for avoiding butch/sexy-lesbian stereotypes and depicting a woman with agency who chooses to live authentically.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Therese Belivet",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Aspiring photographer who forms and consummates a romantic relationship with Carol; framed as a strong woman in love, part of the acclaimed depiction of genuine connection between two women.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Abby Gerhard",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as Carol's ex-lover, representing her past; a supporting figure rather than a fully developed arc.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms Carol and Therese as a lesbian couple and Abby as Carol's ex-lover; identities marked explicit-in-text accordingly. Source describes an ending with 'the possibility of their reunion' — hopeful but not definitively a happy ending, so happy-ending was not tagged. Trigger warnings for custody loss, criminalization, and surveillance are noted in the source but fall outside the available enum; only homophobia mapped cleanly. No creator/cast queer identities are stated in the source, so queer_creators left empty. Maintainer should verify subtitle/audio availability and any creator identities from other sources."
+}
