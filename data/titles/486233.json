@@ -1,0 +1,52 @@
+{
+  "tmdb_id": 486233,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Gillian",
+      "identities": [
+        "lesbian",
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Introduced as a lesbian activist; over the course of the film she realizes she is bisexual. The relationship ends over the dishonesty at its foundation, and her arc is entangled with the film's contested deception premise.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Adam",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "harmful",
+      "source": "inferred",
+      "notes": "Adam is described as a cisgender teenager who falsely claims to be a transgender man to pursue Gillian. He is not stated to be queer; his placement here is only to flag that the plot centers a cis person deceptively adopting a trans identity, which drove community backlash. Rep quality flagged harmful because the deception premise itself was widely criticized within LGBTQ+ communities.",
+      "contested": true,
+      "contest_notes": "The source text notes significant community debate and boycott calls over the gender-deception plot, versus trans director Rhys Ernst's defense that he told the story from a trans perspective and altered the source novel. Whether the framing is harmful or a defensible trans-authored work is genuinely disputed."
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Rhys Ernst",
+      "role": "director",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source text states Ernst is himself trans and made a primary condition of his involvement that the story be told from a trans perspective, changing substantial elements from the source novel."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "Own-voices tag applied because the trans director shaped the project from a trans perspective per the source. The central deception plot (a cis person posing as trans) is a genuinely contested rep case per the Content Note: community backlash/boycott calls vs. the trans director's defense. Human maintainer should review whether a rep_trope like 'deceptive-trans' applies — the source text describes a cis character faking a trans identity rather than a trans character being deceptive, so I left tropes empty pending review. No subtitle/audio languages, spice level, or specific trigger content are stated in the source; spicy_level set to a conservative 2 and should be verified."
+}

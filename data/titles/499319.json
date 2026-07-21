@@ -1,0 +1,40 @@
+{
+  "tmdb_id": 499319,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 4,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Naima",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as a queer woman; a central lead in a female-driven story exploring intimacy and vulnerability, given substantial interiority rather than tokenized.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Sergio",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as a queer free-spirited performer; a fully realized romantic/sexual lead who drives the plot's central experiment.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text labels both leads as 'queer women' without a more specific label (lesbian/bisexual etc.), so the umbrella 'queer' tag is used. Content warnings note explicit sexual content and anxiety/panic attacks; no enum trigger warning cleanly maps to panic attacks, so trigger_warnings left empty pending maintainer review. No information on creators, subtitles, or audio languages in the source. Spicy level set to 4 based on described explicit sexual content and group sex, but maintainer may adjust."
+}

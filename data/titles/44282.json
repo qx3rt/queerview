@@ -1,0 +1,51 @@
+{
+  "tmdb_id": 44282,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Bruno",
+      "identities": [
+        "bisexual",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Initially presented as straight, schemes to seduce Pablo but genuinely develops romantic feelings for him, ending the film together with him. Arc reads as a bisexual/questioning awakening.",
+      "contested": true,
+      "contest_notes": "His exact label is not stated; the arc supports either a bisexual reading or a questioning/newly-realized attraction reading."
+    },
+    {
+      "name": "Pablo",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Reveals he was attracted to Bruno all along, evidenced by a photo he kept; ends the film romantically with Bruno while having dated Laura, supporting a bisexual reading.",
+      "contested": true,
+      "contest_notes": "Source text notes the reveal supports either a bisexual or gay reading; his prior relationship with Laura leaves the specific label ambiguous."
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Marco Berger",
+      "role": "director",
+      "identities": [],
+      "source": "inferred",
+      "notes": "Known for centering ambiguous/understated queer male desire in Argentine cinema; the source text does not state his own identity, so no identity tag is asserted."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Argentine comedy-drama centering slow-burn queer male desire. Both leads' specific labels are ambiguous in the source text (bisexual vs gay/questioning) and marked contested accordingly. Ends with the two men together romantically. Director Marco Berger's own identity is not stated in the source, so no identity claim was made. Subtitle/audio language info not provided. Please verify."
+}

@@ -1,0 +1,32 @@
+{
+  "tmdb_id": 440424,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Billy Bloom",
+      "identities": [
+        "genderqueer",
+        "unlabeled",
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Presented as flamboyant and gender-nonconforming (dresses, makeup, theatrical outfits); source states his gender identity is deliberately left unlabeled, focusing on self-expression rather than a fixed label. Reception was mixed, with one critic feeling the film 'presumes more love for its fabulous hero than it earns.'",
+      "contested": true,
+      "contest_notes": "The source notes other characters question his sexuality and one critic frames it as a 'gay coming-of-age tale,' but the plot itself does not explicitly define his sexuality or gender identity, leaving his queerness open to interpretation."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Billy's queerness is central but deliberately unlabeled in the source; I applied umbrella and gender-nonconforming tags accordingly. The film includes a severe beating that puts Billy in a coma (physical violence/bullying) — note that generic 'violence' and 'bullying' are not in the trigger-warning enum, so a maintainer may want to flag them another way. Alcohol use appears via his alcoholic mother (tagged as addiction). Please verify subtitle/audio language availability, as the source text does not mention them."
+}

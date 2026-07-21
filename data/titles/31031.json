@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 31031,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Miriam",
+      "identities": [
+        "lesbian",
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a conventional Indian South African wife and mother who discovers personal agency through her deepening emotional and romantic relationship with Amina; praised by LGBTQ+ media as part of one of the best-conceived queer films.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Amina",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Independent, boundary-breaking cafe owner explicitly framed as a lesbian who embodies freedom and challenges the social norms of apartheid-era society.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "racism"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Source labels Miriam as lesbian/queer; she is a married mother whose relationship with Amina is central, so both explicit tags are retained per source text. No creator/crew identity information was provided, so queer_creators left empty. Rep_quality marked positive based on LGBTQ+ media praise cited in the source. Source notes sexism and domestic subjugation as content warnings, but these did not map cleanly to a schema trigger enum; maintainer may wish to review whether domestic-abuse applies. No subtitle or audio language info in source."
+}

@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 370663,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 5,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Dallas",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as a lesbian roofer seeking genuine intimacy with Jasmine; critics noted the film prioritized explicit content over character development, limiting the depth of her portrayal.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jasmine",
+      "identities": [
+        "bisexual",
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Source frames her as a 'queer/bisexual reading' given she is engaged to a man (Rile) while falling for Dallas; her exact identity is not stated by the film, so labels are inferred from subtext.",
+      "contested": true,
+      "contest_notes": "The source text itself offers Jasmine's queerness as a 'reading' rather than a stated fact, and offers both bisexual and broader queer framings; she is initially closeted and returns to her engagement before reconciling with Dallas."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Spicy level set to 5 based on source noting 'extensive sexual content throughout' and that the film prioritized explicit content over storytelling. Included happy-ending tag because the source states the two 'eventually reconcile.' Infidelity is a central theme but is not represented in the trigger_warnings enum, so it was omitted. No subtitle or audio language information was provided. No queer creators were mentioned in the source. Rep quality marked 'mixed' given the predominantly negative critical reception and noted lack of character development, but a maintainer should verify. Jasmine's identity labels are inferred from the source's own 'reading' language and should be reviewed."
+}

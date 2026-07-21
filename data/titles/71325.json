@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 71325,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Swedish"
+  ],
+  "queer_characters": [
+    {
+      "name": "Mia",
+      "identities": [
+        "bisexual",
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Engaged to a man but falls in love with Frida and ultimately chooses to pursue a relationship with her, framed as a genuine romantic awakening with a happy ending.",
+      "contested": true,
+      "contest_notes": "The source describes Mia as 'bisexual/lesbian' without settling on a single label; her prior engagement to Tim leaves room for a bisexual reading, while her decisive choice of Frida supports a lesbian reading."
+    },
+    {
+      "name": "Frida",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a lesbian love interest who pursues the relationship with Mia despite the family complication; portrayed sympathetically as fun-loving.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Mia's specific identity label is ambiguous in the source ('bisexual/lesbian') and left contested. Infidelity/relationship dissolution noted as a central plot element but not covered by available trigger warning enums. Audio listed as Swedish based on the original title; subtitle availability not stated in source. Please verify identity labels and language metadata before publishing."
+}

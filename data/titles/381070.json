@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 381070,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Sahil",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A Mumbai musician who develops romantic feelings for his old friend Jai; portrayal is sensitive but the arc involves a sexual assault and an unresolved, painful rejection.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jai",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A New York-based businessman in a relationship with boyfriend Alex; his complicated feelings for Sahil end in rejection, and his character is entangled in the film's assault storyline.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Alex",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "tokenized",
+      "source": "explicit-in-text",
+      "notes": "Described only as Jai's boyfriend who arrives late in the story; a minor figure with little development beyond his relationship role.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "sexual-violence"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text notes the film was 'quietly revolutionary' given India's legal context before Section 377 was struck down, which could support a period-piece/historical-context framing on review. Both leads are described as gay and the same-sex romance is explicit in the plot, so identities are tagged explicit-in-text. A significant content warning: the film contains a non-consensual sexual assault scene between the two leads that the characters do not address. No information on subtitles, audio languages, or creators was provided in the source; a maintainer should verify these. Rep quality marked 'mixed' due to the assault and unresolved/tragic relationship arc despite praised sensitivity — worth a maintainer's closer judgment."
+}

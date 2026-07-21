@@ -1,0 +1,35 @@
+{
+  "tmdb_id": 46773,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Filipino"
+  ],
+  "queer_characters": [
+    {
+      "name": "Maxi (Maximo Oliveros)",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in the plot as a 12-year-old effeminate gay boy; the source notes he is portrayed with dignity and complexity, and critics praised the sensitive, dignified handling of youth sexuality.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "child-abuse",
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Maxi's gay identity is explicit in the plot summary. The film ends ambiguously with Maxi ignoring Victor, which may read as bittersweet rather than a happy ending, so no happy-ending tag was applied. Content warning 'child-abuse' covers the attempted child molestation scene; general violence noted in source has no matching enum. No creator identity information was provided in the source text. Please verify subtitle/audio availability, as the source only implies the film is Filipino-language."
+}

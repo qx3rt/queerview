@@ -1,0 +1,29 @@
+{
+  "tmdb_id": 400547,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Richard/Bianca Del Rio",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a gay schoolteacher who is outed and fired; uses his drag persona to confront and expose the homophobic discrimination that cost him his job.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Richard is a gay man; Bianca Del Rio is his drag persona (drag is a performance art, not a gender identity, so no separate identity tag was applied). Source text does not confirm creators' identities, subtitle or audio languages. Central theme is LGBTQ+ employment discrimination (legal in Texas at the time) played for comedy with stated intent to raise awareness. Maintainer should verify language availability and any creator self-identification."
+}

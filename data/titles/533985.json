@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 533985,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Laurel",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Trans woman protagonist whose identity is central and treated matter-of-factly rather than as a plot twist; she becomes coven leader. Some critics felt the trans/feminist themes were flirted with but not deeply developed.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Izzy",
+      "identities": [
+        "lesbian",
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Member of the all-female vampire coven and Laurel's love interest; described as queer/lesbian in the source.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "sexual-violence",
+    "suicide"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "happy-ending"
+  ],
+  "contributor_notes": "Source text names two queer characters: Laurel (trans woman, central and matter-of-fact) and Izzy (queer/lesbian love interest). No creator identities were provided, so queer_creators left empty. Trigger warnings drawn from listed content: rape references and a character's suicide attempt; general violence/blood scenes noted but do not map to enum values. Critics noted the film touches on trans/lesbian/feminist identification points without substantial development — a maintainer may wish to reconsider rep_quality as 'mixed'. Spicy level estimated as low based on romance mention with no explicit content described. Subtitle/audio languages not discussed in source."
+}

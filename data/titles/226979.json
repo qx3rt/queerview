@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 226979,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Frankie",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a gay dancer navigating fear and stigma during the early AIDS crisis; portrayed with humanism per critical reception.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Todd",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a gay dancer and Frankie's love interest.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "hiv-aids",
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text describes two explicitly gay main characters in a 1985 San Francisco AIDS-crisis drama. HIV/AIDS and homophobia/stigma trigger warnings drawn from plot and content note. Spicy level set to 3 based on mentioned sexual content, but this is an estimate needing verification. No creators named in source, and no subtitle/audio language info provided. Some critics felt it lacked depth about '80s gay life — maintainer may wish to reflect this in rep_quality."
+}
