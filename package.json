@@ -8,9 +8,11 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "pretag": "node scripts/pretag.mjs"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.112.4",
     "astro": "^5.1.1"
   },
   "devDependencies": {
