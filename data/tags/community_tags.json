@@ -1,0 +1,8 @@
+[
+  { "slug": "happy-ending", "label": "Happy Ending", "description": "Queer characters get a genuinely happy resolution." },
+  { "slug": "found-family", "label": "Found Family", "description": "Found family dynamics central to the story." },
+  { "slug": "own-voices", "label": "Own Voices", "description": "Created by queer people telling queer stories." },
+  { "slug": "explicit-representation", "label": "Explicit Representation", "description": "Queerness stated explicitly, not subtext." },
+  { "slug": "period-piece", "label": "Period Piece", "description": "Historical setting with queer characters." },
+  { "slug": "no-death", "label": "No Death", "description": "No queer character deaths (useful filter for trauma-sensitive viewers)." }
+]

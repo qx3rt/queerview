@@ -1,0 +1,20 @@
+[
+  { "slug": "lesbian", "label": "Lesbian", "description": "A woman whose primary romantic/sexual attraction is to other women.", "category": "sexual-orientation" },
+  { "slug": "gay", "label": "Gay", "description": "Primary romantic/sexual attraction to the same gender.", "category": "sexual-orientation" },
+  { "slug": "bisexual", "label": "Bisexual", "description": "Romantic/sexual attraction to more than one gender.", "category": "sexual-orientation" },
+  { "slug": "pansexual", "label": "Pansexual", "description": "Romantic/sexual attraction regardless of gender.", "category": "sexual-orientation" },
+  { "slug": "asexual", "label": "Asexual", "description": "Experiences little or no sexual attraction.", "category": "sexual-orientation" },
+  { "slug": "aromantic", "label": "Aromantic", "description": "Experiences little or no romantic attraction.", "category": "sexual-orientation" },
+  { "slug": "queer", "label": "Queer", "description": "Umbrella term used when a more specific label is not confirmed or appropriate.", "category": "sexual-orientation" },
+  { "slug": "questioning", "label": "Questioning", "description": "In the process of exploring their own sexual orientation or gender identity.", "category": "sexual-orientation" },
+  { "slug": "unlabeled", "label": "Unlabeled", "description": "Explicitly does not use a specific label for their orientation.", "category": "sexual-orientation" },
+  { "slug": "transgender", "label": "Transgender", "description": "Gender identity differs from sex assigned at birth.", "category": "gender-identity" },
+  { "slug": "nonbinary", "label": "Nonbinary", "description": "Gender identity outside the male/female binary.", "category": "gender-identity" },
+  { "slug": "genderfluid", "label": "Genderfluid", "description": "Gender identity that shifts over time.", "category": "gender-identity" },
+  { "slug": "genderqueer", "label": "Genderqueer", "description": "Gender identity that rejects or expands binary categories.", "category": "gender-identity" },
+  { "slug": "agender", "label": "Agender", "description": "Identifies as having no gender.", "category": "gender-identity" },
+  { "slug": "two-spirit", "label": "Two-Spirit", "description": "A gender identity used by some Indigenous North Americans encompassing cultural, spiritual, sexual, and gender roles.", "category": "gender-identity" },
+  { "slug": "intersex", "label": "Intersex", "description": "Born with sex characteristics that don't fit typical binary notions of male or female bodies.", "category": "gender-identity" },
+  { "slug": "polyamorous", "label": "Polyamorous", "description": "Practices or is open to consensual relationships with multiple partners.", "category": "relationship-structure" },
+  { "slug": "relationship-anarchist", "label": "Relationship Anarchist", "description": "Rejects predefined relationship structures and hierarchies.", "category": "relationship-structure" }
+]

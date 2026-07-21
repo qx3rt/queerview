@@ -1,0 +1,85 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { withBase } from '../lib/paths';
+---
+
+<Layout title="About" description="Queerview's mission and values.">
+  <h1>About Queerview</h1>
+  <p class="lede">
+    Queerview is a searchable, taggable database of film and television content featuring queer
+    characters and/or created by queer people. It exists to help community members discover media,
+    understand how their identities are represented, and contribute their knowledge to a shared
+    resource.
+  </p>
+
+  <section>
+    <h2>Values</h2>
+    <ul>
+      <li><strong>Truthfulness</strong> — tags are sourced and contestable, not authoritative by fiat.</li>
+      <li>
+        <strong>Welcome</strong> — the experience should feel warm and accessible to anyone in or
+        adjacent to the LGBTQ+ community, regardless of how they identify.
+      </li>
+      <li>
+        <strong>Humility</strong> — no single person's queer experience is universal; the system is
+        designed to hold complexity rather than flatten it.
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>How tagging works</h2>
+    <p>
+      Contestation is displayed, not hidden — a character entry can be marked contested with notes
+      explaining the disagreement. Facts and interpretation are kept separate: whether a character
+      appears in a work is a fact, whether their portrayal constitutes a particular trope is an
+      interpretation, and interpretive tags require a brief argument in their notes. Sources are
+      weighted — claims sourced from public self-identification or explicit text carry more weight
+      than inferred readings, and the site always surfaces which kind of source backs a tag.
+    </p>
+    <p>
+      What is never up for debate: the validity of any identity in the vocabulary. See the
+      <a href={withBase('tags')}>full tag vocabulary</a> for details.
+    </p>
+  </section>
+
+  <section>
+    <h2>TMDB attribution</h2>
+    <p>
+      This product uses the TMDB API but is not endorsed or certified by TMDB. Title, cast, crew,
+      and poster data comes from TMDB; all queer-specific metadata is maintained independently by
+      Queerview.
+    </p>
+  </section>
+</Layout>
+
+<style>
+  .lede {
+    max-width: 42rem;
+    color: var(--text-muted);
+    font-size: 1.05rem;
+  }
+
+  section {
+    margin-top: 2.5rem;
+    max-width: 42rem;
+  }
+
+  section h2 {
+    font-size: 1.15rem;
+    margin-bottom: 0.75rem;
+  }
+
+  ul {
+    padding-left: 1.25rem;
+  }
+
+  li {
+    margin-bottom: 0.6rem;
+  }
+
+  p {
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+</style>

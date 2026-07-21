@@ -1,0 +1,52 @@
+{
+  "tmdb_id": 79084,
+  "media_type": "tv",
+  "added_by": "maintainer",
+  "verified": true,
+  "spicy_level": 3,
+  "subtitles_available": ["en", "es"],
+  "audio_languages": ["en"],
+  "original_language_override": null,
+  "queer_characters": [
+    {
+      "name": "Blanca Evangelista",
+      "identities": ["transgender"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "House mother central to the ballroom family; storyline centers ambition, chosen family, and dignity.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Angel Evangelista",
+      "identities": ["transgender"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": 52779,
+      "name": "Ryan Murphy",
+      "role": "creator",
+      "identities": ["gay"],
+      "source": "self-identified-public",
+      "notes": "Co-creator and executive producer; publicly out."
+    },
+    {
+      "tmdb_person_id": 1718964,
+      "name": "Janet Mock",
+      "role": "writer",
+      "identities": ["transgender"],
+      "source": "self-identified-public",
+      "notes": "Writer, director, and producer on the series; first trans woman of color to write and direct an episode of television for a major U.S. network."
+    }
+  ],
+  "trigger_warnings": ["homophobia", "transphobia", "domestic-abuse", "addiction"],
+  "rep_tropes": [],
+  "community_tags": ["own-voices", "found-family", "explicit-representation"],
+  "contributor_notes": "Largest cast of transgender actors in series regular roles for a scripted series at the time of its premiere. Set in NYC ballroom culture across the late 1980s–1990s."
+}

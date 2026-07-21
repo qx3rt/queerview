@@ -1,0 +1,150 @@
+---
+import { withBase } from '../lib/paths';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'A community-powered queer film and TV database.' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>{title} · Queerview</title>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href={withBase('/')}>Queerview</a>
+        <nav>
+          <a href={withBase('browse')}>Browse</a>
+          <a href={withBase('tags')}>Tags</a>
+          <a href={withBase('contribute')}>Contribute</a>
+          <a href={withBase('about')}>About</a>
+        </nav>
+      </header>
+      <main>
+        <slot />
+      </main>
+      <footer class="site-footer">
+        <p>
+          This website uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise
+          approved by TMDB.
+        </p>
+        <p class="fine-print">Queerview is an independent, community-powered project.</p>
+      </footer>
+    </div>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --bg: #171226;
+    --bg-elevated: #1f1836;
+    --text: #f2eefc;
+    --text-muted: #b7abd6;
+    --accent-coral: #ff6f61;
+    --accent-gold: #e8b64c;
+    --accent-pink: #f2a6c6;
+    --border: #372c54;
+    --serif: 'DM Serif Display', Georgia, serif;
+    --sans: 'DM Sans', system-ui, sans-serif;
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #faf7f2;
+      --bg-elevated: #ffffff;
+      --text: #241a35;
+      --text-muted: #5b4d78;
+      --border: #e3dcf0;
+    }
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    line-height: 1.5;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--serif);
+    font-weight: 400;
+    letter-spacing: 0.01em;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  .site-shell {
+    max-width: 72rem;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .brand {
+    font-family: var(--serif);
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: var(--accent-coral);
+  }
+
+  .site-header nav {
+    display: flex;
+    gap: 1.5rem;
+  }
+
+  .site-header nav a {
+    text-decoration: none;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+  }
+
+  .site-header nav a:hover {
+    color: var(--accent-pink);
+  }
+
+  main {
+    flex: 1;
+    padding: 2.5rem 0;
+  }
+
+  .site-footer {
+    border-top: 1px solid var(--border);
+    padding: 1.5rem 0 2.5rem;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+  }
+
+  .fine-print {
+    opacity: 0.7;
+  }
+</style>

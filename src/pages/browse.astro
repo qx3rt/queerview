@@ -1,0 +1,298 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getAllTitles, getTagVocab } from '../lib/data';
+import { getMovie, getTvShow, tmdbPosterUrl, isTmdbConfigured } from '../lib/tmdb';
+
+const titles = getAllTitles();
+const identities = getTagVocab('identities');
+const repQualities = getTagVocab('rep_quality');
+const triggerWarnings = getTagVocab('trigger_warnings');
+
+const configured = isTmdbConfigured();
+
+const rows = configured
+  ? await Promise.all(
+      titles.map(async (t) => {
+        const tmdb = t.media_type === 'movie' ? await getMovie(t.tmdb_id) : await getTvShow(t.tmdb_id);
+        const name = 'title' in tmdb ? tmdb.title : tmdb.name;
+        return {
+          tmdb_id: t.tmdb_id,
+          media_type: t.media_type,
+          name,
+          poster: tmdbPosterUrl(tmdb.poster_path),
+          original_language: t.original_language_override ?? tmdb.original_language,
+          genres: tmdb.genres.map((g) => g.name.toLowerCase()),
+          identities: [...new Set(t.queer_characters.flatMap((c) => c.identities))],
+          rep_qualities: [...new Set(t.queer_characters.map((c) => c.rep_quality))],
+          spicy_level: t.spicy_level,
+          subtitles_available: t.subtitles_available,
+          trigger_warnings: t.trigger_warnings,
+        };
+      })
+    )
+  : [];
+---
+
+<Layout title="Browse">
+  <h1>Browse</h1>
+
+  {!configured && (
+    <p class="notice">
+      Add a <code>PUBLIC_TMDB_TOKEN</code> to your <code>.env</code> file (see
+      <code>.env.example</code>) to enable browsing — titles are merged with live TMDB data at
+      build time.
+    </p>
+  )}
+
+  {configured && (
+    <>
+      <div class="filters" id="filters">
+        <div class="filter-group">
+          <label for="q">Search</label>
+          <input type="search" id="q" placeholder="Title name…" />
+        </div>
+        <div class="filter-group">
+          <label for="media_type">Media type</label>
+          <select id="media_type">
+            <option value="">All</option>
+            <option value="movie">Film</option>
+            <option value="tv">TV</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="identity">Identity</label>
+          <select id="identity">
+            <option value="">All</option>
+            {identities.map((i) => <option value={i.slug}>{i.label}</option>)}
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="rep_quality">Rep quality</label>
+          <select id="rep_quality">
+            <option value="">All</option>
+            {repQualities.map((r) => <option value={r.slug}>{r.label}</option>)}
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="spicy_level">Max spicy level</label>
+          <select id="spicy_level">
+            <option value="">Any</option>
+            {[1, 2, 3, 4, 5].map((n) => <option value={n}>{n}</option>)}
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="exclude_tw">Exclude trigger warning</label>
+          <select id="exclude_tw">
+            <option value="">None</option>
+            {triggerWarnings.map((tw) => <option value={tw.slug}>{tw.label}</option>)}
+          </select>
+        </div>
+      </div>
+
+      <p id="result-count" class="result-count"></p>
+      <div class="grid" id="results"></div>
+      <p id="empty-state" class="notice" hidden>No titles match those filters yet.</p>
+    </>
+  )}
+
+  <script type="application/json" id="titles-data" set:html={JSON.stringify(rows)} is:inline />
+</Layout>
+
+<script>
+  interface Row {
+    tmdb_id: number;
+    media_type: string;
+    name: string;
+    poster: string | null;
+    original_language: string;
+    genres: string[];
+    identities: string[];
+    rep_qualities: string[];
+    spicy_level: number;
+    subtitles_available: string[];
+    trigger_warnings: string[];
+  }
+
+  const dataEl = document.getElementById('titles-data');
+  const rows: Row[] = dataEl ? JSON.parse(dataEl.textContent || '[]') : [];
+  const base = document.querySelector('.brand')?.getAttribute('href')?.replace(/\/$/, '') ?? '';
+
+  const resultsEl = document.getElementById('results');
+  const countEl = document.getElementById('result-count');
+  const emptyEl = document.getElementById('empty-state');
+
+  const qEl = document.getElementById('q') as HTMLInputElement | null;
+  const mediaTypeEl = document.getElementById('media_type') as HTMLSelectElement | null;
+  const identityEl = document.getElementById('identity') as HTMLSelectElement | null;
+  const repQualityEl = document.getElementById('rep_quality') as HTMLSelectElement | null;
+  const spicyEl = document.getElementById('spicy_level') as HTMLSelectElement | null;
+  const excludeTwEl = document.getElementById('exclude_tw') as HTMLSelectElement | null;
+
+  const params = new URLSearchParams(window.location.search);
+  if (qEl && params.get('q')) qEl.value = params.get('q')!;
+  if (identityEl && params.get('identity')) identityEl.value = params.get('identity')!;
+
+  function render() {
+    if (!resultsEl || !countEl || !emptyEl) return;
+    const q = qEl?.value.trim().toLowerCase() ?? '';
+    const mediaType = mediaTypeEl?.value ?? '';
+    const identity = identityEl?.value ?? '';
+    const repQuality = repQualityEl?.value ?? '';
+    const spicyMax = spicyEl?.value ? Number(spicyEl.value) : null;
+    const excludeTw = excludeTwEl?.value ?? '';
+
+    const filtered = rows.filter((r) => {
+      if (q && !r.name.toLowerCase().includes(q)) return false;
+      if (mediaType && r.media_type !== mediaType) return false;
+      if (identity && !r.identities.includes(identity)) return false;
+      if (repQuality && !r.rep_qualities.includes(repQuality)) return false;
+      if (spicyMax !== null && r.spicy_level > spicyMax) return false;
+      if (excludeTw && r.trigger_warnings.includes(excludeTw)) return false;
+      return true;
+    });
+
+    countEl.textContent = `${filtered.length} title${filtered.length === 1 ? '' : 's'}`;
+    emptyEl.hidden = filtered.length > 0;
+
+    resultsEl.innerHTML = filtered
+      .map(
+        (r) => `
+        <a class="title-card" href="${base}/title/${r.tmdb_id}">
+          <div class="poster">${
+            r.poster ? `<img src="${r.poster}" alt="" loading="lazy" />` : '<div class="poster-fallback">No poster</div>'
+          }</div>
+          <div class="card-body">
+            <h3>${r.name}</h3>
+            <div class="pills">${r.identities
+              .slice(0, 3)
+              .map((i) => `<span class="tag-pill default">${i}</span>`)
+              .join('')}</div>
+          </div>
+        </a>`
+      )
+      .join('');
+  }
+
+  [qEl, mediaTypeEl, identityEl, repQualityEl, spicyEl, excludeTwEl].forEach((el) =>
+    el?.addEventListener('input', render)
+  );
+
+  render();
+</script>
+
+<style>
+  h1 {
+    margin-bottom: 1.5rem;
+  }
+
+  .filters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .filter-group label {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .filter-group input,
+  .filter-group select {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    color: var(--text);
+    font-family: var(--sans);
+  }
+
+  .result-count {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-bottom: 1rem;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+    gap: 1.25rem;
+  }
+
+  .notice {
+    color: var(--text-muted);
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+
+  .notice code {
+    color: var(--accent-gold);
+  }
+</style>
+
+<style is:global>
+  #results .title-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    overflow: hidden;
+  }
+
+  #results .poster {
+    aspect-ratio: 2 / 3;
+    background: #100c1c;
+  }
+
+  #results .poster img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  #results .poster-fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+  }
+
+  #results .card-body {
+    padding: 0.85rem;
+  }
+
+  #results .card-body h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+    font-family: var(--serif);
+    font-weight: 400;
+  }
+
+  #results .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+
+  #results .tag-pill {
+    display: inline-block;
+    padding: 0.2rem 0.65rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    border: 1px solid var(--accent-pink);
+    color: var(--accent-pink);
+  }
+</style>

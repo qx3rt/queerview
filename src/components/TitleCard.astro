@@ -1,0 +1,83 @@
+---
+import TagPill from './TagPill.astro';
+import SpicyLevel from './SpicyLevel.astro';
+import type { TitleEntry } from '../lib/types';
+import { labelFor } from '../lib/data';
+import { withBase } from '../lib/paths';
+
+interface Props {
+  title: TitleEntry;
+  displayName?: string;
+  posterUrl?: string | null;
+}
+const { title, displayName, posterUrl } = Astro.props;
+const identities = [...new Set(title.queer_characters.flatMap((c) => c.identities))];
+---
+
+<a class="title-card" href={withBase(`title/${title.tmdb_id}`)}>
+  <div class="poster">
+    {posterUrl ? <img src={posterUrl} alt="" loading="lazy" /> : <div class="poster-fallback">No poster</div>}
+  </div>
+  <div class="card-body">
+    <h3>{displayName ?? `TMDB #${title.tmdb_id}`}</h3>
+    <div class="pills">
+      {identities.slice(0, 3).map((id) => <TagPill label={labelFor('identities', id)} />)}
+    </div>
+    <SpicyLevel level={title.spicy_level} />
+  </div>
+</a>
+
+<style>
+  .title-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    overflow: hidden;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+
+  .title-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent-pink);
+  }
+
+  .poster {
+    aspect-ratio: 2 / 3;
+    background: #100c1c;
+  }
+
+  .poster img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .poster-fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+  }
+
+  .card-body {
+    padding: 0.85rem;
+  }
+
+  .card-body h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+  }
+
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.6rem;
+  }
+</style>

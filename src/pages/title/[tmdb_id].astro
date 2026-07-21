@@ -1,0 +1,233 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TagPill from '../../components/TagPill.astro';
+import SpicyLevel from '../../components/SpicyLevel.astro';
+import { getAllTitles, labelFor } from '../../lib/data';
+import { getMovie, getTvShow, tmdbPosterUrl, isTmdbConfigured } from '../../lib/tmdb';
+import { withBase } from '../../lib/paths';
+
+export async function getStaticPaths() {
+  return getAllTitles().map((t) => ({ params: { tmdb_id: String(t.tmdb_id) } }));
+}
+
+const { tmdb_id } = Astro.params;
+const title = getAllTitles().find((t) => String(t.tmdb_id) === tmdb_id)!;
+const configured = isTmdbConfigured();
+
+const tmdb = configured
+  ? title.media_type === 'movie'
+    ? await getMovie(title.tmdb_id)
+    : await getTvShow(title.tmdb_id)
+  : null;
+
+const name = tmdb ? ('title' in tmdb ? tmdb.title : tmdb.name) : `TMDB #${title.tmdb_id}`;
+const releaseDate = tmdb ? ('release_date' in tmdb ? tmdb.release_date : tmdb.first_air_date) : null;
+const overview = tmdb?.overview ?? null;
+const posterUrl = tmdb ? tmdbPosterUrl(tmdb.poster_path, 'w500') : null;
+const originalLanguage = title.original_language_override ?? tmdb?.original_language ?? null;
+---
+
+<Layout title={name} description={overview ?? undefined}>
+  <div class="title-page">
+    <div class="poster-col">
+      {posterUrl ? <img src={posterUrl} alt={`Poster for ${name}`} /> : <div class="poster-fallback">No poster</div>}
+    </div>
+    <div class="info-col">
+      <h1>{name}</h1>
+      <p class="meta">
+        {title.media_type === 'movie' ? 'Film' : 'TV'}
+        {releaseDate ? ` · ${releaseDate.slice(0, 4)}` : ''}
+        {originalLanguage ? ` · ${originalLanguage.toUpperCase()}` : ''}
+      </p>
+      <SpicyLevel level={title.spicy_level} />
+
+      {!title.verified && <p class="unverified">⚠ This entry has not been fully verified yet.</p>}
+
+      {overview && <p class="overview">{overview}</p>}
+
+      <section>
+        <h2>Queer characters</h2>
+        {title.queer_characters.map((c) => (
+          <article class="character">
+            <h3>
+              {c.name}
+              {c.contested && <span class="contested-flag">Contested</span>}
+            </h3>
+            <div class="pills">
+              {c.identities.map((id) => <TagPill label={labelFor('identities', id)} />)}
+              <TagPill label={labelFor('rep_quality', c.rep_quality)} />
+            </div>
+            <p class="source">Source: {labelFor('source_types', c.source)}</p>
+            {c.notes && <p class="notes">{c.notes}</p>}
+            {c.contested && c.contest_notes && (
+              <p class="contest-notes"><strong>Contested:</strong> {c.contest_notes}</p>
+            )}
+          </article>
+        ))}
+      </section>
+
+      {title.queer_creators.length > 0 && (
+        <section>
+          <h2>Queer creators</h2>
+          {title.queer_creators.map((c) => (
+            <article class="creator">
+              <h3>
+                <a href={withBase(`person/${c.tmdb_person_id}`)}>{c.name}</a> — {labelFor('creator_roles', c.role)}
+              </h3>
+              <div class="pills">
+                {c.identities.map((id) => <TagPill label={labelFor('identities', id)} />)}
+              </div>
+              <p class="source">Source: {labelFor('source_types', c.source)}</p>
+              {c.notes && <p class="notes">{c.notes}</p>}
+            </article>
+          ))}
+        </section>
+      )}
+
+      {title.trigger_warnings.length > 0 && (
+        <section>
+          <h2>Trigger warnings</h2>
+          <div class="pills">
+            {title.trigger_warnings.map((tw) => <TagPill label={labelFor('trigger_warnings', tw)} variant="warning" />)}
+          </div>
+        </section>
+      )}
+
+      {title.rep_tropes.length > 0 && (
+        <section>
+          <h2>Tropes</h2>
+          <div class="pills">
+            {title.rep_tropes.map((rt) => <TagPill label={labelFor('rep_tropes', rt)} variant="trope" />)}
+          </div>
+        </section>
+      )}
+
+      {title.community_tags.length > 0 && (
+        <section>
+          <h2>Community tags</h2>
+          <div class="pills">
+            {title.community_tags.map((ct) => <TagPill label={labelFor('community_tags', ct)} />)}
+          </div>
+        </section>
+      )}
+
+      <section>
+        <h2>Language</h2>
+        <p class="lang-info">
+          Audio: {title.audio_languages.join(', ') || '—'}<br />
+          Subtitles: {title.subtitles_available.join(', ') || '—'}
+        </p>
+      </section>
+
+      {title.contributor_notes && (
+        <section>
+          <h2>Contributor notes</h2>
+          <p>{title.contributor_notes}</p>
+        </section>
+      )}
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .title-page {
+    display: grid;
+    grid-template-columns: 16rem 1fr;
+    gap: 2.5rem;
+  }
+
+  .poster-col img {
+    width: 100%;
+    border-radius: 0.75rem;
+  }
+
+  .poster-fallback {
+    aspect-ratio: 2 / 3;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+  }
+
+  h1 {
+    margin: 0 0 0.25rem;
+  }
+
+  .meta {
+    color: var(--text-muted);
+    margin: 0 0 0.75rem;
+  }
+
+  .unverified {
+    color: var(--accent-gold);
+    font-size: 0.9rem;
+  }
+
+  .overview {
+    color: var(--text-muted);
+    max-width: 40rem;
+  }
+
+  section {
+    margin-top: 2rem;
+  }
+
+  section h2 {
+    font-size: 1.15rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .character,
+  .creator {
+    margin-bottom: 1.25rem;
+  }
+
+  .character h3,
+  .creator h3 {
+    font-family: var(--sans);
+    font-size: 1rem;
+    margin: 0 0 0.5rem;
+  }
+
+  .contested-flag {
+    margin-left: 0.5rem;
+    font-size: 0.7rem;
+    color: var(--accent-gold);
+    border: 1px solid var(--accent-gold);
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+  }
+
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .source {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 0.25rem 0;
+  }
+
+  .notes,
+  .contest-notes {
+    font-size: 0.9rem;
+    margin: 0.25rem 0;
+  }
+
+  .lang-info {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  @media (max-width: 40rem) {
+    .title-page {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

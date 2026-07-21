@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 531428,
+  "media_type": "movie",
+  "added_by": "maintainer",
+  "verified": true,
+  "spicy_level": 3,
+  "subtitles_available": ["en", "fr", "es", "de"],
+  "audio_languages": ["fr"],
+  "original_language_override": null,
+  "queer_characters": [
+    {
+      "name": "Marianne",
+      "identities": ["lesbian"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A painter who falls in love with her subject; relationship is central and treated with dignity throughout.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Héloïse",
+      "identities": ["lesbian"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": 68813,
+      "name": "Céline Sciamma",
+      "role": "director",
+      "identities": ["lesbian"],
+      "source": "self-identified-public",
+      "notes": "Publicly out; frequently discusses her sapphic filmography in interviews."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": ["own-voices", "period-piece", "explicit-representation"],
+  "contributor_notes": "French period piece set in 18th-century Brittany. Widely regarded as a landmark of sapphic own-voices cinema."
+}

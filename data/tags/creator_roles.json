@@ -1,0 +1,9 @@
+[
+  { "slug": "director", "label": "Director", "description": "Directed the film or episode(s)." },
+  { "slug": "writer", "label": "Writer", "description": "Wrote or co-wrote the screenplay/teleplay." },
+  { "slug": "showrunner", "label": "Showrunner", "description": "Lead creative and production authority on a TV series." },
+  { "slug": "creator", "label": "Creator", "description": "Original creator of the series or source material." },
+  { "slug": "composer", "label": "Composer", "description": "Composed the score." },
+  { "slug": "producer", "label": "Producer", "description": "Produced the film or series." },
+  { "slug": "actor", "label": "Actor", "description": "Performed a role in the film or series." }
+]

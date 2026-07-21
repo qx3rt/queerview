@@ -1,0 +1,7 @@
+[
+  { "slug": "positive", "label": "Positive", "description": "Rounded character, identity treated with dignity, not defined solely by queerness." },
+  { "slug": "mixed", "label": "Mixed", "description": "Some positive elements, some problematic; nuance required." },
+  { "slug": "tokenized", "label": "Tokenized", "description": "Queer identity present but underdeveloped or used as set dressing." },
+  { "slug": "harmful", "label": "Harmful", "description": "Portrayal reinforces negative stereotypes or tropes." },
+  { "slug": "historical-context", "label": "Historical Context", "description": "Older work; assessed within its era rather than by current standards." }
+]

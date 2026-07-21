@@ -1,0 +1,16 @@
+[
+  { "slug": "homophobia", "label": "Homophobia", "description": "Depictions of anti-gay bigotry or discrimination." },
+  { "slug": "transphobia", "label": "Transphobia", "description": "Depictions of anti-trans bigotry or discrimination." },
+  { "slug": "biphobia", "label": "Biphobia", "description": "Depictions of anti-bisexual bigotry or erasure." },
+  { "slug": "conversion-therapy", "label": "Conversion Therapy", "description": "Depictions of attempts to change someone's sexual orientation or gender identity." },
+  { "slug": "character-death", "label": "Character Death", "description": "A queer character dies over the course of the story." },
+  { "slug": "sexual-violence", "label": "Sexual Violence", "description": "Depictions of sexual assault or coercion." },
+  { "slug": "self-harm", "label": "Self-Harm", "description": "Depictions of self-injury." },
+  { "slug": "suicide", "label": "Suicide", "description": "Depictions or discussion of suicide." },
+  { "slug": "addiction", "label": "Addiction", "description": "Depictions of substance abuse or dependency." },
+  { "slug": "domestic-abuse", "label": "Domestic Abuse", "description": "Depictions of abuse within a household or relationship." },
+  { "slug": "child-abuse", "label": "Child Abuse", "description": "Depictions of abuse toward a minor." },
+  { "slug": "racism", "label": "Racism", "description": "Depictions of racial discrimination or bigotry." },
+  { "slug": "misgendering", "label": "Misgendering", "description": "A character is repeatedly referred to with the wrong gender." },
+  { "slug": "deadnaming", "label": "Deadnaming", "description": "A trans or nonbinary character is referred to by a former name." }
+]

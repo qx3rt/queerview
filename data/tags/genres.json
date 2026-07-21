@@ -1,0 +1,11 @@
+[
+  { "slug": "coming-out-story", "label": "Coming-Out Story", "description": "Central narrative arc involves a character coming out." },
+  { "slug": "sapphic-romance", "label": "Sapphic Romance", "description": "Romance between women/nonbinary sapphic characters." },
+  { "slug": "gay-romance", "label": "Gay Romance", "description": "Romance between gay men." },
+  { "slug": "trans-narrative", "label": "Trans Narrative", "description": "Central narrative arc involves a trans or nonbinary character's experience." },
+  { "slug": "queer-horror", "label": "Queer Horror", "description": "Horror genre with queer characters or themes central to the story." },
+  { "slug": "camp", "label": "Camp", "description": "Deliberately exaggerated, theatrical, or ironic style." },
+  { "slug": "drag", "label": "Drag", "description": "Drag performance is central to the story or characters." },
+  { "slug": "new-queer-cinema", "label": "New Queer Cinema", "description": "Part of or influenced by the early-1990s New Queer Cinema movement." },
+  { "slug": "queer-documentary", "label": "Queer Documentary", "description": "Documentary focused on queer subjects, history, or community." }
+]

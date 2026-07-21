@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 124834,
+  "media_type": "tv",
+  "added_by": "maintainer",
+  "verified": true,
+  "spicy_level": 1,
+  "subtitles_available": ["en", "fr", "es", "de", "pt"],
+  "audio_languages": ["en"],
+  "original_language_override": null,
+  "queer_characters": [
+    {
+      "name": "Charlie Spring",
+      "identities": ["gay"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Coming-of-age romance handled with warmth; recovering from past bullying is part of his arc without defining the whole show.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Nick Nelson",
+      "identities": ["bisexual"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Bisexual awakening storyline treated as a real, gradual process rather than a punchline.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Elle Argent",
+      "identities": ["transgender", "lesbian"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Trans girl who transferred schools; storyline centers friendship and romance rather than transition trauma.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": 3350499,
+      "name": "Alice Oseman",
+      "role": "creator",
+      "identities": ["aromantic", "asexual"],
+      "source": "self-identified-public",
+      "notes": "Creator of the original webcomic/graphic novels and writer on the series; publicly identifies as aroace."
+    }
+  ],
+  "trigger_warnings": ["homophobia", "misgendering"],
+  "rep_tropes": [],
+  "community_tags": ["own-voices", "happy-ending", "found-family", "no-death"],
+  "contributor_notes": "Based on Alice Oseman's webcomic. Frequently cited as a gentle, low-angst entry point for younger or trauma-sensitive viewers."
+}

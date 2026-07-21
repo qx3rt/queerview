@@ -1,0 +1,119 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TagPill from '../../components/TagPill.astro';
+import { getAllTitles, labelFor } from '../../lib/data';
+import { getPerson, tmdbProfileUrl, isTmdbConfigured } from '../../lib/tmdb';
+import { withBase } from '../../lib/paths';
+
+export async function getStaticPaths() {
+  const ids = new Set<number>();
+  for (const t of getAllTitles()) {
+    for (const c of t.queer_creators) ids.add(c.tmdb_person_id);
+  }
+  return [...ids].map((id) => ({ params: { tmdb_person_id: String(id) } }));
+}
+
+const { tmdb_person_id } = Astro.params;
+const personId = Number(tmdb_person_id);
+const titles = getAllTitles();
+
+const appearances = titles
+  .map((t) => ({ title: t, creatorEntry: t.queer_creators.find((c) => c.tmdb_person_id === personId) }))
+  .filter((a): a is { title: (typeof titles)[number]; creatorEntry: NonNullable<(typeof a)['creatorEntry']> } =>
+    Boolean(a.creatorEntry)
+  );
+
+const localName = appearances[0]?.creatorEntry.name ?? `TMDB Person #${personId}`;
+const identities = [...new Set(appearances.flatMap((a) => a.creatorEntry.identities))];
+
+const configured = isTmdbConfigured();
+const person = configured ? await getPerson(personId) : null;
+const profileUrl = person ? tmdbProfileUrl(person.profile_path) : null;
+---
+
+<Layout title={localName} description={person?.biography?.slice(0, 200)}>
+  <div class="person-page">
+    <div class="profile-col">
+      {profileUrl ? <img src={profileUrl} alt={`Photo of ${localName}`} /> : <div class="profile-fallback">No photo</div>}
+    </div>
+    <div class="info-col">
+      <h1>{person?.name ?? localName}</h1>
+      <div class="pills">
+        {identities.map((id) => <TagPill label={labelFor('identities', id)} />)}
+      </div>
+
+      {person?.biography && <p class="bio">{person.biography}</p>}
+
+      <section>
+        <h2>Queerview credits</h2>
+        {appearances.map(({ title, creatorEntry }) => (
+          <article class="credit">
+            <a href={withBase(`title/${title.tmdb_id}`)}>TMDB #{title.tmdb_id}</a>
+            {' — '}
+            {labelFor('creator_roles', creatorEntry.role)}
+            <p class="source">Source: {labelFor('source_types', creatorEntry.source)}</p>
+          </article>
+        ))}
+      </section>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .person-page {
+    display: grid;
+    grid-template-columns: 12rem 1fr;
+    gap: 2.5rem;
+  }
+
+  .profile-col img {
+    width: 100%;
+    border-radius: 0.75rem;
+  }
+
+  .profile-fallback {
+    aspect-ratio: 1;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+  }
+
+  h1 {
+    margin: 0 0 0.75rem;
+  }
+
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+  }
+
+  .bio {
+    color: var(--text-muted);
+    max-width: 40rem;
+  }
+
+  section {
+    margin-top: 2rem;
+  }
+
+  .credit {
+    margin-bottom: 1rem;
+  }
+
+  .source {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  @media (max-width: 40rem) {
+    .person-page {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

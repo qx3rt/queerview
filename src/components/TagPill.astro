@@ -1,0 +1,38 @@
+---
+interface Props {
+  label: string;
+  variant?: 'default' | 'warning' | 'trope';
+}
+const { label, variant = 'default' } = Astro.props;
+---
+
+<span class:list={['tag-pill', variant]}>{label}</span>
+
+<style>
+  .tag-pill {
+    display: inline-block;
+    padding: 0.2rem 0.65rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-family: var(--sans);
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--text);
+    white-space: nowrap;
+  }
+
+  .tag-pill.default {
+    border-color: var(--accent-pink);
+    color: var(--accent-pink);
+  }
+
+  .tag-pill.warning {
+    border-color: var(--accent-gold);
+    color: var(--accent-gold);
+  }
+
+  .tag-pill.trope {
+    border-color: var(--accent-coral);
+    color: var(--accent-coral);
+  }
+</style>

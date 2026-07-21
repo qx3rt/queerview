@@ -1,0 +1,9 @@
+[
+  { "slug": "bury-your-gays", "label": "Bury Your Gays", "description": "Queer character killed, often shortly after identity is established or a romantic milestone." },
+  { "slug": "tragic-queer", "label": "Tragic Queer", "description": "Queerness is inseparable from suffering; no path to happiness shown." },
+  { "slug": "queerbaiting", "label": "Queerbaiting", "description": "Creator teases queer subtext to attract queer audiences without delivering." },
+  { "slug": "queer-as-phase", "label": "Queer as Phase", "description": "Character's identity is later retconned as experimental or a mistake." },
+  { "slug": "predatory-queer", "label": "Predatory Queer", "description": "Queer character depicted as predatory toward straight characters." },
+  { "slug": "deceptive-trans", "label": "Deceptive Trans", "description": "Trans character depicted as inherently deceptive about their identity." },
+  { "slug": "best-friend-only", "label": "Best Friend Only", "description": "Queer character exists solely to support straight protagonist." }
+]

@@ -1,0 +1,70 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Contribute" description="How to contribute to Queerview.">
+  <h1>Contribute</h1>
+  <p class="lede">
+    Queerview is currently in its seed phase — all entries are added and reviewed by maintainers
+    only while the initial dataset (200+ titles) is established.
+  </p>
+
+  <section>
+    <h2>Coming in v1.1</h2>
+    <p>
+      Once the seed dataset is established, contribution will open via GitHub Pull Requests. Each
+      PR will add or update one title at a time. A <code>CONTRIBUTING.md</code> guide will walk
+      through the tagging vocabulary and sourcing requirements, including:
+    </p>
+    <ul>
+      <li>Every identity tag must include a source type.</li>
+      <li>Trope and rep quality tags require a notes field with a brief argument.</li>
+      <li>Contributors agree that queer identities themselves are not up for debate.</li>
+      <li>Contested tags are welcomed when accompanied by a clear, respectful argument.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>In the meantime</h2>
+    <p>
+      If you've spotted an error in an existing entry or know of a title Queerview is missing,
+      check back once contribution tooling opens, or reach out to the maintainers directly.
+    </p>
+  </section>
+</Layout>
+
+<style>
+  .lede {
+    max-width: 42rem;
+    color: var(--text-muted);
+    font-size: 1.05rem;
+  }
+
+  section {
+    margin-top: 2.5rem;
+    max-width: 42rem;
+  }
+
+  section h2 {
+    font-size: 1.15rem;
+    margin-bottom: 0.75rem;
+  }
+
+  ul {
+    padding-left: 1.25rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+    color: var(--text-muted);
+  }
+
+  p {
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  code {
+    color: var(--accent-gold);
+  }
+</style>

@@ -1,0 +1,137 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TitleCard from '../components/TitleCard.astro';
+import TagPill from '../components/TagPill.astro';
+import { getAllTitles, getTagVocab } from '../lib/data';
+import { getMovie, getTvShow, tmdbPosterUrl, isTmdbConfigured } from '../lib/tmdb';
+import { withBase } from '../lib/paths';
+
+const titles = getAllTitles();
+const identities = getTagVocab('identities').slice(0, 8);
+
+const configured = isTmdbConfigured();
+const featured = configured
+  ? await Promise.all(
+      titles.slice(0, 4).map(async (t) => {
+        const tmdb = t.media_type === 'movie' ? await getMovie(t.tmdb_id) : await getTvShow(t.tmdb_id);
+        const name = 'title' in tmdb ? tmdb.title : tmdb.name;
+        return { title: t, displayName: name, posterUrl: tmdbPosterUrl(tmdb.poster_path) };
+      })
+    )
+  : [];
+---
+
+<Layout title="Home" description="Discover queer film and TV, tagged with care by the community.">
+  <section class="hero">
+    <h1>Find queer stories that get it right.</h1>
+    <p>
+      Queerview is a searchable, taggable database of film and TV featuring queer characters and
+      queer creators — sourced, contestable, and built with humility.
+    </p>
+    <form class="search" action={withBase('browse')} method="get">
+      <input type="search" name="q" placeholder="Search titles…" aria-label="Search titles" />
+      <button type="submit">Search</button>
+    </form>
+  </section>
+
+  <section>
+    <h2>Browse by identity</h2>
+    <div class="identity-links">
+      {identities.map((id) => (
+        <a class="identity-link" href={withBase(`browse?identity=${id.slug}`)}>
+          <TagPill label={id.label} />
+        </a>
+      ))}
+      <a class="identity-link" href={withBase('browse')}>
+        <TagPill label="See all →" />
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Featured titles</h2>
+    {configured ? (
+      <div class="grid">
+        {featured.map((f) => (
+          <TitleCard title={f.title} displayName={f.displayName} posterUrl={f.posterUrl} />
+        ))}
+      </div>
+    ) : (
+      <p class="notice">
+        Add a <code>PUBLIC_TMDB_TOKEN</code> to your <code>.env</code> file (see
+        <code>.env.example</code>) to load titles, posters, and cast/crew info from TMDB.
+      </p>
+    )}
+  </section>
+</Layout>
+
+<style>
+  .hero {
+    max-width: 40rem;
+    margin-bottom: 3rem;
+  }
+
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero p {
+    color: var(--text-muted);
+  }
+
+  .search {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .search input {
+    flex: 1;
+    padding: 0.65rem 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    color: var(--text);
+    font-family: var(--sans);
+  }
+
+  .search button {
+    padding: 0.65rem 1.25rem;
+    border-radius: 0.5rem;
+    border: none;
+    background: var(--accent-coral);
+    color: #1a1122;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .identity-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0 2.5rem;
+  }
+
+  .identity-link {
+    text-decoration: none;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+    gap: 1.25rem;
+  }
+
+  .notice {
+    color: var(--text-muted);
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+
+  .notice code {
+    color: var(--accent-gold);
+  }
+</style>

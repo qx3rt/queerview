@@ -1,0 +1,7 @@
+[
+  { "slug": "self-identified-public", "label": "Self-Identified (Public)", "description": "Person publicly identified themselves (interview, social media, etc.)." },
+  { "slug": "confirmed-by-creator", "label": "Confirmed by Creator", "description": "Fictional character confirmed by writer/director/showrunner." },
+  { "slug": "explicit-in-text", "label": "Explicit in Text", "description": "Stated within the work itself (dialogue, text on screen)." },
+  { "slug": "fan-consensus", "label": "Fan Consensus", "description": "Widely accepted fan reading with no explicit confirmation." },
+  { "slug": "inferred", "label": "Inferred", "description": "Contributor interpretation — least authoritative." }
+]

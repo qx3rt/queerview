@@ -1,0 +1,35 @@
+{
+  "tmdb_id": 290098,
+  "media_type": "movie",
+  "added_by": "maintainer",
+  "verified": true,
+  "spicy_level": 5,
+  "subtitles_available": ["en", "fr", "es"],
+  "audio_languages": ["ko", "ja"],
+  "original_language_override": null,
+  "queer_characters": [
+    {
+      "name": "Sook-hee",
+      "identities": ["lesbian"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Con artist turned lover; relationship survives betrayal and deception plot to reach a genuinely happy ending.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lady Hideko",
+      "identities": ["lesbian"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "",
+      "contested": true,
+      "contest_notes": "Some critics have raised concerns about the male gaze in the film's sexual content given its two male screenwriters/director; others argue the ending subverts this by centering the women's escape and agency. Presented here without resolving the debate."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": ["sexual-violence", "domestic-abuse"],
+  "rep_tropes": [],
+  "community_tags": ["happy-ending", "no-death", "period-piece", "explicit-representation"],
+  "contributor_notes": "Korean-Japanese period thriller directed by Park Chan-wook, adapted from Sarah Waters' novel 'Fingersmith'. Explicit sexual content — spicy level reflects the theatrical cut."
+}

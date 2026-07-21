@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 376867,
+  "media_type": "movie",
+  "added_by": "maintainer",
+  "verified": true,
+  "spicy_level": 2,
+  "subtitles_available": ["en", "es", "fr"],
+  "audio_languages": ["en"],
+  "original_language_override": null,
+  "queer_characters": [
+    {
+      "name": "Chiron",
+      "identities": ["gay"],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central character across three life stages; his sexuality is treated with tenderness and complexity rather than tragedy for its own sake.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Kevin",
+      "identities": ["queer"],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Ambiguous but central romantic connection to Chiron across decades.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": 1780427,
+      "name": "Tarell Alvin McCraney",
+      "role": "writer",
+      "identities": ["gay"],
+      "source": "self-identified-public",
+      "notes": "Wrote the semi-autobiographical source play, 'In Moonlight Black Boys Look Blue'; screenplay credited to McCraney and director Barry Jenkins."
+    }
+  ],
+  "trigger_warnings": ["homophobia", "domestic-abuse", "addiction"],
+  "rep_tropes": [],
+  "community_tags": ["own-voices", "found-family"],
+  "contributor_notes": "Won Best Picture at the 89th Academy Awards. Adapted from Tarell Alvin McCraney's semi-autobiographical play; McCraney is publicly gay, so own-voices tag reflects the source material's authorship."
+}
