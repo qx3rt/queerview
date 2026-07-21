@@ -1,0 +1,30 @@
+{
+  "tmdb_id": 512761,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Jennifer Laude",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Real Filipina trans woman whose 2014 killing is the documentary's subject; the film centers trans justice and her humanity while documenting anti-trans violence and the 'trans panic' defense used by her killer.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "transphobia",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Documentary about the real case of Jennifer Laude. Source text also mentions an unnamed transgender journalist among the subjects the film follows, but provides no name or further identity detail, so that person is not listed as a character. Director PJ Raval's identity is not stated in the source text, so no creator identity tags were added — a maintainer should verify. rep_quality marked 'historical-context' because this is nonfiction documenting a real hate crime and legal injustice; a maintainer may prefer 'positive' given the film's activist, trans-affirming framing. Trigger warnings drawn from provided list: transphobia (incl. 'trans panic' defense), murder/hate crime (mapped to character-death); source also notes grief and injustice/wrongful pardon which have no matching enum value."
+}

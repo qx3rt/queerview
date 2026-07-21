@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 15708,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Aaron Davis",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a closeted gay Mormon missionary whose arc centers on reconciling faith and sexual identity; portrayed with depth as he chooses love over religious constraint.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Christian Markelli",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as an openly gay LA party boy who grows emotionally through his genuine love for Aaron, moving beyond an initial seduction bet.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "conversion-therapy",
+    "suicide",
+    "child-abuse",
+    "hiv-aids"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending"
+  ],
+  "contributor_notes": "Source text notes a suicide attempt, parental rejection with physical violence, religious trauma (no exact enum match), conversion-therapy references, and HIV/AIDS themes. Reconciliation ending supports a happy-ending tag. No creator identity information was provided, so queer_creators is left empty. No subtitle or audio language info was given. Historical significance noted as 'the first film to portray LGBTQ Mormon characters'; a maintainer may consider whether a historical-context or period framing applies."
+}

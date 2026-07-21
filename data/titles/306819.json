@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 306819,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Lili Elbe",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Film explicitly depicts Lili's awakening feminine identity and gender-affirming surgery; based on a real historical figure. Rep is mixed because critics noted the script's problematic framing of trans identity and the casting of cisgender actor Eddie Redmayne, who later called it 'a mistake.'",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Gerda Wegener",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Described as one of 'the loves of each other's lives' with Lili; the film centers their enduring bond, but the source text does not assign Gerda a specific sexual-orientation label.",
+      "contested": true,
+      "contest_notes": "Whether Gerda reads as queer depends on interpretation of her continued devotion to Lili after Lili's transition; the source text emphasizes their love but gives no explicit self-identification."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "transphobia",
+    "character-death"
+  ],
+  "rep_tropes": [
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Draft based solely on provided source text. Lili Elbe is a real historical figure and one of the first known recipients of gender-affirming surgery; the film takes 'significant historical liberties.' The 'tragic-queer' trope is flagged because Lili dies from surgical complications. Note the significant real-world criticism regarding cis casting and problematic framing of trans identity — a human maintainer should verify rep_quality framing and consider a 'historical-context' note. Trigger warnings for medical trauma/surgical procedures are noted in the source but have no matching enum value. Subtitle and audio language info was not provided."
+}

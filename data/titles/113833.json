@@ -1,0 +1,87 @@
+{
+  "tmdb_id": 113833,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ned Weeks",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an openly gay writer and activist who drives the story's AIDS awareness efforts and founds GMHC.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Felix Turner",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as a closeted gay journalist in a romantic relationship with Ned; storyline involves him developing AIDS, tying his arc to illness during the crisis.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Bruce Niles",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a charismatic gay man serving as GMHC president.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Mickey Marcus",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay friend within the activist circle.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Tommy Boatwright",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay activist involved in the grassroots organizing.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Larry Kramer",
+      "role": "writer",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Wrote the original 1985 play and this film's screenplay; based the protagonist Ned Weeks on his own life as a gay activist and writer."
+    }
+  ],
+  "trigger_warnings": [
+    "hiv-aids"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "period-piece"
+  ],
+  "contributor_notes": "Character identities are drawn directly from the plot/character descriptions in the source text, which labels each as gay. Trigger warnings limited to HIV/AIDS, which is central; character-death and homophobia may be warranted but are not explicitly confirmed by the provided text, so a maintainer should verify. Larry Kramer is tagged gay based on the source noting he based the protagonist on his own life as a gay activist. No mention of subtitle or audio languages in the source."
+}

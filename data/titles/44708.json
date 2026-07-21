@@ -1,0 +1,40 @@
+{
+  "tmdb_id": 44708,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Meng Kerou",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The plot states she realizes she has romantic feelings for her female friend rather than boys, and her discovery of attraction to women drives the coming-of-age narrative. 'Lesbian' reflects the plot's framing of attraction to women over boys; a broader 'queer' reading is also defensible if the text leaves room for it.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lin Yuezhen",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "She is described only as the best friend and object of Meng Kerou's affection; the source text does not state her own orientation, and she appears interested in the boy Zhang Shihao. Her inclusion here is tentative and her queerness is not supported by the text.",
+      "contested": true,
+      "contest_notes": "The source presents her as the object of a queer character's affection but does not indicate she reciprocates or identifies as queer; she is shown to have interest in a boy. Her own queerness is unestablished."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Adapted from the provided plot summary only. Meng Kerou is the clearly queer protagonist per the plot. Lin Yuezhen's own queerness is not supported by the text and should be reviewed/possibly removed by a maintainer. Zhang Shihao appears to be a straight character caught in the triangle. Critics call it 'a modern-day Chinese lesbian twist on the Cyrano story.' No sexual content, trigger content, subtitle, or audio-language details were provided. 'period-piece' is uncertain (contemporary high-school setting in 2002) and should be verified or removed."
+}

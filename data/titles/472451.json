@@ -1,0 +1,34 @@
+{
+  "tmdb_id": 472451,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Jared Eamons",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a gay man based on real person Garrard Conley; narrative follows him rejecting conversion therapy ideology and living authentically, treating his sexuality as valid rather than a disorder.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "conversion-therapy",
+    "child-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "period-piece"
+  ],
+  "contributor_notes": "Based on Garrard Conley's 2016 memoir; adapted by Joel Edgerton with some dramatized/fictionalized scenes. 'own-voices' tag reflects the memoir source but Edgerton's own identity is not stated in the source text — maintainer should verify. Physical abuse (participants beaten with Bibles) and psychological abuse depicted. No subtitle/audio language info provided. Jared's happy/authentic ending is depicted (living openly in NYC) but I did not add 'happy-ending' given the traumatic overall content — maintainer may reconsider."
+}

@@ -1,0 +1,86 @@
+{
+  "tmdb_id": 11245,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Prior Walter",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Protagonist described as a gay man living with AIDS; centered sympathetically as the narrative's prophet figure.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Louis Ironson",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as Prior's lover who abandons him due to emotional overwhelm, a flawed and complicated portrayal.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Joe Pitt",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Closeted Mormon Republican attorney portrayed through shame and religious conflict; leaves his wife and becomes involved with Louis.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Roy Cohn",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Real historical figure depicted as a closeted right-wing fixer who hides his identity to preserve power and dies of AIDS; a deliberately villainous, self-hating portrayal grounded in history.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Belize",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Former drag queen and Prior's devoted, supportive friend; specific identity label not stated in source, inferred from description.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Tony Kushner",
+      "role": "writer",
+      "identities": [],
+      "source": "inferred",
+      "notes": "Wrote both the original 1991 stage play and the television adaptation; no identity information provided in source text."
+    }
+  ],
+  "trigger_warnings": [
+    "hiv-aids",
+    "homophobia",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Identity labels for Louis and Joe are drawn from the plot's explicit framing (lovers, closeted); Belize's specific label is inferred as source only notes former drag queen and friend. Roy Cohn is a real historical figure depicted with intentional moral complexity. Maintainer should verify Tony Kushner's public identity and add subtitle/audio data, which the source does not mention. Consider whether tragic-queer or bury-your-gays tropes apply given Roy Cohn's AIDS death, but source frames this within historical AIDS-crisis context rather than as gratuitous."
+}

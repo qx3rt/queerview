@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 244268,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ben",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an elderly gay man, newly married to George after decades together; portrayed with dignity in a film praised as a tribute to committed love.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "George",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Ben's husband; loses his Catholic school job due to their marriage, depicting institutional discrimination while centering an enduring, loving relationship.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Both leads are explicitly gay per the source text. George's firing constitutes religious institutional homophobia, and housing instability supports a poverty warning. No creator identity info, subtitle/audio languages, or spice details were provided in the source. Spicy level defaulted to 1 as no sexual content is described. Human maintainer should verify creator credits and language availability."
+}

@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 9800,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Andrew Beckett",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Protagonist explicitly identified as a gay attorney living with AIDS who conceals both from his firm; landmark 1993 mainstream depiction of an LGBTQ character facing discrimination, though his arc ends in death.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Miguel Alvarez",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "tokenized",
+      "source": "explicit-in-text",
+      "notes": "Described in source as Beckett's partner but a minor presence with little developed characterization.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death",
+    "hiv-aids"
+  ],
+  "rep_tropes": [
+    "bury-your-gays",
+    "tragic-queer"
+  ],
+  "community_tags": [],
+  "contributor_notes": "Source text confirms Beckett as gay and living with AIDS; he dies shortly after the verdict, supporting bury-your-gays and tragic-queer readings, though the film is noted as a watershed mainstream LGBTQ/AIDS depiction (hence historical-context rep_quality). Miguel Alvarez is only briefly mentioned. No subtitle, audio, or creator-identity information provided in source. Maintainer should verify creator credits and any additional character details."
+}

@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 11703,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Luis Molina",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a gay window dresser. His arc is portrayed sympathetically, ending in self-sacrifice framed as love and integrity; however, the character also dies, which complicates the representation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Valentin Arregui",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "The source describes a deep bond and a 'final night together' with Molina, which some interpretations may read as intimacy, but the text does not label Valentin's sexuality.",
+      "contested": true,
+      "contest_notes": "The source text presents Valentin primarily as a leftist revolutionary and does not explicitly state any queer identity; the 'final night together' phrasing is ambiguous and open to differing readings."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death"
+  ],
+  "rep_tropes": [
+    "bury-your-gays",
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Molina's death is central to the plot and triggers a bury-your-gays flag, though the source frames it as a heroic act of love rather than punishment—maintainer may reconsider rep_quality. Molina was imprisoned under charges of 'corrupting an underage youth'; the source does not clarify whether abuse is depicted, so no related warning was added. Valentin's queerness is flagged as contested/inferred pending confirmation. No language/subtitle info provided in source."
+}

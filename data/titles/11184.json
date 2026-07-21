@@ -1,0 +1,32 @@
+{
+  "tmdb_id": 11184,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Alfred Kinsey",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The film explicitly frames the real historical figure as bisexual, depicting relationships with both his wife and male research colleagues, tied to his own realization that human sexuality is more varied than assumed.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "child-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Biopic of sexologist Alfred Kinsey; the source text frames him as bisexual (explicit in the film). The 'Lavender Scare' McCarthy-era persecution is noted as anti-gay political persecution, supporting a homophobia warning, and childhood humiliation by an authoritarian parent supports child-abuse. Male research colleagues are mentioned as partners but not named individually, so no separate character entry was drafted. No information provided on subtitles, audio languages, or creator identities — maintainer should verify."
+}

@@ -1,0 +1,68 @@
+{
+  "tmdb_id": 426613,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Cameron Post",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a lesbian teenager whose relationship with Coley Taylor is exposed; the film follows her recognizing the harm of conversion therapy with wit and compassion.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Coley Taylor",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Text states she is in a same-sex relationship with Cameron that is exposed at homecoming, but no more specific label is given in the source.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jane",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "A fellow resident at the conversion therapy center; queerness is inferred from being sent there, as the source does not state a specific label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Adam",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "A fellow resident at the conversion therapy center; queerness is inferred from context, as the source does not state a specific label.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "conversion-therapy",
+    "self-harm",
+    "child-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family",
+    "period-piece"
+  ],
+  "contributor_notes": "Set in 1993 at 'God's Promise' conversion therapy center. Cameron's lesbian identity is explicit in the source; Coley, Jane, and Adam are less specifically labeled — flagged accordingly. Director Desiree Akhavan co-wrote and adapted the novel, but the source gives no information about her identity, so she is not listed as a queer creator. Source notes emotional abuse and religious trauma, which have no exact enum match; child-abuse used to cover the abuse of teen residents. Ending appears hopeful (the friends escape) but 'happy-ending' left off pending maintainer review. Please verify subtitle/audio and creator details from other sources."
+}

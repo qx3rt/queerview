@@ -1,0 +1,79 @@
+{
+  "tmdb_id": 39934,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Willy",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Part of an ensemble of gay men navigating solidarity and fear during the early AIDS crisis; portrayed with sensitivity per the source's description of the ensemble drama.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "David",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "One of the gay men in the interconnected ensemble confronting illness and loss across the 1981-1989 span.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Sean",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A gay screenwriter whose hospitalization and deterioration are central; his decline reflects the film's focus on loss during the epidemic.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Paul",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Member of the gay ensemble depicted amid the community's evolving response to the AIDS crisis.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Howard",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "One of the gay men in the ensemble across diverse professions, shown in solidarity during the crisis.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "hiv-aids"
+  ],
+  "rep_tropes": [
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Historically significant as the first wide-release theatrical film to address AIDS. The tragic-queer trope reflects the narrative's focus on illness and death (John's early death, Sean's deterioration), which is grounded in the historical reality of the epidemic rather than gratuitous—reviewer may wish to consider a 'historical-context' framing. Character professions listed but not individually mapped to names in the source. Subtitle/audio language info not provided. Please verify creator information, as none was included in the source text."
+}

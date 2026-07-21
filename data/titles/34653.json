@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 34653,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "George Falconer",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Protagonist explicitly described as a gay professor grieving his longtime male partner; central sympathetic portrayal focused on grief and interiority.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jim",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "George's male partner of sixteen years, seen in flashback; their long-term relationship is central to the film.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "suicide"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text does not state director Tom Ford's identity, so no creator identity tag was added despite common knowledge — a maintainer may verify and add if appropriate. Bury-your-gays trope was considered (partner Jim dies, George experiences a fatal heart attack), but source text frames George's death as finding peace with grief rather than punishment; left untagged pending maintainer judgment. Spicy level estimated low from source text, which does not describe explicit content. No subtitle/audio language info provided."
+}

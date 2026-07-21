@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 27101,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Chou Tien Tsai",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states he is gay; portrayed as an earnest 17-year-old seeking true love rather than casual encounters, given a sympathetic and central role.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Bai Tieh Nan",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states he is gay; the notorious playboy love interest who grapples with emotional vulnerability and childhood trauma beneath a promiscuous exterior, and gets an optimistic resolution.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text describes a Taiwanese gay romance centering two explicitly gay male leads with an optimistic, happy resolution. It was the highest grossing fiction film in Taiwan in 2004 and was banned in Singapore for portraying homosexuality as normal. Trigger warnings noted in the source (emotional manipulation, references to casual sexual encounters, childhood trauma) did not map cleanly onto the available enum values, so trigger_warnings is left empty; a maintainer may wish to review. No information provided on subtitles, audio languages, or creators."
+}

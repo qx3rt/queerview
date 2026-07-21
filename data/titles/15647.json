@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 15647,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Jessica Stein",
+      "identities": [
+        "bisexual",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explores her sexuality through a relationship with a woman; the film depicts sexual fluidity rather than a fixed lesbian identity, praised by The Advocate for its honest exploration.",
+      "contested": true,
+      "contest_notes": "The source frames her as bisexual/sexually fluid rather than lesbian; her ultimate return to focusing on painting and the relationship's failure over sexual incompatibility leaves her precise identity open to interpretation."
+    },
+    {
+      "name": "Helen Cooper",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Resolves to try dating women after dissatisfaction with men and reads as sexually fluid/bisexual; ends the film with a new girlfriend.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text emphasizes bisexuality/sexual fluidity over fixed lesbian identity per The Advocate; identity labels drawn from plot description framing rather than explicit self-identification, so a maintainer should verify. Trigger warning for family pressure around coming out mapped loosely to homophobia — review whether this fits. Spicy level estimated at 2 given the relationship's central focus on romance and mention of sexual incompatibility, but no explicit scenes described. No creator identity info provided in source; subtitles and audio languages not mentioned."
+}

@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 398,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Truman Capote",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Real historical figure depicted in a central romantic partnership with Jack Dunphy; the film portrays this relationship as important during the writing of In Cold Blood.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jack Dunphy",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Portrayed as Capote's romantic partner who travels with him to Morocco and Spain during the writing process.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Based on the provided source text. Capote and Dunphy's relationship is described as an explicitly depicted romantic partnership; both are real historical figures, so 'historical-context' rep_quality is used. Specific labels (gay) are inferred from the described same-sex romantic partnership; a maintainer may wish to verify or downgrade to the 'queer' umbrella. Content warnings include capital punishment/execution scenes and emotional manipulation/exploitation themes, which lack precise enum matches — noted here for the maintainer. Spicy level set to 1 as no sexual content is mentioned. Awards/reception noted but not schema-relevant."
+}

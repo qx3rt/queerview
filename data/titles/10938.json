@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 10938,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Jamie Gangel",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Introverted gay teen whose romantic feelings for neighbor Ste form the film's affirming core, culminating in a public dance embraced by his mother.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ste Pearce",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Jamie's classmate who, despite initial hesitation and abuse at home, gradually accepts his relationship with Jamie in an affirming arc.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "domestic-abuse",
+    "child-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death",
+    "period-piece"
+  ],
+  "contributor_notes": "Source text describes Jamie and Ste as gay explicitly. Hettie Macdonald listed as director but source gives no identity info, so no creator identities claimed. Domestic abuse is by Ste's brother and father (family), tagged as both domestic-abuse and child-abuse; maintainer may wish to refine. period-piece tag reflects 1996 setting/release—verify appropriateness. Subtitle/audio languages not mentioned in source."
+}
