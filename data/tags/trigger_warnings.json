@@ -12,5 +12,7 @@
   { "slug": "child-abuse", "label": "Child Abuse", "description": "Depictions of abuse toward a minor." },
   { "slug": "racism", "label": "Racism", "description": "Depictions of racial discrimination or bigotry." },
   { "slug": "misgendering", "label": "Misgendering", "description": "A character is repeatedly referred to with the wrong gender." },
-  { "slug": "deadnaming", "label": "Deadnaming", "description": "A trans or nonbinary character is referred to by a former name." }
+  { "slug": "deadnaming", "label": "Deadnaming", "description": "A trans or nonbinary character is referred to by a former name." },
+  { "slug": "hiv-aids", "label": "HIV/AIDS", "description": "Depictions of the HIV/AIDS epidemic, illness, or related loss." },
+  { "slug": "poverty", "label": "Poverty", "description": "Depictions of homelessness or severe financial hardship." }
 ]

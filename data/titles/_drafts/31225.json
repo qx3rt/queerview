@@ -90,7 +90,9 @@
   "trigger_warnings": [
     "homophobia",
     "transphobia",
-    "character-death"
+    "character-death",
+    "hiv-aids",
+    "poverty"
   ],
   "rep_tropes": [],
   "community_tags": [
@@ -98,5 +100,5 @@
     "found-family",
     "period-piece"
   ],
-  "contributor_notes": "Documentary about 1980s NYC ball culture. Source describes the featured communities collectively as African-American and Latino gay and transgender, including gay cisgender men, transgender women, drag queens, and butch women, but does not individually assign specific identities to named subjects, so all are tagged with the queer umbrella pending maintainer refinement. The film's subjects (e.g., Venus and Angie Xtravaganza) are widely understood as transgender women, but a specific per-person label is not stated in the provided text. Notable critical debate: bell hooks critiqued the film as spectacle for white spectators and questioned drag's political efficacy, while Judith Butler defended the complexity of the gender performances; both critiqued Livingston's outside-observer positioning. Trigger warnings reflect systemic hardships depicted (poverty, homelessness, AIDS, violence, sex work) and Venus Xtravaganza's murder; AIDS and poverty lacked matching enum values."
+  "contributor_notes": "Documentary about 1980s NYC ball culture. Source describes the featured communities collectively as African-American and Latino gay and transgender, including gay cisgender men, transgender women, drag queens, and butch women, but does not individually assign specific identities to named subjects, so all are tagged with the queer umbrella pending maintainer refinement. The film's subjects (e.g., Venus and Angie Xtravaganza) are widely understood as transgender women, but a specific per-person label is not stated in the provided text. Notable critical debate: bell hooks critiqued the film as spectacle for white spectators and questioned drag's political efficacy, while Judith Butler defended the complexity of the gender performances; both critiqued Livingston's outside-observer positioning. Trigger warnings reflect systemic hardships depicted (poverty, homelessness, AIDS, violence, sex work) and Venus Xtravaganza's murder."
 }
