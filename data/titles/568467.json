@@ -1,0 +1,40 @@
+{
+  "tmdb_id": 568467,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Mary Anning",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "The film explicitly portrays the real paleontologist as a lesbian who enters a romance with Charlotte, though this is a speculative reimagining with no historical evidence of her actual sexuality.",
+      "contested": true,
+      "contest_notes": "Per the source, no historical evidence exists about Anning's sexuality; director Francis Lee created a speculative queer romance, and Anning's distant relatives held conflicting views on the portrayal."
+    },
+    {
+      "name": "Charlotte Murchison",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "A real historical figure (a geologist's wife) depicted in the film's narrative as developing romantic feelings for Mary; the text does not assign a more specific label, so the queer umbrella is used.",
+      "contested": true,
+      "contest_notes": "Her romantic relationship with Mary is an imagined narrative invented for the film, not documented history."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Ammonite depicts a speculative same-sex romance between two real historical figures (Mary Anning and Charlotte Murchison). Per the source, there is no historical evidence about Anning's actual sexuality; director Francis Lee defended the queer framing. Rep flagged as historical-context due to the fictionalization of real people. Source text does not confirm the sexuality/gender identity of director Francis Lee, so no creator identities are tagged. No subtitle/audio language or explicit content details provided; spicy_level set conservatively and should be verified by a maintainer."
+}

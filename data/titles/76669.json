@@ -1,0 +1,106 @@
+{
+  "tmdb_id": 76669,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 4,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Spanish"
+  ],
+  "queer_characters": [
+    {
+      "name": "Omar Shanaa",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Closeted gay character who struggles with family expectations, comes out, and pursues relationships with Ander and others; his coming-out arc explores cultural and class tensions.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ander Munoz",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay athlete and principal's son with a leukaemia storyline in Season 3; central to a long-running same-sex relationship.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Polo Benavent",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Initially closeted, later explores relationships with both a woman (Cayetana) and a man (Valerio), which the text presents as bisexuality.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Patrick Blanco",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay character who develops relationships with Omar, Ander, and eventually Ivan.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ivan Cruz",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay character with relationships with Patrick and later Joel.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Joel Castellano",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay character, boyfriend to Omar, who later has an affair with Ivan.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Nico Fernandez",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Transgender character who undergoes gender affirmation surgery and a legal name change within the show.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death",
+    "sexual-violence",
+    "addiction",
+    "domestic-abuse",
+    "suicide"
+  ],
+  "rep_tropes": [
+    "bury-your-gays"
+  ],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text describes a Season 6 hate-crime murder of a gay character motivated by homophobia, which supports the bury-your-gays flag, though the specific character killed is not named in the provided text — a maintainer should verify. No queer creators are identified in the source material; audio/subtitle info is limited to the series being Spanish-language. Spicy level 4 reflects the source's note of 'sensual and explicit' gay male sex scenes. The series won a 2019 GLAAD Media Award (Outstanding Scripted Television, Spanish-Language)."
+}

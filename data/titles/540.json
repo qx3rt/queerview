@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 540,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Amy Bradshaw",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A D.E.B.S. recruit who falls in love with Lucy and ultimately chooses their relationship over institutional expectations; described as lesbian in the source and central to a happy-ending romance.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lucy Diamond",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A supervillain who shares an intimate relationship with Amy, renounces crime, and rides off with her; described as lesbian and part of the film's successful romantic union.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source describes a campy lesbian spy comedy with a happy ending; both leads are explicitly lesbian per the provided text. The 'institutional pressure to reject their relationship' suggests homophobia, but the specific nature isn't detailed — maintainer should verify. Director Angela Robinson's identity is not stated in this source, so no creator identity tags were added; a maintainer may add creator info from verified sources. Subtitle and audio language info not provided in source."
+}

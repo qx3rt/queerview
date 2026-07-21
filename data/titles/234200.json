@@ -1,0 +1,78 @@
+{
+  "tmdb_id": 234200,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Mark Ashton",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "LGSM founder depicted as gay; historical figure who dies of AIDS at 26 as part of the true story.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jonathan Blake",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Historical figure, one of the first diagnosed with HIV in the UK; portrayed as an active LGSM member.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Gethin Roberts",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Welsh activist and Jonathan's partner; a committed queer relationship shown within the group.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Joe Cooper",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "20-year-old closeted gay student whose arc is described in the source as part of the LGSM group.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Stephanie Chambers",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as the group's sole lesbian founder, providing lesbian representation within LGSM.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "hiv-aids",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family",
+    "period-piece"
+  ],
+  "contributor_notes": "Based on TMDB source text. Mark Ashton's death from AIDS is a historical fact rather than a narrative device, so bury-your-gays was not applied, but a maintainer may wish to review. No information about subtitles, audio languages, or creators' identities was provided in the source. The source references an assault scene (general violence) that lacks a matching enum trigger warning."
+}

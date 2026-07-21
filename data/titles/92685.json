@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 92685,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Luz Noceda",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "confirmed-by-creator",
+      "notes": "Creator Dana Terrace confirmed Luz is bisexual in a Sept 2020 Reddit AMA; a promotional short shows her with a bisexual pride flag pin and a finale special shows her coming out to her mother.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Amity Blight",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Confirmed lesbian; her romance with Luz was confirmed by Terrace in 2020 and the pair share an on-screen kiss in 'Clouds on the Horizon' (2022).",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Raine Whispers",
+      "identities": [
+        "nonbinary",
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Uses singular they/them pronouns on screen and is described in show notes as Disney TV Animation's first transgender and/or nonbinary character; voiced by trans nonbinary actor Avi Roque. Formerly involved with Eda Clawthorne.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lilith Clawthorne",
+      "identities": [
+        "aromantic",
+        "asexual"
+      ],
+      "rep_quality": "positive",
+      "source": "confirmed-by-creator",
+      "notes": "Described as aromantic and asexual in the provided material.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Masha",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A camp attendee described as nonbinary.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Papa Titan",
+      "identities": [
+        "genderqueer"
+      ],
+      "rep_quality": "positive",
+      "source": "confirmed-by-creator",
+      "notes": "King's father, described as genderqueer.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Hunter",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "confirmed-by-creator",
+      "notes": "Confirmed bisexual post-finale according to the source material.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Willow Park's fathers",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Willow has two dads; the source describes them as a family unit but does not label their identities explicitly, so gay is inferred.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Avi Roque",
+      "role": "actor",
+      "identities": [
+        "transgender",
+        "nonbinary"
+      ],
+      "source": "self-identified-public",
+      "notes": "Publicly identified transgender and nonbinary actor who voices Raine Whispers."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "found-family",
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "First Disney property to feature a same-sex couple in leading roles (Luz and Amity); won a 2021 Peabody Award and earned GLAAD nominations. Willow's fathers' specific identities are inferred, not stated in the source. Human maintainer should verify episode titles and post-finale confirmations."
+}

@@ -1,0 +1,64 @@
+{
+  "tmdb_id": 91814,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Abby",
+      "identities": [
+        "lesbian",
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in-text as a 'fat, queer dyke'; semi-autobiographical role drawn from creator Abby McEnany's own experiences, portrayed with depth including mental health themes.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Chris",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in-text as a 22-year-old trans man and a romantic partner for Abby; played by trans actor Theo Germaine, part of the show's championed trans representation.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Abby McEnany",
+      "role": "creator",
+      "identities": [
+        "lesbian",
+        "queer"
+      ],
+      "source": "self-identified-public",
+      "notes": "Co-creator, writer, and executive producer who also stars in the semi-autobiographical lead role described as a 'fat, queer dyke.'"
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Lilly Wachowski",
+      "role": "producer",
+      "identities": [
+        "transgender"
+      ],
+      "source": "self-identified-public",
+      "notes": "Trans woman who co-created the series and actively championed trans representation across casting, crew, and soundtrack, influenced by her participation in the Disclosure documentary."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text does not mention subtitle or audio language availability, spicy/sexual content level (defaulted to 1), or specific trigger content beyond depression and OCD themes (which are not enum options). Theo Germaine's personal identity is not stated in the source, so no creator identity tag was applied to him beyond his role portraying a trans character. Tim Mason's identity is not addressed. Please verify all against additional sources before publishing."
+}

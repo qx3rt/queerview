@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 1544,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Luce",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Flower shop owner explicitly described as a lesbian who experiences love at first sight with Rachel; part of the film's central happy-ending romance.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Rachel",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a bisexual woman who realizes her true feelings for Luce during her marriage to a man; she is married to Hector but ends up in a relationship with Luce.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Source text explicitly labels Luce as lesbian and Rachel as bisexual, so both identity tags are drawn directly from the provided descriptions. The film has a confirmed happy ending (reunion and epilogue as a couple) with no character death. No queer identity information is confirmed for the director Ol Parker or any cast/crew, so queer_creators is left empty. Subtitle and audio language info was not provided. No trigger warnings clearly supported by the source text, though a human maintainer may wish to consider infidelity/marital breakdown themes not covered by the available enum. Rep_quality marked positive given strong LGBTQ+ community support noted in reception."
+}

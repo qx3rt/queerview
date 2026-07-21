@@ -1,0 +1,56 @@
+{
+  "tmdb_id": 448444,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Marsha P. Johnson",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Real historical trans woman of color and activist, key figure in the Stonewall uprising and co-founder of STAR; the film centers on the investigation into her suspicious 1992 death.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Sylvia Rivera",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Real historical trans woman activist and co-founder of STAR alongside Johnson, portrayed as a prominent liberation figure.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Victoria Cruz",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Trans activist and investigator who leads the documentary's present-day inquiry into Johnson's death.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "transphobia",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Documentary chronicling real historical trans activists Marsha P. Johnson and Sylvia Rivera. Note the controversy raised in the source text: filmmaker Tourmaline alleged director David France appropriated her research; France denied it and investigations found no supporting evidence, but it raised questions about a non-transgender filmmaker telling this story — a maintainer may want to reflect this in the queer_creators/own-voices tagging. No source text on director's identity, so no queer_creators entries added. Trigger warnings for historical erasure and police negligence noted in source text but no matching enum values available. Subtitle/audio language info not provided."
+}

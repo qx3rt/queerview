@@ -1,0 +1,56 @@
+{
+  "tmdb_id": 19316,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Mandarin",
+    "English"
+  ],
+  "queer_characters": [
+    {
+      "name": "Dr. Wilhelmina \"Wil\" Pang",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a closeted lesbian surgeon who gains courage to come out; ends the film engaged to Vivian and accepted by her mother.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Vivian Shing",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly Wil's girlfriend and romantic partner in a same-sex relationship; the source text does not assign her a more specific label, so the queer umbrella is used.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Alice Wu",
+      "role": "director",
+      "identities": [
+        "queer"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source text states she drew inspiration from her own experience coming out to her mother; no more specific label given, so the queer umbrella is used."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "own-voices",
+    "period-piece"
+  ],
+  "contributor_notes": "Plot and reception describe a light-hearted, tender romance with a clearly happy ending (Wil and Vivian engaged, kissing publicly, family acceptance). Wil is explicitly labeled a lesbian; Vivian is explicitly her girlfriend but not given a specific label in the text, so tagged with the queer umbrella. Alice Wu's coming-out experience informing the film supports an own-voices tag, though her specific identity label isn't stated. Themes of family expectation and 'face' present potential tension but no explicit homophobia/violence is described in the source. 'period-piece' applied loosely as a 2004 contemporary setting; a maintainer may wish to remove it. Please verify subtitle availability and Vivian's/Wu's identity labels against additional sources."
+}

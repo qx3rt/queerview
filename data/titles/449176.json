@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 449176,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Simon Spier",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Protagonist explicitly described as a closeted gay teen who comes out after being outed; portrayed as sympathetic lead with a happy romantic arc.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Bram Greenfeld",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Revealed as 'Blue,' Simon's pen pal and eventual boyfriend, explicitly stated to be gay; ends film in an open, happy relationship.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ethan",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as an openly gay classmate; representation shows a confident out teen but also depicts him facing bullying.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Source text notes Simon is outed by a blackmailer and Ethan faces bullying, supporting a homophobia trigger warning. Ending is explicitly optimistic (happy-ending); no character deaths mentioned. No information provided about cast/creator identities, subtitles, or audio languages, so those fields left empty for maintainer review."
+}

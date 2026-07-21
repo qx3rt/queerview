@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 79732,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Adora",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Protagonist in a slow-burn romance with Catra; culminates in a mutual love confession and on-screen kiss in the finale. No more specific label given in source, so umbrella term used.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Catra",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Protagonist in central same-sex romance with Adora, confirmed by on-screen kiss and confession. Umbrella term used absent a specific label in the source.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Spinnerella",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "One half of a married same-sex princess couple; her relationship with Netossa gets expanded focus in Season 5. Source states 'married same-sex couple' but no specific label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Netossa",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Married to Spinnerella; rescues her wife from mind control in Season 5. Same-sex marriage stated in source; umbrella term used absent a specific label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Double Trouble",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Uses singular they/them pronouns, nonbinary shapeshifting mercenary; voiced by nonbinary actor. Showrunner later acknowledged criticism that the character conflated gender nonconformity/shapeshifting with alienness/otherness.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lance",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "One of Bow's two fathers, depicting same-sex parenting in a dedicated episode. Umbrella term used as source states 'two fathers' without a specific label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "George",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "One of Bow's two fathers, part of an explicit same-sex parenting depiction. Umbrella term used absent a specific label.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Scorpia",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Source describes her as 'implied to have unrequited romantic feelings for Catra'; queerness is suggested rather than stated outright.",
+      "contested": true,
+      "contest_notes": "Her feelings for Catra are described only as implied/unrequited in the source, so her queerness rests on interpretation."
+    },
+    {
+      "name": "Light Hope",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "confirmed-by-creator",
+      "notes": "An AI whose romantic affection for a woman named Mara was confirmed as canonical by the showrunner.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "ND Stevenson",
+      "role": "showrunner",
+      "identities": [
+        "nonbinary"
+      ],
+      "source": "self-identified-public",
+      "notes": "Nonbinary showrunner who uses they/them pronouns; described navigating 'plausible deniability' around queer content before making the central romance explicitly canonical."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Jacob Tobia",
+      "role": "actor",
+      "identities": [
+        "nonbinary"
+      ],
+      "source": "self-identified-public",
+      "notes": "Nonbinary actor who voices the nonbinary character Double Trouble."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation",
+    "own-voices"
+  ],
+  "contributor_notes": "Central Adora/Catra romance and several supporting queer relationships are explicit in the source. Specific labels (e.g. lesbian) are not stated for the sapphic couples, so the 'queer' umbrella is used pending confirmation. Scorpia's queerness is only implied and flagged as contested. Maintainer should verify subtitle/audio language availability, which the source does not mention."
+}

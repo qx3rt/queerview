@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 505600,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Amy Antsler",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Amy openly has an unrequited crush on a girl (Ryan) and later shares a romantic/sexual encounter with a female classmate (Hope). The film ends on a hopeful note with Hope giving Amy her contact information. Critically praised and won a GLAAD Media Award.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Hope",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Shares an intimate romantic/sexual moment with Amy and later visits her before her gap year. Source text confirms the same-gender encounter but does not specify a more precise label for Hope, so the umbrella 'queer' is used.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Amy's queerness is explicit in the provided plot text and backed by critical reception (GLAAD Award). Hope is tagged with the umbrella 'queer' label because the source confirms a same-gender encounter but no specific self-identification. Ryan is described only as Amy's crush; the source does not confirm Ryan's own identity, so no separate entry was created. Director Olivia Wilde and actor Kaitlyn Dever have no queer identity confirmed in the provided source. No trigger warnings are drawn from the text, though a police raid/arrest is mentioned; a maintainer may wish to review. Please verify all tags."
+}
