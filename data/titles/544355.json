@@ -1,0 +1,34 @@
+{
+  "tmdb_id": 544355,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Socrates",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described directly as a 15-year-old Black gay teenager who is the film's protagonist; his story centers his experiences with love, loss, and homophobia.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death",
+    "child-abuse",
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "Only Socrates is named in the source text as an explicitly gay character; any love interest referenced ('complex emotions around love') is not named, so not listed. Director Alexandre Moratto drew on personal experience and volunteering at the Quero Institute, but the source text does not state his sexual or gender identity, so he is not tagged as a queer creator. 'own-voices' tagged tentatively given personal-experience note, but please verify. Audio/subtitle languages not specified in source (film is described as Brazilian but language not stated). Abuse tagged as child-abuse since protagonist is a 15-year-old minor; maintainer may reclassify. Please verify all before publishing."
+}

@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 513,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Sita",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The source states the film explicitly portrays her romantic and sexual relationship with Radha; she represents youthful rebellion against traditional constraints. Uses 'queer' umbrella because the text describes a woman-loving-woman relationship but the film/director resisted a fixed 'lesbian' label.",
+      "contested": true,
+      "contest_notes": "The director rejected the 'lesbian film' framing, calling it about 'the choices we make in life' broadly; critics and activists read it as a lesbian relationship. Sita is also married to a man, leaving her specific identity label open to interpretation."
+    },
+    {
+      "name": "Radha",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The source states the film explicitly portrays her romantic and sexual relationship with Sita; she embodies a woman awakening to her own agency and desires. Uses 'queer' umbrella since the text supports a same-sex relationship but not a specific self-applied label.",
+      "contested": true,
+      "contest_notes": "Director framed the film as about choices and female independence rather than a 'lesbian film,' while reviewers and activists read it through a lesbian-rights lens. Radha is married to a man, so a more specific label is unsupported by the text."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "domestic-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Identity labels use the 'queer' umbrella because the source text describes an explicit same-sex romantic/sexual relationship but notes the director resisted the 'lesbian' label and both characters are married to men; a maintainer may refine these. The film is noted as a watershed for LGBTQ visibility in Indian cinema and sparked India's first major national conversation on lesbian rights. The ending (the women deciding to leave together after being discovered) may or may not qualify as a happy ending — left unmarked pending review. No subtitle or audio language info was provided in the source."
+}

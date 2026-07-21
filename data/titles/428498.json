@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 428498,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Xhosa"
+  ],
+  "queer_characters": [
+    {
+      "name": "Xolani",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A closeted factory worker and initiation mentor whose gay identity is stated in the source; his relationship is depicted as covert and constrained by social pressure.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Vija",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Xolani's romantic partner within the ceremonial context, described as gay; relationship exists secretly amid a hostile environment.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Kwanda",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A young gay initiate from the city whose openness disrupts the closeted dynamic; described as gay in the source text.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Source describes all three central characters as gay explicitly. Ending and any character deaths are not stated in the provided text, so no bury-your-gays/tragic tropes were tagged pending review. Note the film's serious real-world controversy in South Africa (protests, death threats against cast/crew, reclassification to X18 later overturned) and culturally sensitive depiction of the sacred Xhosa Ulwaluko ceremony — a maintainer may want to add context. Spicy level is an estimate; the plot centers a romantic connection but no explicit content is described in the source (the pornography rating was widely regarded as politically motivated). Subtitle availability not mentioned in source."
+}

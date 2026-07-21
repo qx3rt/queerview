@@ -1,0 +1,29 @@
+{
+  "tmdb_id": 30843,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Korean"
+  ],
+  "queer_characters": [
+    {
+      "name": "Min Seon-woo",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as a \"gay genius patissier\" and the film's central LGBTQ+ character; his hidden identity emerges in the bakery setting alongside a past crush on his employer Jin-hyuk. Source gives limited detail on how the arc is handled, so quality is drafted as mixed pending maintainer review.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Source text only explicitly labels Min Seon-woo as gay. Jin-hyuk is the object of Seon-woo's high-school crush but the text does not state Jin-hyuk's own orientation, so he is not tagged. No information provided on subtitles; audio inferred as Korean from the film being Korean. No trigger warnings or tropes supported by the given text. Maintainer should verify rep_quality and check for additional queer content."
+}

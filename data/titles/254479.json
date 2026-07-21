@@ -1,0 +1,51 @@
+{
+  "tmdb_id": 254479,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Chinese"
+  ],
+  "queer_characters": [
+    {
+      "name": "Xiaoqun",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Protagonist explicitly described as a lesbian elephant keeper navigating a relationship with a woman while resisting her mother's marriage pressure; central and fully realized character.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Xiaoling",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as Xiaoqun's girlfriend and a fabric saleswoman/market vendor; her same-sex relationship is central to the plot.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Junjun",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Identified as Xiaoqun's ex-girlfriend; her return as a fugitive introduces complications, tying queerness to a crime subplot per the source.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Source notes this is reportedly the first mainland Chinese film to address lesbian relationships, distinguishing it from earlier gay-themed works like East Palace, West Palace (1996). Director Li Yu's own identity is not stated in the source, so no queer_creators entry was added. Marriage pressure from Xiaoqun's mother appears in the plot but the source does not explicitly frame it as homophobia, so no trigger warning was asserted; a maintainer may wish to review. Subtitles not discussed; audio language inferred as Chinese from the film's description as a Chinese-language production."
+}

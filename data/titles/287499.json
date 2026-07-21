@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 287499,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Laila Kapoor",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Laila explicitly identifies as bisexual, is attracted to a male classmate (Jared) and in a serious relationship with a woman (Khanum), and comes out to her mother. Reviewers praised the normalized portrayal alongside her cerebral palsy.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Khanum",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A blind activist in a serious romantic relationship with Laila; the source text confirms the same-gender relationship but does not give Khanum a specific orientation label, so the umbrella term is used.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Laila's bisexuality is explicit in the plot; Khanum's specific label isn't stated in the source, so 'queer' umbrella is used pending review. The mother's death from cancer is a plot point but is not a queer character death. Subtitle/audio language info was not provided. Director Shonali Bose's inspiration is noted but no creator identities are stated in the source."
+}

@@ -1,0 +1,40 @@
+{
+  "tmdb_id": 1391,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 4,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Julio",
+      "identities": [
+        "questioning"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Shares a passionate kiss with Tenoch and wakes naked beside him, but the film keeps his sexuality ambiguous and unresolved.",
+      "contested": true,
+      "contest_notes": "The kiss and shared night are explicit in the text, but the film frames his queerness as ambiguous subtext; Luisa dismisses their rivalry as 'closeted homosexuality' while the narrative never affirms a labeled identity."
+    },
+    {
+      "name": "Tenoch",
+      "identities": [
+        "questioning"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Kisses Julio and wakes naked with him after their encounter with Luisa, hinting at a connection beyond friendship left unresolved.",
+      "contested": true,
+      "contest_notes": "Explicit kiss occurs on screen, but the film presents his queerness as ambiguous, bittersweet subtext rather than an affirmed relationship; Luisa's 'closeted homosexuality' remark is the closest textual label."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Julio and Tenoch's kiss and shared night are explicit in the plot, but the source frames their queerness as unresolved, ambiguous subtext rather than an affirmed identity, so both are marked contested. Luisa's line calling their rivalry 'closeted homosexuality' is noted as in-text but interpretive. No subtitle/audio info provided in source. Maintainer should verify identity labels and spicy level against the actual film."
+}

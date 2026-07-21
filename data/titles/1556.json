@@ -1,0 +1,49 @@
+{
+  "tmdb_id": 1556,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Japanese"
+  ],
+  "queer_characters": [
+    {
+      "name": "Eddie",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source describes Eddie as a transgender bar hostess embodying a 'polymorphous identity' that inverts traditional gender roles; the film presents queer identities as non-pathological and avoids stereotypes.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Gonda",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Owner of the gay bar the Genet and entangled in a relationship with Eddie; his specific label is not stated in the source, so the umbrella 'queer' tag is used. His arc ends in the tragic dual suicide.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "suicide",
+    "self-harm",
+    "character-death"
+  ],
+  "rep_tropes": [
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source describes a Tokyo gei boi/gay-boy underground scene and centers a transgender protagonist, but does not specify actual pronoun usage or whether creators are queer; the source uses 'she/her' for Eddie. Gonda's specific identity label is unclear beyond involvement in the gay-bar milieu and relationship with Eddie. The plot draws on the Oedipus myth, ending in dual suicides and Eddie's self-blinding — a maintainer should verify whether 'bury-your-gays' applies given the mythic framing versus punitive intent. No subtitle or dub info provided; original language assumed Japanese per source. Retrospective critics praised it as revolutionary queer cinema while contemporary reviewers were divided."
+}

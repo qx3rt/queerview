@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 60421,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Atafeh",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The film centers on her intimate romantic relationship with Shireen and explores homosexuality in modern Iran; ranked among best lesbian movies by Autostraddle.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Shireen",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Atafeh's best friend and romantic partner; their relationship is the core of the film's exploration of same-sex desire in Iran.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Source describes an explicit romantic relationship between two teenage girls and identifies the film as exploring homosexuality in Iran; 'lesbian' is used based on Autostraddle's ranking and the framing, though the source describes the girls as 'experimenting,' so a maintainer may wish to consider whether a broader 'queer' label is more appropriate. Homophobia is inferred from the film being banned in Iran and its subject matter; addiction from Mehran's characterization as a recovering addict. Director Maryam Keshavarz drew on personal experience in Iran, but the source does not state her sexual orientation, so no creator identity tags were added. Spicy level is an estimate from references to 'intimate' relationship and 'experimentation.'"
+}

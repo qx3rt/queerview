@@ -1,0 +1,68 @@
+{
+  "tmdb_id": 99,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Spanish"
+  ],
+  "queer_characters": [
+    {
+      "name": "Agrado",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as 'a warm and witty transgender sex worker,' treated with dignity and humor throughout; critics praised the sympathetic handling.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lola",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A transgender woman living with AIDS, formerly known as Esteban and the biological father of Manuela's son; handled with 'utmost sympathy' rather than as sordid.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Nina Cruz",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Depicted as the lesbian lover of Huma Rojo; also portrayed as a heroin addict, but characters treated with empathy per critics.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Huma Rojo",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Actress depicted as the lesbian lover of Nina Cruz; relationship handled sympathetically.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death",
+    "hiv-aids",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Director Pedro Almodovar's dedication ('To all actresses... To men who act and become women') suggests thematic solidarity with trans and women performers, but the source text does not state his own identity, so no creator identity tag was added. Trigger warning for grief/child death mapped to character-death. No subtitle info provided; audio language inferred from the film being noted as Spanish. Please verify spicy_level and add subtitle availability during review."
+}

@@ -1,0 +1,65 @@
+{
+  "tmdb_id": 77031,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Emma Hernandez",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a queer character who navigates her identity and relationships with women including Cruz and Nico; central, well-developed lead.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lyn Hernandez",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Free-spirited woman exploring romantic connections; source explicitly states her queerness is 'less defined' than Emma's, so this is a soft reading.",
+      "contested": true,
+      "contest_notes": "Source text states Lyn's queerness is less defined than Emma's, leaving her identity ambiguous and open to interpretation."
+    },
+    {
+      "name": "Eddy Martinez",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Butch widow of Vida (a woman) and co-owner of the bar; presented as a queer Latina elder figure. Source uses 'queer' rather than a more specific label.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Tanya Saracho",
+      "role": "showrunner",
+      "identities": [
+        "queer"
+      ],
+      "source": "self-identified-public",
+      "notes": "Publicly self-identifies as queer; stated 'the queerness came from me. I identify as queer, and it had to be there.' Also served as creator and assembled an all-Latino writers' room prioritizing LGBTQ+ representation."
+    }
+  ],
+  "trigger_warnings": [
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Spicy level is a rough guess; source text does not describe sexual content, so a maintainer should verify. No subtitle/audio language details were provided beyond the show's use of authentic Spanglish dialogue, so those fields are left empty. Lyn's identity is marked contested per source ambiguity. Emma, Eddy, and Lyn are all labeled with the 'queer' umbrella because the source does not supply more specific labels. Show won the 2019 GLAAD Media Award for Outstanding Comedy Series."
+}

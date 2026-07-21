@@ -1,0 +1,33 @@
+{
+  "tmdb_id": 428733,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Japanese"
+  ],
+  "queer_characters": [
+    {
+      "name": "Rinko",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a transgender woman who serves as a supportive maternal figure to Tomo, presented in a warm found-family light rather than as tragedy or spectacle.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "child-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family"
+  ],
+  "contributor_notes": "Source text confirms Rinko as a transgender woman and central maternal figure. Makio (her partner) is not given a stated identity in the source, so he was not tagged. Director Naoko Ogigami's own identity is not stated in the source. child-abuse trigger reflects Tomo being neglected and abandoned by her mother. Maintainer should verify subtitle/audio language availability and check whether the film depicts transphobia deserving an additional trigger warning."
+}

@@ -1,0 +1,57 @@
+{
+  "tmdb_id": 52799,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Miguel",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Text explicitly describes Miguel as a closeted married fisherman maintaining a secret same-sex affair with Santiago. His attraction to both a wife and a male lover could suggest bisexuality, but the source uses no specific label, so the umbrella term is applied. Reception praised the 'gratifying' complexity of his feelings.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Santiago",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly Miguel's secret male lover. Representation is mixed because he dies early and exists largely as a ghost driving Miguel's arc rather than as a fully independent figure; no specific label is given in the source.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Javier Fuentes-Leon",
+      "role": "director",
+      "identities": [
+        "queer"
+      ],
+      "source": "self-identified-public",
+      "notes": "The source states he came out himself and reimagined the story after doing so, transforming it from a revenge thriller into an exploration of identity and loss. No more specific label is given in the text."
+    }
+  ],
+  "trigger_warnings": [
+    "character-death",
+    "homophobia"
+  ],
+  "rep_tropes": [
+    "bury-your-gays",
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "Identity labels for Miguel and Santiago are drawn from the explicit same-sex affair described in the plot; the source provides no more specific self-identification, so the queer umbrella is used. Miguel could plausibly be read as bisexual given his marriage, but this is unconfirmed. bury-your-gays/tragic-queer applied because Santiago, a central queer character, drowns early and lingers only as a ghost; a maintainer may wish to weigh this against the film's redemptive, dignifying ending (the sea burial). Marked own-voices per the director's stated coming out. Subtitle/audio languages not discussed in source. Please verify spicy_level and consider adding 'infidelity' context if the schema supports it later."
+}

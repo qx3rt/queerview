@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 618228,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Nicholas van der Swart",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a closeted gay teenager forced into military service; his concealment of his sexuality and emerging feelings for another recruit are central to the plot.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Dylan Stassen",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Nicholas develops feelings for him; the source text confirms Nicholas's attraction but does not explicitly state Dylan's own identity, so 'queer' is used as an umbrella inference.",
+      "contested": true,
+      "contest_notes": "The plot establishes Nicholas's feelings toward Dylan but does not state whether Dylan reciprocates or identifies as queer."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "conversion-therapy",
+    "child-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Based on the provided plot summary and content warnings only. Nicholas's gay identity is explicit in the source text; Dylan's queerness is only implied via Nicholas's feelings and should be verified. Content warnings note institutional violence resembling conversion therapy (Ward 22) and military brutality/abuse of conscripts. Director Oliver Hermanus's own identity is not stated in the source text, so no creator identity tags were added — please verify. No language/subtitle/audio info was provided."
+}

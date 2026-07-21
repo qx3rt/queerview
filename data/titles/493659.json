@@ -1,0 +1,32 @@
+{
+  "tmdb_id": 493659,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Linn da Quebrada",
+      "identities": [
+        "travesti"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "The documentary centers Linn da Quebrada, described as a travesti Brazilian musician and activist and 'star of her own story.' Her activism directly confronts homophobia and transphobia through radical performance art. Rep is positive as an own-voices portrait emphasizing her agency.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "transphobia",
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "Linn da Quebrada is identified in the source as a travesti; the vocab now has a dedicated 'travesti' slug for this Latin American trans-feminine identity, added after this draft first surfaced the gap. Directors Claudia Priscilla and Kiko Goifman are named but the source does not state their identities, so no creator tags were added. Won the 2018 Berlin Teddy Award for best LGBTQ documentary. Subtitle/audio language info not provided."
+}
