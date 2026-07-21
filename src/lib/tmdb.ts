@@ -54,13 +54,23 @@ function getToken(): string {
   return token;
 }
 
-async function tmdbFetch<T>(path: string): Promise<T> {
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function tmdbFetch<T>(path: string, retriesLeft = 5): Promise<T> {
   const res = await fetch(`${TMDB_API_BASE}${path}`, {
     headers: {
       Authorization: `Bearer ${getToken()}`,
       accept: 'application/json',
     },
   });
+  if (res.status === 429 && retriesLeft > 0) {
+    const retryAfterHeader = res.headers.get('Retry-After');
+    const retryAfterMs = retryAfterHeader ? Number(retryAfterHeader) * 1000 : 1000 * (6 - retriesLeft);
+    await sleep(retryAfterMs);
+    return tmdbFetch<T>(path, retriesLeft - 1);
+  }
   if (!res.ok) {
     throw new Error(`TMDB request failed (${res.status}): ${path}`);
   }

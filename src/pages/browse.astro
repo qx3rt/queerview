@@ -10,27 +10,36 @@ const triggerWarnings = getTagVocab('trigger_warnings');
 
 const configured = isTmdbConfigured();
 
-const rows = configured
-  ? await Promise.all(
-      titles.map(async (t) => {
-        const tmdb = t.media_type === 'movie' ? await getMovie(t.tmdb_id) : await getTvShow(t.tmdb_id);
-        const name = 'title' in tmdb ? tmdb.title : tmdb.name;
-        return {
-          tmdb_id: t.tmdb_id,
-          media_type: t.media_type,
-          name,
-          poster: tmdbPosterUrl(tmdb.poster_path),
-          original_language: t.original_language_override ?? tmdb.original_language,
-          genres: tmdb.genres.map((g) => g.name.toLowerCase()),
-          identities: [...new Set(t.queer_characters.flatMap((c) => c.identities))],
-          rep_qualities: [...new Set(t.queer_characters.map((c) => c.rep_quality))],
-          spicy_level: t.spicy_level,
-          subtitles_available: t.subtitles_available,
-          trigger_warnings: t.trigger_warnings,
-        };
-      })
-    )
-  : [];
+async function fetchRow(t: (typeof titles)[number]) {
+  const tmdb = t.media_type === 'movie' ? await getMovie(t.tmdb_id) : await getTvShow(t.tmdb_id);
+  const name = 'title' in tmdb ? tmdb.title : tmdb.name;
+  return {
+    tmdb_id: t.tmdb_id,
+    media_type: t.media_type,
+    name,
+    poster: tmdbPosterUrl(tmdb.poster_path),
+    original_language: t.original_language_override ?? tmdb.original_language,
+    genres: tmdb.genres.map((g) => g.name.toLowerCase()),
+    identities: [...new Set(t.queer_characters.flatMap((c) => c.identities))],
+    rep_qualities: [...new Set(t.queer_characters.map((c) => c.rep_quality))],
+    spicy_level: t.spicy_level,
+    subtitles_available: t.subtitles_available,
+    trigger_warnings: t.trigger_warnings,
+  };
+}
+
+const BATCH_SIZE = 10;
+
+async function fetchRowsThrottled(items: typeof titles) {
+  const results: Awaited<ReturnType<typeof fetchRow>>[] = [];
+  for (let i = 0; i < items.length; i += BATCH_SIZE) {
+    const batch = items.slice(i, i + BATCH_SIZE);
+    results.push(...(await Promise.all(batch.map(fetchRow))));
+  }
+  return results;
+}
+
+const rows = configured ? await fetchRowsThrottled(titles) : [];
 ---
 
 <Layout title="Browse">
