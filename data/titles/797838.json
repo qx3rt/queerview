@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 797838,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Sergey",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay Soviet airman based on a real person; his romance with Roman is central and framed against Soviet-era persecution.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Roman",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "A gay fighter pilot and Sergey's lover; his death in the Soviet-Afghan War concludes the film, reflecting a tragic queer arc set in a repressive historical period.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death"
+  ],
+  "rep_tropes": [
+    "bury-your-gays",
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Based on a true story of two Soviet Air Force servicemen during the Cold War. Both leads are explicitly gay per the source. Rep flagged as historical-context given the Soviet-era setting and persecution; bury-your-gays/tragic-queer noted because Roman dies and the couple is forcibly separated, leaving Sergey alone. No creator identity info provided in source. Subtitle/audio languages not stated despite Estonian/British co-production—please verify. Trigger warnings for war violence and Soviet legal persecution noted in source but not all map cleanly to the schema enum."
+}

@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 898673,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 5,
+  "subtitles_available": [],
+  "audio_languages": [
+    "French",
+    "German"
+  ],
+  "queer_characters": [
+    {
+      "name": "Tomas",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly a bisexual filmmaker married to a man while pursuing an affair with a woman. Complex, human portrayal but his selfishness and inability to commit drive the conflict, which risks reinforcing negative associations with bisexual characters.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Martin",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Tomas's husband, described as gay; responds to infidelity by forming a new, self-determined relationship with Amad, portrayed with agency rather than as a victim.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Amad",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as gay/queer; functions largely as Martin's new partner with limited independent characterization in the provided text.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text describes an NC-17 rated film centering a bisexual protagonist (Tomas) and two gay characters (Martin, Amad). Languages noted as French/German; subtitle availability not stated. The provided content warnings mention infidelity, emotional trauma from betrayal, and an abortion (Agathe terminates her pregnancy) — none of which map cleanly onto the available trigger-warning enum, so trigger_warnings is left empty pending maintainer review. No information about the creators' identities was provided. Tomas's rep_quality flagged 'mixed' because a bisexual lead is depicted as selfish and unable to commit; a maintainer may wish to reconsider against the full film."
+}

@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 133342,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Sabi Mehboob",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a nonbinary first-generation Pakistani-Canadian embracing their nonbinary identity; portrayed by nonbinary co-creator, and the series is noted as culturally significant for representation.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Bilal Baig",
+      "role": "creator",
+      "identities": [
+        "nonbinary"
+      ],
+      "source": "self-identified-public",
+      "notes": "Co-creator, lead actor, and writer described as nonbinary, bringing an authentic own-voices perspective to the character of Sabi."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms Sabi and creator Bilal Baig as nonbinary. Bilal Baig is also credited as Zaiba Baig in some sources per the provided text. No information on subtitles, audio languages, or content warnings was provided; a maintainer should verify. Spicy level defaulted to 1 as the source text does not discuss sexual content."
+}

@@ -1,0 +1,52 @@
+{
+  "tmdb_id": 399178,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Siegfried Sassoon",
+      "identities": [
+        "queer",
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The narrative centers his same-sex love affairs with men during the 1920s while also depicting his later marriage to a woman and fathering a son, portrayed as part of a complex real-life story.",
+      "contested": true,
+      "contest_notes": "The source text describes both romantic relationships with men and a marriage to a woman that produced a son, so a specific label (gay vs. bisexual) is not settled by the text; 'queer' is used as the umbrella with 'bisexual' as one supported reading."
+    },
+    {
+      "name": "Robbie Ross",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Named as one of the men Sassoon had a love affair with; the source text gives no further detail on characterization.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Stephen Tennant",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Named as one of the men Sassoon had a love affair with during the 1920s; no further detail provided in the source.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Based on a limited plot summary. The source notes psychiatric institutionalization, wartime trauma, and grief as content warnings, but these do not map cleanly to the available trigger-warning enum, so that field was left empty. A specific label for Sassoon's sexuality was not stated in the text; please verify against the film itself. No information on creators, subtitles, or audio languages was provided."
+}

@@ -1,0 +1,40 @@
+{
+  "tmdb_id": 814776,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "PJ",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a lesbian teen who masterminds the fight club scheme; a central protagonist portrayed with agency and comedic focus in a lesbian-led teen comedy.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Josie",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as PJ's lesbian best friend and co-conspirator; a co-lead whose romantic pursuit drives the plot.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms PJ and Josie as lesbian leads. Hazel is named as a friend but the text does not state any queer identity, so she is not tagged. No creator identities, subtitle/audio languages, or specific trigger-warning enum matches (violence and sexual content are noted but do not map to listed enums like sexual-violence). Reviewer should verify spicy level and any additional queer characters/creators from the actual film."
+}

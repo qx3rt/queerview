@@ -1,0 +1,80 @@
+{
+  "tmdb_id": 158154,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 4,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Darren Rivers",
+      "identities": [
+        "nonbinary",
+        "asexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states Darren is a nonbinary student who also identifies as asexual, and is in an asexual romantic relationship with Ca$h.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ca$h Piggott",
+      "identities": [
+        "asexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source describes Ca$h as asexual and romantically involved with Darren in an asexual romantic relationship, portraying ace romance directly.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Sasha So",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source labels Sasha as queer, previously involved with Missy and dating Quinni.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Quinni Gallagher-Jones",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states Quinni dates Sasha So, a same-gender relationship; also depicted as autistic with representation praised for authenticity. No more specific orientation label given, so umbrella term used.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Malakai Mitchell",
+      "identities": [
+        "bisexual",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states Malakai, who is Bundjalung (Indigenous Australian), explores bisexuality/questioning.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "sexual-violence",
+    "self-harm",
+    "addiction",
+    "domestic-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text does not mention subtitle or audio language availability, or any queer creators — left empty pending maintainer verification. Content warnings drawn from listed content: attempted sexual assault (sexual-violence), self-harm implications, parental substance abuse (addiction) and violence (domestic-abuse); note also kidnapping and drug dealing not captured by available warning enums. Quinni's autism and Malakai/Sasha's ethnicities are marginalized-identity context beyond the queer identity schema. Draft only — please verify all identity sources."
+}

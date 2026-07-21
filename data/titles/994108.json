@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 994108,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Adam",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist, a gay screenwriter whose arc processes childhood grief and includes coming out to his deceased parents in supernatural sequences; portrayed with emotional depth.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Harry",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Adam's neighbor and love interest, explicitly gay; the reveal that he has been dead since their first meeting after a ketamine overdose contributes to a bittersweet tragic framing.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Both leads are explicitly gay per the plot summary. Harry's death (revealed as having occurred before/at their first meeting via ketamine overdose) may read as bury-your-gays or tragic-queer given a queer romantic partner dies, but the supernatural, bittersweet structure complicates a straightforward reading; a maintainer should decide whether to apply those trope tags with a specific argument. Director Andrew Haigh's identity is not stated in the source text, so no creator tag was added. Language/subtitle info not provided. Spicy level estimated from romantic framing but not confirmed by source."
+}

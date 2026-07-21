@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 744114,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Tom",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Described as a closeted gay policeman in 1950s Britain when homosexuality was illegal; his secret relationship with Patrick is central to both timelines and framed within period-accurate criminalization.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Patrick",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Tom's secret lover, explicitly gay, arrested and convicted under anti-homosexuality laws; his journal reveals the past romance and his persecution.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Source describes a two-timeline story about a closeted 1950s gay romance under criminalization. Both Tom and Patrick are stated as gay in the source, so tagged explicit-in-text. Ending suggests Tom finally embracing his feelings for Patrick, which reads as somewhat hopeful rather than a clear tragic/bury-your-gays trope, so no negative tropes tagged pending reviewer judgment. No subtitle or audio language info provided. Reviewer should verify whether on-screen intimacy warrants a higher or lower spicy_level and whether additional trigger warnings (e.g. character outcomes) apply."
+}

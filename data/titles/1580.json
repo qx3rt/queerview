@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 1580,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Brandon Shaw",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "harmful",
+      "source": "confirmed-by-creator",
+      "notes": "Original stage play explicitly portrays Brandon and Phillip as a homosexual couple; screenwriter Arthur Laurents ('I thought it was apparent') and actor Farley Granger confirmed the characters were gay. In the film the murderers' villainy and queerness are intertwined, a harmful predatory-queer pattern, though a product of Hays Code-era censorship.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Phillip Morgan",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "harmful",
+      "source": "confirmed-by-creator",
+      "notes": "Depicted with Brandon as a live-in homosexual couple in the source play; cast and screenwriter acknowledged the gay subtext. The film ties their queerness to their murderous villainy, reflecting a harmful trope under censorship constraints.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death"
+  ],
+  "rep_tropes": [
+    "predatory-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Source text notes queerness is subtext obscured by the Hays Code but confirmed by screenwriter Arthur Laurents and actor Farley Granger — hence 'confirmed-by-creator' rather than 'inferred.' A landmark example of censorship-era queer-coding where villainy and queerness are intertwined. Maintainer may wish to consider whether 'historical-context' better fits rep_quality than 'harmful.' No creator identities stated in source, so queer_creators left empty despite named contributors."
+}

@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 61350,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Josh",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "His coming to terms with being gay is a central narrative thread explored with deliberate honesty; the source notes the show avoids gay stereotypes and Season 3's 'Eggplant' episode was praised for portraying intimacy rarely afforded to queer characters.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Josh Thomas",
+      "role": "creator",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Created, wrote, and starred as a fictionalized version of himself; the source describes this as own-voices representation, indicating Thomas shares his character's gay identity."
+    }
+  ],
+  "trigger_warnings": [
+    "suicide"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text emphasizes praise for 'breaking new ground' without gay stereotypes and the acclaimed 'Eggplant' intimacy scene. Josh Thomas holds multiple roles (creator, writer, actor); only 'creator' recorded here — maintainer may wish to add additional role entries. Trigger warnings also mention broader mental health themes not covered by the enum. Confirm Thomas's public self-identification against a direct source before publishing."
+}

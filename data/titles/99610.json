@@ -1,0 +1,56 @@
+{
+  "tmdb_id": 99610,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Mae",
+      "identities": [
+        "lesbian",
+        "questioning",
+        "genderqueer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Mae is in a lesbian relationship with George while explicitly grappling with gender identity across the series—initially she/her but increasingly uncertain, framed as a genderqueer/questioning arc. Semi-autobiographical portrayal gives depth.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "George",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as a repressed middle-class woman in a lesbian relationship with Mae; her reluctance to publicly acknowledge the relationship drives a closeted-woman storyline. Whether she identifies as lesbian vs. bisexual/questioning is not specified in the source, but the text calls it a lesbian relationship.",
+      "contested": true,
+      "contest_notes": "Source labels the relationship 'lesbian' but George's own label is not stated; her repression and reluctance leave her specific identity open to interpretation."
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Mae Martin",
+      "role": "creator",
+      "identities": [
+        "nonbinary"
+      ],
+      "source": "self-identified-public",
+      "notes": "Martin created and stars in this semi-autobiographical series, is nonbinary and uses they/them pronouns per the source; the fictional character reflects Martin's own gender questioning."
+    }
+  ],
+  "trigger_warnings": [
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Mae Martin's identity is self-identified-public; the character Mae's gender arc is explicit-in-text as questioning/genderqueer per the plot description. George's specific label is unstated—flagged contested. Source notes PTSD/trauma as a trigger but there is no matching enum value; only 'addiction' was applicable. No subtitle/audio language info provided. Season 1 acclaim noted but not schema-relevant. Please verify George's identity and any additional trigger warnings on review."
+}

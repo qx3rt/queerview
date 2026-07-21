@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 511785,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Alex Truelove",
+      "identities": [
+        "gay",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states his arc moves from denial through questioning to recognizing he is gay and accepting his authentic identity, culminating in a public coming-out at prom. 'Questioning' reflects the middle of his arc as described; 'gay' is his stated final identity.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Elliot",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an 'openly gay classmate' whose presence catalyzes Alex's self-discovery.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text explicitly names Alex as gay (after questioning, including dismissing bisexual feelings as nervousness) and Elliot as openly gay. Claire is Alex's girlfriend but no queer identity is stated for her. Content warnings note parental illness (mother's cancer) and teen alcohol use, which don't map cleanly to the available trigger warning enum; a maintainer may want to flag parental illness separately. No creator identity information provided; no subtitle/audio language info in source."
+}

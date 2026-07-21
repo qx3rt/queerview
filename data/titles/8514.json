@@ -1,0 +1,28 @@
+{
+  "tmdb_id": 8514,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "RuPaul",
+      "role": "actor",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Described in source text as a gay drag performer who serves as host, mentor, and head judge."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices"
+  ],
+  "contributor_notes": "Source text notes Season 14 featured five transgender contestants, including two who entered openly trans, but does not name them, so no individual character entries could be created. RuPaul is described as a gay drag performer and host. The show is noted for LGBTQ+ visibility (GLAAD Media Award) and draws on historical queer performance traditions (1980s Harlem drag balls, 1960s drag collectives). Human maintainer should add named contestants and any language/subtitle info as available."
+}

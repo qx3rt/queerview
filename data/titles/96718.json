@@ -1,0 +1,63 @@
+{
+  "tmdb_id": 96718,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Chester",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an openly gay student within a diverse queer ensemble.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Nathan",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as a closeted bisexual exploring his sexuality; arc centers on coming to terms with identity.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Greta",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a shy lesbian with romantic feelings.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "J",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described explicitly as a bisexual stoner philosopher within the friend group.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "found-family"
+  ],
+  "contributor_notes": "Character identities are taken directly from the provided plot/ensemble descriptions (explicit-in-text). Delilah is listed only as an 'activist friend' with no stated queer identity, so she was omitted. Creators Daniel and Zelda Barnz and producers Lena Dunham and Jenni Konner have no identity claims in the source text, so queer_creators is left empty pending verification. The series is set in a 'conservative community' and 'challenges conservative beliefs,' which may imply homophobia/biphobia themes, but the source does not explicitly confirm on-screen instances, so no trigger warnings were added. Spicy level is a rough guess given the focus on teen sexuality with no explicit-content detail provided. Please verify all fields."
+}

@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 125910,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Swedish"
+  ],
+  "queer_characters": [
+    {
+      "name": "Prince Wilhelm",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source describes Wilhelm as gay and the series culminates in him publicly acknowledging his identity and relationship at the school gala, framing it as a central emotional arc.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Simon Eriksson",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source explicitly describes Simon as gay; his relationship with Wilhelm forms the emotional core of the series and is portrayed authentically per the source.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source lists content warnings including homophobia, mental health conditions and eating disorders, drug addiction/substance abuse, and stalking/bullying; only homophobia and addiction map cleanly to the available enum values, so eating disorders and bullying could not be tagged. Both leads are described as gay and the relationship is central and positively received (100% RT). No creator/crew queerness information was provided in the source, so queer_creators is left empty. Audio assumed Swedish based on 'Swedish TV series'; subtitle availability not stated. Maintainer should verify spicy level and consider whether a happy-ending tag fits given the public acknowledgment described."
+}

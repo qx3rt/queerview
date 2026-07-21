@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 930094,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Alex Claremont-Diaz",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as the bisexual First Son and protagonist; his romance with Henry is central and ends happily with public support.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Prince Henry",
+      "identities": [
+        "gay",
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Alex's love interest, a British prince, whose romance is portrayed openly and affirmingly.",
+      "contested": true,
+      "contest_notes": "Source text labels him 'gay/bisexual,' leaving his specific orientation ambiguous between the two labels."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source praises the film for 'inclusion without falling back on stereotypes.' Henry's identity is listed as 'gay/bisexual' in the source, so both labels are tagged and marked contested. The 'homophobia' trigger is inferred from mentions of royal opposition and censorship in Turkey; a maintainer should verify whether on-screen homophobia is depicted. No subtitle or audio language info provided in the source."
+}
