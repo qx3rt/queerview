@@ -1,0 +1,51 @@
+{
+  "tmdb_id": 9090,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Vida Boheme",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Depicted as a drag queen; the source frames the film as a positive, non-cartoonish portrayal of drag queens. Specific sexual orientation or gender identity is not stated in the source, so 'queer' umbrella is used as an inference from the drag context.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Noxeema Jackson",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Described as a drag queen and one of the praised leads; source emphasizes positive depiction. No explicit label for orientation/gender given, so 'queer' is inferred.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Chi-Chi Rodriguez",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Described as an inexperienced 'drag princess' in the trio. Source does not specify a more precise identity, so 'queer' umbrella is inferred from the drag context.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family"
+  ],
+  "contributor_notes": "Source text confirms three drag queen leads and describes the film as groundbreaking for its positive, non-cartoonish depiction of drag, becoming a cult LGBT favorite. The provided text does not specify the characters' sexual orientations or gender identities beyond their being drag performers, so all identity tags are conservative 'queer' inferences pending maintainer review. No creators' identities were provided. Spicy level set to 1 (no sexual content indicated). Subtitles/audio languages not mentioned in source. 'Found-family' tag reflects the trio dynamic; maintainer should verify."
+}

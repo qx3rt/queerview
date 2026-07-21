@@ -1,0 +1,55 @@
+{
+  "tmdb_id": 11000,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Armand Goldman",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as gay, the more reserved half of a long-term committed couple; portrayed sympathetically in a story with a happy, accepting ending.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Albert Goldman",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly gay drag performer (stage name Starina) in a loving long-term relationship, but described as 'effete and flamboyant,' leaning on a familiar stereotype even as he is centered warmly by the narrative.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Agador",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "tokenized",
+      "source": "explicit-in-text",
+      "notes": "Described only as 'an openly gay Guatemalan housekeeper' with no further development in the source text; functions as a minor supporting figure.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "found-family",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms three gay characters and a happy, accepting ending; noted as a milestone for commercially successful, celebratory (rather than tragic) gay representation. Homophobia trigger inferred from the plot's premise of hiding the relationship to appease a conservative senator. No creator identities, spice level, or language/subtitle info provided in the source; spicy_level set to 1 as a comedy with no sexual content mentioned. Albert's rep flagged as mixed due to the 'effete and flamboyant' framing; maintainer may wish to reassess. Please verify against the actual film."
+}

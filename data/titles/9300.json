@@ -1,0 +1,29 @@
+{
+  "tmdb_id": 9300,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Orlando",
+      "identities": [
+        "genderfluid"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Orlando transforms from male to female across centuries with no in-story explanation, living as both; the film centers a gender-fluid, centuries-spanning existence as its core narrative device.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Adapted from Virginia Woolf's 1928 novel; explores gender fluidity across historical periods. Orlando's genderfluid tag is drawn from the explicit on-screen transformation and the source text's description of a 'gender-fluid' existence. Director Sally Potter is credited but the source text does not state her own identity, so no creator identity tags were added. Maintainer should verify audio/subtitle availability and any additional cast/crew identities from other sources."
+}

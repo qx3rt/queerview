@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 84892,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Patrick",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Plot explicitly reveals Patrick is gay; critically praised for being played as 'something messy and unusual' rather than stereotypical.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Brad",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as the closeted quarterback secretly involved with Patrick; his arc centers on painful denial and public rejection after his father discovers the relationship.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "child-abuse",
+    "sexual-violence"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Source confirms Patrick as gay (explicit) and Brad as a closeted love interest. Childhood sexual abuse pertains to Charlie's storyline, not the queer characters. No creator or cast queer identities confirmed in source. Subtitle/audio language info and spicy level were not discussed in source; spicy_level defaulted to 1 (no sexual content described) — please verify."
+}

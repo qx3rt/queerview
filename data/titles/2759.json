@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 2759,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Bernadette Bassenger",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly described as a recently bereaved transgender woman; portrayed with dignity and tenderness within a story centered on her journey, though she is played by a cisgender actor.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Anthony \"Tick\" Belrose / Mitzi Del Bra",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Described as a drag queen with an estranged wife and child; the source frames the trio as LGBT performers but does not explicitly state Tick's sexual orientation, so a gay reading is inferred.",
+      "contested": true,
+      "contest_notes": "Source lists him as a drag queen with a wife and child but does not explicitly label his sexuality; specific identity is an inference rather than stated in the text."
+    },
+    {
+      "name": "Adam Whitely / Felicia Jollygoodfellow",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Described as a younger, flamboyant drag queen and one of the LGBT leads; specific sexual orientation is not stated in the source, so a gay reading is inferred.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "transphobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family"
+  ],
+  "contributor_notes": "Source explicitly identifies Bernadette as a transgender woman; the two drag-queen leads' specific orientations are inferred as the text only frames them collectively as LGBT performers. Note that all three lead actors and the director are straight cisgender per the source, so casting/authorship representation is limited. Trigger warnings drawn directly from the content warnings (homophobic/transphobic abuse, violence, hate graffiti). A maintainer should verify subtitle/audio availability and any queer creator claims before publishing."
+}

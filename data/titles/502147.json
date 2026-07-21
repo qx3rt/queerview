@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 502147,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Emily Dickinson",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The film centers her decades-long romantic relationship with Susan Gilbert, depicted through intimate letters and poems addressed to Susan; the ending dramatizes the historical suppression of her queer identity.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Susan Gilbert",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Maintains a lifelong romantic bond with Emily; her strategic marriage to Emily's brother Austin is depicted as cover for their devotion within 19th-century constraints.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Based on real historical figures. The film explicitly frames Emily and Susan's relationship as romantic and confronts editor Mabel Todd's straightwashing (substituting men's names for Susan's) as historical erasure. Homophobia trigger reflects the depicted societal suppression/erasure rather than on-screen slurs; a maintainer may want to refine. Director Madeleine Olnek's identity is not stated in the source, so no creator identity tags were added. Spicy level is an estimate; source does not detail explicit content."
+}

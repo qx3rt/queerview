@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 11634,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [
+    "Swedish"
+  ],
+  "queer_characters": [
+    {
+      "name": "Agnes Ahlberg",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states her queerness is central and explicit to the narrative; she is a girl who harbors romantic feelings for Elin and her arc drives the romance.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Elin Olsson",
+      "identities": [
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a popular girl who discovers her attraction to Agnes; the text frames this as an emerging realization without a stated fixed label, so 'questioning' best fits what the source supports.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending"
+  ],
+  "contributor_notes": "Agnes tagged lesbian based on the source calling her queerness central and explicit, though the text only specifies attraction to Elin — a maintainer may wish to confirm the exact on-screen label. Elin's attraction is stated but no specific orientation label is given, so 'questioning' was chosen under the humility principle; 'bisexual' or 'unlabeled' could also apply. happy-ending inferred from the couple publicly acknowledging their relationship at the film's close; please verify tone. homophobia trigger drawn from the described social pressure to hide their relationship. No creator queer identity is asserted in the source (the Teddy Award is a queer-cinema award but does not indicate the director's identity), so queer_creators left empty. Spicy level estimated as mild teen romance; adjust if needed."
+}
