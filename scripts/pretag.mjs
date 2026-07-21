@@ -153,7 +153,7 @@ async function main() {
     model: 'claude-opus-4-8',
     max_tokens: 8000,
     thinking: { type: 'adaptive' },
-    output_config: { effort: 'high', format: { type: 'json_schema', schema } },
+    output_config: { effort: 'medium', format: { type: 'json_schema', schema } },
     system: SYSTEM_PROMPT,
     messages: [
       {

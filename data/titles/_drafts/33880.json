@@ -1,0 +1,67 @@
+{
+  "tmdb_id": 33880,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Megan Bloomfield",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Megan is sent to conversion therapy under suspicion of being a lesbian, comes to accept her identity, falls in love with Graham, comes out to her parents, and leaves with her partner in an explicit happy ending.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Graham Eaton",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as openly a lesbian and skeptical of the conversion program; she and Megan fall in love and end the film together.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Jamie Babbit",
+      "role": "director",
+      "identities": [
+        "lesbian"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source states Babbit is a lesbian and has spoken publicly about drawing on her own experiences for the film."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Clea DuVall",
+      "role": "actor",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Source notes DuVall came out publicly as gay in a 2016 op-ed for Advocate.com, years after the film's release."
+    }
+  ],
+  "trigger_warnings": [
+    "homophobia",
+    "conversion-therapy"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "own-voices",
+    "explicit-representation",
+    "no-death"
+  ],
+  "contributor_notes": "Satirical camp comedy about a conversion therapy camp with a non-tragic lesbian romance and explicit happy ending. Both leads are explicitly queer in the text; director Babbit and actor DuVall are publicly out. Source notes the broad camp style sometimes renders the 'ex-gay' camp and side characters (including a counselor storyline) one-dimensionally — a maintainer may wish to evaluate whether this warrants a rep_quality note, but the source doesn't provide enough detail to tag a specific trope. Spicy level estimated as low/mild; not addressed directly in source. No subtitle or audio language info provided."
+}
