@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 447034,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Vita Sackville-West",
+      "identities": [
+        "bisexual",
+        "polyamorous"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states the film explicitly centers a lesbian romance and that she pursues Virginia as a 'conquest' while maintaining an open marriage to a man; the marriage-plus-affair framing supports a bisexual/polyamorous reading, though the text labels the on-screen romance 'lesbian.'",
+      "contested": true,
+      "contest_notes": "The source calls it a 'lesbian romance' but also states both women maintained open marriages to men while loving each other, leaving room for a bisexual interpretation. Identity label is not fixed by the text."
+    },
+    {
+      "name": "Virginia Woolf",
+      "identities": [
+        "bisexual",
+        "polyamorous"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source describes her as a protagonist in an explicitly centered lesbian romance while also maintaining an open marriage to a man, supporting a bisexual/polyamorous reading based on the documented historical relationship.",
+      "contested": true,
+      "contest_notes": "Text uses 'lesbian romance' while also noting the open marriage to a man, so whether she is best labeled lesbian or bisexual is not resolved by the source."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source explicitly frames the central relationship as a lesbian romance between real historical writers Vita Sackville-West and Virginia Woolf, but also states both maintained open marriages to men while loving each other, which is why I flagged the specific identity labels as contested and added a bisexual/polyamorous reading. Premiered at 2019 BFI Flare and opened Frameline. No cast/crew queerness discussed in source, so queer_creators left empty. Please verify identity labels against additional sources before publishing."
+}

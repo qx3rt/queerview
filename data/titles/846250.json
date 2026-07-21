@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 846250,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Noah",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Protagonist and narrator, based on Elizabeth Bennet; explicitly gay, written and played by the film's gay creator.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Howie",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay, based on Jane Bennet/Charlotte Lucas; part of the central friend group's romantic arcs.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Will",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay love interest based on Mr. Darcy; central romance of the adaptation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Charlie",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Gay doctor based on Charles Bingley.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Luke",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Part of the ensemble described as a group of gay friends.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Keegan",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Part of the ensemble described as a group of gay friends.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Max",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Part of the ensemble described as a group of gay friends.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Cooper",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Named among the ensemble of gay friends.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Dex",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Named among the ensemble of gay friends.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Joel Kim Booster",
+      "role": "writer",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Gay, Asian-American writer who also stars as Noah; developed the film from his real friend group's experiences."
+    },
+    {
+      "tmdb_person_id": null,
+      "name": "Joel Kim Booster",
+      "role": "actor",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Stars as protagonist Noah in addition to writing the film."
+    }
+  ],
+  "trigger_warnings": [
+    "racism"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family",
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "A queer reimagining of Pride and Prejudice set on Fire Island. All characters are described in the source as gay; more specific labels aren't given. The source notes the film explores racial biases excluding queer Asian Americans (racism trigger warning). Happy-ending was not confirmed by the source text despite the romance framing, so it was left off pending maintainer review. No subtitle/audio language info provided."
+}

@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 454652,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Colette",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "The film's framing (labeled 'Bisexual Identity & Relationships') centers her romantic relationships with women alongside her marriage to Willy, portraying her journey toward personal and artistic autonomy.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Missy (Mathilde de Morny)",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Described as a person who 'presents as male'; the onstage kiss with Colette generates public outrage. The source only notes gender presentation, so a more specific gender-identity label (e.g. transmasculine/nonbinary) is not supported by the text.",
+      "contested": true,
+      "contest_notes": "The source states Missy 'presents as male' but does not clarify whether this reflects a transgender/nonbinary identity or gender-nonconforming presentation, leaving the specific identity open to interpretation."
+    },
+    {
+      "name": "Georgie Raoul-Duval",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "A Louisiana debutante who has an affair with Colette that becomes the basis for one of her novels; the text does not specify a self-identified label.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Based on the provided source text about the historical writer Colette. Colette's bisexuality is explicit in the film's framing. Missy's specific gender identity is not clearly stated in the source beyond 'presents as male' — flagged as contested for maintainer review. Georgie's identity is unlabeled in the source, so tagged with the queer umbrella. Director Wash Westmoreland's identity is not mentioned in the source, so no creator identity tags were added. Public outrage over the Moulin Rouge kiss supports a homophobia trigger warning. No subtitle/audio language info provided."
+}

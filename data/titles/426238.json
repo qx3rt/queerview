@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 426238,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Frankie",
+      "identities": [
+        "questioning",
+        "unlabeled"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "The film explicitly shows Frankie having anonymous sex with men while resisting a gay label, insisting he 'has sex with men' rather than identifying as gay. Portrayed with nuance as a closeted, questioning adolescent, but framed within homophobic violence and no clean resolution, making the rep mixed rather than wholly affirming.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Simone",
+      "identities": [],
+      "rep_quality": "positive",
+      "source": "inferred",
+      "notes": "Frankie's girlfriend; source text gives no indication of queer identity, so no identity tags applied.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "character-death",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [],
+  "contributor_notes": "Simone included only to note she is not tagged as queer per source; a maintainer may wish to remove non-queer characters. Frankie's queerness is central and explicit in behavior but he explicitly rejects the 'gay' label, so questioning/unlabeled were used. Director Eliza Hittman's identity is not addressed in the source text, so she was not added as a queer creator. Content warnings mention 'violence and physical assault' and 'sexual content' — a maintainer should confirm whether sexual-violence or domestic-abuse tags apply, as the source is ambiguous."
+}

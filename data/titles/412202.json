@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 412202,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Conor Masters",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A closeted gay rugby star who is outed and ultimately accepted by his team; his arc resolves hopefully rather than tragically.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ned Roche",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "His friendship with Conor develops romantic/close undertones, but the source text explicitly states his own orientation is not clearly labeled.",
+      "contested": true,
+      "contest_notes": "The source text says Ned's orientation is not clearly labeled; his queerness is a matter of reading the close/romantic undertones rather than any stated identity."
+    },
+    {
+      "name": "Mr. Sherry",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Supportive English teacher who comes out to school leadership by the film's end, modeling courage for the students.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "no-death"
+  ],
+  "contributor_notes": "Director John Butler is noted as basing the film on his own boarding-school experiences, but the source text does not state his identity, so no creator identity tags were added. Ned's identity left as 'queer' umbrella and marked contested per the source's note that his orientation is unlabeled. Subtitles/audio languages not mentioned in source. Please verify before publication."
+}

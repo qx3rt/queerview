@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 72633,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Nola Darling",
+      "identities": [
+        "bisexual",
+        "polyamorous"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist who maintains simultaneous open relationships with three men (explicitly polyamorous/ethically non-monogamous per the narrative) and rekindles a sexual relationship with a former female love interest, Opal, which the source describes as indicating bisexual/fluid sexuality.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Opal Gilstrap",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Recurring character described as a former love interest of Nola's with whom she rekindles a sexual relationship. Source confirms a same-gender romance but gives no specific label, so the umbrella 'queer' tag is used. Rep quality marked mixed pending fuller detail from a reviewer.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Draft based only on provided plot summary. Nola's polyamory is central and explicit; her bisexuality is signaled via the rekindled relationship with Opal. Opal's specific identity label is not given in the source, so 'queer' umbrella is used. Spike Lee is credited as creator/director/writer but no queer identity is stated for him, so no creators are tagged. Spicy level is an estimate given the emphasis on sexual relationships; verify. No subtitle/audio, trigger warning, or trope info is present in the source—maintainer should confirm and expand."
+}

@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 322903,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Maalik",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay teenager, one half of the central closeted romantic relationship; film praised for authentic portrayal of Black, Muslim, gay identity intersections.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Naz",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay teenager, the other half of the central relationship; part of an authentic, critically praised depiction of intersecting identities.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "racism"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "own-voices"
+  ],
+  "contributor_notes": "Trigger warnings drawn from source: FBI surveillance/profiling of Muslims (mapped to racism) and fear of familial rejection over sexuality (mapped to homophobia). 'own-voices' tag is provisional based on the film's praised authentic portrayal — no creator identity info was provided in the source, so a maintainer should verify. No subtitle or audio language info was given. Leads won top acting prizes at Outfest per source."
+}

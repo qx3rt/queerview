@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 90761,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Wei Wuxian",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly lovers with Lan Wangji in the source danmei novel Mo Dao Zu Shi; the TV adaptation recodes the relationship as 'soulmate' brotherhood due to Chinese censorship, so the on-screen romance is only implicit.",
+      "contested": true,
+      "contest_notes": "Source-material readers know the characters are explicitly gay lovers in the novel, while viewers of the censored TV version see only a close brotherhood; the source text describes this as a debate driven by state censorship altering the representation."
+    },
+    {
+      "name": "Lan Wangji",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Explicitly lovers with Wei Wuxian in the source danmei novel; the drama removes explicit BL content and reframes the bond as deep brotherhood, though fandom widely reads it as romantic given the origin material.",
+      "contested": true,
+      "contest_notes": "Disputed between purists aware of the novel's explicit gay relationship and viewers only familiar with the de-queered TV adaptation, per the source text."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Entry is for the 2019 TV adaptation of the danmei novel Mo Dao Zu Shi. The source text notes the novel makes Wei Wuxian and Lan Wangji explicit lovers, but Chinese censorship removed BL content from the drama, recoding the relationship as brotherhood. I marked both leads as contested to reflect the documented purist-vs-censored-viewer debate. Maintainer should verify whether 'explicit-in-text' is the right source tag given the queerness is explicit in the novel but only implicit in the TV series itself. Subtitle/audio languages were not mentioned in the source and left empty."
+}

@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 11365,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Oscar Wilde",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Film centers his homosexuality; depicts his affair with Bosie and his trial and imprisonment for 'gross indecency,' framed as an account of Victorian persecution.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lord Alfred 'Bosie' Douglas",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Portrayed as Wilde's passionate but tumultuous lover; the affair is central and depicted as turbulent.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Robbie Ross",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Described as having a relationship with Wilde within the film's depiction of his life.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Biographical film about Oscar Wilde. Source text confirms male homosexuality as central and depicts historical criminalization of homosexuality (trial, imprisonment for 'gross indecency'). Robbie Ross and Bosie noted as Wilde's partners per plot summary. No subtitle/audio language info provided. Spicy level estimated from mention of sexual content; maintainer should verify. No queer creator info given in source."
+}

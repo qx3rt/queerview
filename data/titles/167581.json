@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 167581,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [
+    "German"
+  ],
+  "queer_characters": [
+    {
+      "name": "Marc Borgmann",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as a bisexual police officer discovering same-sex attraction while in a relationship with a woman; treated seriously but the narrative centers on an affair and ends with him isolated, which reads as melancholic/cautionary rather than affirming.",
+      "contested": true,
+      "contest_notes": "Source text notes some may read the isolated, affair-centered ending as cautionary or tragic representation rather than a clean happy ending; his identity struggle leaves the specific label open to interpretation."
+    },
+    {
+      "name": "Kay Engel",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a gay police officer who initiates the romance with Marc; his same-sex attraction is presented directly and seriously.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text labels Marc bisexual and Kay gay; I marked these as explicit-in-text based on the provided character descriptions, but a maintainer should verify whether the film itself uses these labels or whether Marc's is better read as inferred given his 'identity struggle.' Ending leaves Marc isolated and centers on infidelity (note: infidelity is not an available trigger-warning enum value). Considered tragic-queer for the melancholic ending but left it off pending maintainer judgment since there is no character death. No creator info provided in source. Comparison to Brokeback Mountain and QFest Best Film win noted in reception."
+}
