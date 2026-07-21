@@ -1,0 +1,36 @@
+{
+  "tmdb_id": 44441,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Paul Korner",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "A violinist openly portrayed as a gay man who falls in love with a male student; his suicide after blackmail and social rejection is framed by the filmmakers as an indictment of Paragraph 175 rather than punishment, and the film includes educational speeches presenting orientation as a natural variation.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "conversion-therapy",
+    "suicide"
+  ],
+  "rep_tropes": [
+    "tragic-queer",
+    "bury-your-gays"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "1919 German silent film, one of the first sympathetic gay portrayals in cinema, co-written and partially funded by sexologist Magnus Hirschfeld as a polemic against Paragraph 175. The tragic-queer/bury-your-gays tropes are present (Korner's suicide) but the source text stresses this is framed as social critique, not punitive — hence rep_quality 'historical-context'. Hirschfeld's own identity is not stated in the source text, so he is not tagged as a queer creator; a maintainer may verify. No subtitle/audio info given. Content includes flashbacks depicting attempts to change orientation (conversion-therapy) and parental rejection."
+}

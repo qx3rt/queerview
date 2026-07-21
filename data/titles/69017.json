@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 69017,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Elena Alvarez",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Elena discovers her lesbian identity, comes out to her family, founds a Gay-Straight Alliance, and enters a romantic relationship with Syd; storyline centers her cultural identity and was called revolutionary.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Syd",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described in the source as a nonbinary character who becomes Elena's romantic partner in season two.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "found-family",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source confirms Elena (lesbian) and her partner Syd (nonbinary). Homophobia trigger stems from father Victor's initial rejection; addiction tag reflects noted parental alcoholism. PTSD/mental illness themes are present but not covered by the trigger-warning enum. No information on creators' identities in the source, so queer_creators left empty. Please verify subtitle/audio language availability, which the source did not mention."
+}

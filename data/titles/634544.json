@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 634544,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Frank Bledsoe",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist whose arc moves from hiding his identity and past trauma toward self-acceptance and family reconciliation; explicitly described as gay in the plot.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Walid (Wally)",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Frank's supportive partner who accompanies him on the difficult trip home; explicitly identified as gay.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "suicide",
+    "addiction"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Set in 1973; won the 2021 GLAAD Media Award for Outstanding TV Movie. Source text mentions a character named Samuel tied to Frank's traumatic past and a depicted suicide, but does not clarify Samuel's identity, so no character entry was created for him. Spicy level set to 1 as no sexual content is described. Homophobic language/violence and family religious rejection support the homophobia warning; alcohol abuse maps to addiction. No subtitle or audio language info provided. Please verify creator credits and Samuel's role during review."
+}

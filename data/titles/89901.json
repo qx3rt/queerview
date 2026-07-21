@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 89901,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Emily Dickinson",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Emily's relationship with Sue Gilbert is a central plotline depicted explicitly, including intimate scenes; she is portrayed as Sue's lover. Source text does not attach a specific label, so the queer umbrella is used.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Sue Gilbert",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as Emily's lover and best friend who later marries Austin, Emily's brother; the text explicitly depicts her intimate relationship with a woman while also marrying a man, supporting a bisexual reading.",
+      "contested": true,
+      "contest_notes": "The source text does not use an explicit label for Sue; her marriage to Austin alongside her relationship with Emily could support bisexual or other readings."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Based on TMDB source text describing Dickinson. Emily and Sue's relationship is explicitly depicted per the source. Creator Alena Smith's identity is not stated in the source, so no creator identity tags were added. No subtitle/audio language info provided. Trigger warnings left empty as the source text references patriarchal/marriage pressures but does not explicitly describe qualifying content — a maintainer should verify."
+}

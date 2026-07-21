@@ -1,0 +1,46 @@
+{
+  "tmdb_id": 86163,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Anne Lister",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Depicted as an openly same-sex attracted lesbian woman navigating 1830s societal constraints; based on her decoded diaries documenting a lifetime of same-sex relationships, and marries Ann Walker in a self-devised commitment ceremony.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ann Walker",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Wealthy neighbor who enters a romantic relationship with Anne Lister and marries her in a commitment ceremony; the source text confirms the same-sex relationship but does not give her a specific self-applied label.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "sexual-violence",
+    "addiction",
+    "domestic-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Historical drama based on Anne Lister's real diaries. Anne Lister is explicitly a lesbian in the source; Ann Walker's relationship is explicit but she is tagged with the broader 'queer' umbrella as no specific label is stated. Trigger warnings drawn from the provided list: sexual violence (a character's assault history), alcohol abuse and family violence, and period-typical anti-LGBTQ+ discrimination. Note: 'mental health crises' were mentioned but no matching enum for self-harm/suicide was supported by the text, so none added. No creator/crew information provided in source. Spicy level estimated from 'decidedly adult romance' framing; maintainer should verify."
+}

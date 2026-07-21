@@ -1,0 +1,30 @@
+{
+  "tmdb_id": 36614,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Jeff Mitchell",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A gay man whose father offers unconditional acceptance; the plot description frames this as a rare example of unequivocal parental support in 1990s queer cinema.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "found-family"
+  ],
+  "contributor_notes": "Draft based solely on provided TMDB source text. Jeff is explicitly identified as gay; his father Harry is described as straight and supportive, so Harry is not tagged as a queer character. The source describes enduring familial/romantic love and positive parental acceptance, which supports the 'found-family' tag; 'happy-ending' is a tentative reading of 'love endures through adversity' and should be verified by a maintainer. The content note mentions a stroke, illness, and aging, but none of these map to the available trigger_warnings enum values, so that array is left empty. No spice/sexual content, subtitle, or audio-language information is given in the source. David Stevens is credited as screenwriter but no information about his identity is provided, so he is not listed as a queer creator."
+}

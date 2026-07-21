@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 43028,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Melville Farr",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Described as a closeted gay barrister with a romantic past with Barrett; the film is noted as the first British film to explicitly name homosexuality and treat it sympathetically. Portrayed as courageous, sacrificing his career to expose blackmailers targeting gay men.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jack Barrett",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "Young man with a romantic past with Farr; compromised by blackmailers and dies by suicide in custody, reflecting the persecution of gay men under criminalization.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "suicide"
+  ],
+  "rep_tropes": [
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Landmark 1961 British film credited with liberalizing attitudes toward homosexuality; given an 'X' rating on release. Barrett's suicide could arguably support a 'bury-your-gays' tag, but given the historical context and sympathetic framing I've marked only tragic-queer — a maintainer may wish to reconsider. No creator identity information was provided in the source text. Subtitle/audio language details were not mentioned."
+}

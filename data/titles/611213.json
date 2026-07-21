@@ -1,0 +1,45 @@
+{
+  "tmdb_id": 611213,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Emma Nolan",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist, a 17-year-old lesbian navigating her identity after parental rejection; portrayed with courage facing bullying and given a happy, affirming ending.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Alyssa Greene",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Emma's girlfriend, depicted as closeted and initially unsupportive due to fear; the closeted arc resolves into an openly celebrated relationship by the film's end.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia",
+    "child-abuse",
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source describes a musical centered on lesbian teen Emma and her girlfriend Alyssa, ending with an inclusive, happy prom. Critical reception was mixed, with concern raised about a straight actor's flamboyant supporting performance leaning into stereotype — that supporting character (one of the four Broadway actors) is not named in the source, so no character entry was drafted; a maintainer should verify names, identities, and whether a stereotype-related rep_quality/trope tag applies. Audio and subtitle languages were not mentioned in the source."
+}

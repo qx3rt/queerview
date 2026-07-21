@@ -1,0 +1,41 @@
+{
+  "tmdb_id": 87194,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ryan Hayes",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source describes him as a gay man; the series interweaves his gay identity and cerebral palsy as intersecting parts of self-discovery, framed as honest and affecting.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Ryan O'Connell",
+      "role": "creator",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Described as an openly gay man with cerebral palsy who created and stars in this semi-autobiographical series adapting his own memoir; explicitly own-voices."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Ryan O'Connell also acts in the series (creator and star), so an additional 'actor' creator credit may be warranted. Spicy level set to 1 as source text does not describe explicit sexual content. Subtitle/audio languages not mentioned in source."
+}

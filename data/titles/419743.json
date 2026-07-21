@@ -1,0 +1,42 @@
+{
+  "tmdb_id": 419743,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 3,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ronit",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A New York photographer who left her Orthodox community after being caught in a romantic relationship with Esti; the film centers her rekindled same-sex relationship as a driving emotional arc.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Esti",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Married within the Orthodox community, she grapples with her true identity, rekindles her relationship with Ronit, and ultimately leaves her marriage to pursue her own life; the source labels her a lesbian though her arc explores identity within a repressive religious context.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Both leads are described as lesbian women in the source; the content warnings note intimate scenes between female characters, religious ostracism, and LGBTQ+ identity conflict within a strict religious community, supporting a homophobia trigger warning. The ending is described as Esti leaving her marriage with a 'promise of reconnection' — ambiguous rather than clearly a happy ending, so no happy-ending tag was applied. Esti's arc could alternatively be read as bisexual since she is married to a man, but the source explicitly labels her lesbian; a maintainer may wish to review. No subtitle or audio language info was provided in the source."
+}

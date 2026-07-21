@@ -1,0 +1,44 @@
+{
+  "tmdb_id": 541305,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Old Dolio",
+      "identities": [
+        "queer",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Develops romantic feelings for Melanie; the film ends with them kissing, framing the relationship as the emotional core and a resolution to Old Dolio's loneliness. Specific label not stated in text, so umbrella terms used.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Melanie",
+      "identities": [
+        "queer",
+        "questioning"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Reciprocates Old Dolio's feelings and kisses her in the closing scene; source text reads her as queer/questioning based on the central romance rather than an explicit self-label.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "domestic-abuse"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending"
+  ],
+  "contributor_notes": "Source text confirms an on-screen kiss and romantic resolution between Old Dolio and Melanie, so the queer romance is explicit in text, but neither character is given a specific self-identified label in the source — umbrella tags 'queer'/'questioning' are used per the provided description ('both characters read as queer/questioning'). Content considerations mention parental manipulation and emotional abuse within the family; 'domestic-abuse' is the closest available trigger tag but a maintainer should verify fit. GLAAD Media Award nomination (2021) noted in source. Subtitle/audio languages not discussed in source. Please verify identity sourcing and abuse-related tags before publishing."
+}

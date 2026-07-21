@@ -1,0 +1,30 @@
+{
+  "tmdb_id": 441188,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Chavela Vargas",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "self-identified-public",
+      "notes": "The documentary addresses her identity as a lesbian, which she publicly confirmed late in her life; the film centers her artistry and personal identity as a queer Mexican icon.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "period-piece"
+  ],
+  "contributor_notes": "Documentary portrait of real historical figure Chavela Vargas, a lesbian Mexican bolero singer whose late-in-life coming out is central to the film's legacy narrative. Source text does not mention subtitle or audio language availability, so those fields are left empty. No specific director/writer credits provided in source. Won audience awards at multiple LGBT film festivals per source."
+}

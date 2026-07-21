@@ -1,0 +1,63 @@
+{
+  "tmdb_id": 87107,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Andres Valdez",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as gay; dates Juan Carlos and later enters a lavender marriage with Tati to escape an arranged heterosexual marriage, a plotline treated as part of the comedic ensemble rather than a punchline.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Juan Carlos",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly identified as Andres's gay boyfriend from a wealthy cookie-empire family.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Tati",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Enters a non-romantic lavender marriage with Andres per the source, but the text does not state Tati's own sexual orientation; her queerness is not supported and this is only a tentative reading of her involvement in the arrangement.",
+      "contested": true,
+      "contest_notes": "The source describes Tati participating in a marriage of convenience but gives no indication of her own identity; her inclusion as a queer character is unsupported by the text."
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Julio Torres",
+      "role": "creator",
+      "identities": [
+        "gay"
+      ],
+      "source": "self-identified-public",
+      "notes": "Co-created, wrote, and stars as Andres; described as gay."
+    }
+  ],
+  "trigger_warnings": [],
+  "rep_tropes": [],
+  "community_tags": [
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Andres and Juan Carlos are explicitly gay per the source. Tati's queerness is unsupported by the text and flagged contested; a maintainer should verify whether she should be listed at all. No audio/subtitle language info was provided in the source. Lavender-marriage plotline may warrant a homophobia trigger warning if the show frames it as escaping societal pressure, but the source does not state this explicitly, so none were added."
+}

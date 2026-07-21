@@ -1,0 +1,33 @@
+{
+  "tmdb_id": 787787,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Kelsa",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Trans high school senior portrayed as a fully realized protagonist navigating a supportive coming-of-age romance; source describes the film as 'powerfully inclusive.'",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "transphobia",
+    "misgendering"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Kelsa is explicitly trans per the plot summary. Khal is described only as her romantic interest and 'not stated as queer,' so no identity tag was added. Billy Porter is credited as director but the source text does not state his identity, so no creator identity was drawn from outside knowledge — a maintainer may wish to verify. Content warnings for 'false assault allegations' and 'bathroom access discrimination' are noted in the source but have no matching enum value. Ending is hopeful/amicable; unclear whether this qualifies as own-voices without confirmation."
+}

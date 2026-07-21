@@ -1,0 +1,31 @@
+{
+  "tmdb_id": 19375,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Timothy",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as an openly gay high school senior who is the film's protagonist; his perspective drives the magical-realist plot exploring homophobia through role reversal.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms Timothy as an openly gay protagonist. The film uses a magical flower to make heterosexual townspeople fall for same-sex acquaintances, but these characters are not named or established as queer-identified, so they were not added. Content considerations note homophobia and bullying. No creator identity information, language/subtitle info, or explicit sexual content details provided in source. Maintainer should verify festival awards and cast/creator details."
+}
