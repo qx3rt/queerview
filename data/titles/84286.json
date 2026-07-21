@@ -2,7 +2,7 @@
   "tmdb_id": 84286,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -18,5 +18,5 @@
     "period-piece",
     "own-voices"
   ],
-  "contributor_notes": "Documentary chronicling ACT UP and TAG activism during the early AIDS crisis (1980s-90s). The source text does not name individual activists, so no specific queer characters are tagged here — a maintainer with access to the footage/subjects could add named real-life activists with appropriate sourcing. The film centers the gay community and AIDS activism, hence 'own-voices' and 'period-piece' tags, though a maintainer should verify creator identities before confirming own-voices. Trigger warnings drawn from stated content: AIDS-related deaths/illness (hiv-aids, character-death) and depiction of discriminatory policies against HIV-positive individuals (homophobia). Note: AIDS historian Sarah Schulman criticized the film for focusing predominantly on wealthy white activists rather than the full diversity of ACT UP — relevant to representation/humility discussions. No subtitle or audio language info was provided in the source."
+  "contributor_notes": "Documentary chronicling ACT UP and TAG activism during the early AIDS crisis (1980s-90s). The source text does not name individual activists, so no specific queer characters are tagged here \u2014 a maintainer with access to the footage/subjects could add named real-life activists with appropriate sourcing. The film centers the gay community and AIDS activism, hence 'own-voices' and 'period-piece' tags, though a maintainer should verify creator identities before confirming own-voices. Trigger warnings drawn from stated content: AIDS-related deaths/illness (hiv-aids, character-death) and depiction of discriminatory policies against HIV-positive individuals (homophobia). Note: AIDS historian Sarah Schulman criticized the film for focusing predominantly on wealthy white activists rather than the full diversity of ACT UP \u2014 relevant to representation/humility discussions. No subtitle or audio language info was provided in the source."
 }

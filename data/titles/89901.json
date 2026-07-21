@@ -2,7 +2,7 @@
   "tmdb_id": 89901,
   "media_type": "tv",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 3,
   "subtitles_available": [],
   "audio_languages": [],
@@ -37,5 +37,5 @@
     "period-piece",
     "explicit-representation"
   ],
-  "contributor_notes": "Based on TMDB source text describing Dickinson. Emily and Sue's relationship is explicitly depicted per the source. Creator Alena Smith's identity is not stated in the source, so no creator identity tags were added. No subtitle/audio language info provided. Trigger warnings left empty as the source text references patriarchal/marriage pressures but does not explicitly describe qualifying content — a maintainer should verify."
+  "contributor_notes": "Based on TMDB source text describing Dickinson. Emily and Sue's relationship is explicitly depicted per the source. Creator Alena Smith's identity is not stated in the source, so no creator identity tags were added. No subtitle/audio language info provided. Trigger warnings left empty as the source text references patriarchal/marriage pressures but does not explicitly describe qualifying content \u2014 a maintainer should verify."
 }

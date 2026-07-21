@@ -2,7 +2,7 @@
   "tmdb_id": 653610,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -158,7 +158,7 @@
       "role": "director",
       "identities": [],
       "source": "inferred",
-      "notes": "Directed and produced the film. The source text does not state Feder's gender identity, so no identity tags are applied — needs verification by a maintainer."
+      "notes": "Directed and produced the film. The source text does not state Feder's gender identity, so no identity tags are applied \u2014 needs verification by a maintainer."
     }
   ],
   "trigger_warnings": [

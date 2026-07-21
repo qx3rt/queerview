@@ -2,7 +2,7 @@
   "tmdb_id": 117098,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -36,5 +36,5 @@
   "community_tags": [
     "explicit-representation"
   ],
-  "contributor_notes": "Source text confirms Stella and Dotty as an older lesbian couple seeking legal marriage. Content touches on aging and forced institutionalization of an elderly person against her wishes (family conflict) — a maintainer may wish to consider whether a relevant trigger warning applies, though the provided enum has no clean match. No information provided on creators, subtitles, or audio languages. Spicy level set to 1 as no sexual content is indicated."
+  "contributor_notes": "Source text confirms Stella and Dotty as an older lesbian couple seeking legal marriage. Content touches on aging and forced institutionalization of an elderly person against her wishes (family conflict) \u2014 a maintainer may wish to consider whether a relevant trigger warning applies, though the provided enum has no clean match. No information provided on creators, subtitles, or audio languages. Spicy level set to 1 as no sexual content is indicated."
 }

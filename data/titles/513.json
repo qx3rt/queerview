@@ -2,7 +2,7 @@
   "tmdb_id": 513,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 3,
   "subtitles_available": [],
   "audio_languages": [],
@@ -39,5 +39,5 @@
   "community_tags": [
     "explicit-representation"
   ],
-  "contributor_notes": "Identity labels use the 'queer' umbrella because the source text describes an explicit same-sex romantic/sexual relationship but notes the director resisted the 'lesbian' label and both characters are married to men; a maintainer may refine these. The film is noted as a watershed for LGBTQ visibility in Indian cinema and sparked India's first major national conversation on lesbian rights. The ending (the women deciding to leave together after being discovered) may or may not qualify as a happy ending — left unmarked pending review. No subtitle or audio language info was provided in the source."
+  "contributor_notes": "Identity labels use the 'queer' umbrella because the source text describes an explicit same-sex romantic/sexual relationship but notes the director resisted the 'lesbian' label and both characters are married to men; a maintainer may refine these. The film is noted as a watershed for LGBTQ visibility in Indian cinema and sparked India's first major national conversation on lesbian rights. The ending (the women deciding to leave together after being discovered) may or may not qualify as a happy ending \u2014 left unmarked pending review. No subtitle or audio language info was provided in the source."
 }

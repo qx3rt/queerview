@@ -2,7 +2,7 @@
   "tmdb_id": 84892,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -38,5 +38,5 @@
   ],
   "rep_tropes": [],
   "community_tags": [],
-  "contributor_notes": "Source confirms Patrick as gay (explicit) and Brad as a closeted love interest. Childhood sexual abuse pertains to Charlie's storyline, not the queer characters. No creator or cast queer identities confirmed in source. Subtitle/audio language info and spicy level were not discussed in source; spicy_level defaulted to 1 (no sexual content described) — please verify."
+  "contributor_notes": "Source confirms Patrick as gay (explicit) and Brad as a closeted love interest. Childhood sexual abuse pertains to Charlie's storyline, not the queer characters. No creator or cast queer identities confirmed in source. Subtitle/audio language info and spicy level were not discussed in source; spicy_level defaulted to 1 (no sexual content described) \u2014 please verify."
 }

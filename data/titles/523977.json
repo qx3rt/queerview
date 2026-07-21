@@ -2,7 +2,7 @@
   "tmdb_id": 523977,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -39,5 +39,5 @@
     "happy-ending",
     "no-death"
   ],
-  "contributor_notes": "Source describes a happy ending: the two women reunite and live together with the child. Alice is explicitly a lesbian; Vera's queerness is clear from the described romance but no specific label is given in the source, so 'queer' is used pending review. Content considerations mention WWII bombing, a child nearly drowning, and grief/abandonment themes, none of which map cleanly to the available trigger-warning enum except potential wartime death — maintainer should verify. No information provided on subtitles, audio languages, or creators."
+  "contributor_notes": "Source describes a happy ending: the two women reunite and live together with the child. Alice is explicitly a lesbian; Vera's queerness is clear from the described romance but no specific label is given in the source, so 'queer' is used pending review. Content considerations mention WWII bombing, a child nearly drowning, and grief/abandonment themes, none of which map cleanly to the available trigger-warning enum except potential wartime death \u2014 maintainer should verify. No information provided on subtitles, audio languages, or creators."
 }

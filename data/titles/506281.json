@@ -2,7 +2,7 @@
   "tmdb_id": 506281,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 3,
   "subtitles_available": [],
   "audio_languages": [],
@@ -42,5 +42,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Won the Queer Lion at Venice 2020. Source text tags both leads as lesbian/queer, but since both are women married to men who fall in love with each other, I used the 'queer' umbrella label rather than 'lesbian' or 'bisexual' absent explicit self-identification in the provided text — a maintainer may wish to refine. Bury-your-gays and tragic-queer flagged because Tallie dies (allegedly of diphtheria) and the affair ends in loss. Content warnings cover Finney's domestic abuse of Tallie and Tallie's death; grief over a child's death is also present but not mapped to an available warning enum. No subtitle or audio language info provided."
+  "contributor_notes": "Won the Queer Lion at Venice 2020. Source text tags both leads as lesbian/queer, but since both are women married to men who fall in love with each other, I used the 'queer' umbrella label rather than 'lesbian' or 'bisexual' absent explicit self-identification in the provided text \u2014 a maintainer may wish to refine. Bury-your-gays and tragic-queer flagged because Tallie dies (allegedly of diphtheria) and the affair ends in loss. Content warnings cover Finney's domestic abuse of Tallie and Tallie's death; grief over a child's death is also present but not mapped to an available warning enum. No subtitle or audio language info provided."
 }

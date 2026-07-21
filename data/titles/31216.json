@@ -2,7 +2,7 @@
   "tmdb_id": 31216,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -40,5 +40,5 @@
     "own-voices",
     "period-piece"
   ],
-  "contributor_notes": "Both leads are explicitly lesbian per plot description and character notes. Story ends with the couple reuniting, supporting a happy-ending tag. Trigger warnings noted family pressure and cultural/religious conflict around LGBTQ+ identity, mapped to homophobia. 'own-voices' and 'period-piece' tags are tentative and should be verified by a maintainer — source text does not confirm creator identities or a specific historical setting. No subtitle or audio language info provided. Spicy level estimated at 2 based on romance framing; adjust if scene detail is available."
+  "contributor_notes": "Both leads are explicitly lesbian per plot description and character notes. Story ends with the couple reuniting, supporting a happy-ending tag. Trigger warnings noted family pressure and cultural/religious conflict around LGBTQ+ identity, mapped to homophobia. 'own-voices' and 'period-piece' tags are tentative and should be verified by a maintainer \u2014 source text does not confirm creator identities or a specific historical setting. No subtitle or audio language info provided. Spicy level estimated at 2 based on romance framing; adjust if scene detail is available."
 }

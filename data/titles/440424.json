@@ -2,7 +2,7 @@
   "tmdb_id": 440424,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -28,5 +28,5 @@
   ],
   "rep_tropes": [],
   "community_tags": [],
-  "contributor_notes": "Billy's queerness is central but deliberately unlabeled in the source; I applied umbrella and gender-nonconforming tags accordingly. The film includes a severe beating that puts Billy in a coma (physical violence/bullying) — note that generic 'violence' and 'bullying' are not in the trigger-warning enum, so a maintainer may want to flag them another way. Alcohol use appears via his alcoholic mother (tagged as addiction). Please verify subtitle/audio language availability, as the source text does not mention them."
+  "contributor_notes": "Billy's queerness is central but deliberately unlabeled in the source; I applied umbrella and gender-nonconforming tags accordingly. The film includes a severe beating that puts Billy in a coma (physical violence/bullying) \u2014 note that generic 'violence' and 'bullying' are not in the trigger-warning enum, so a maintainer may want to flag them another way. Alcohol use appears via his alcoholic mother (tagged as addiction). Please verify subtitle/audio language availability, as the source text does not mention them."
 }

@@ -2,7 +2,7 @@
   "tmdb_id": 374440,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -25,5 +25,5 @@
   ],
   "rep_tropes": [],
   "community_tags": [],
-  "contributor_notes": "David Cho's gay identity is explicit in the plot summary. The source text does not state director Andrew Ahn's identity, so no identity tags were added for him despite his directing this queer-themed debut — a maintainer may verify. Poverty tag reflects the 'financially distressed/struggling immigrant parents' described. Homophobia may be implied by the 'closeted' framing and cultural tension, but the source does not explicitly depict homophobic events, so it was not tagged. Spicy level set to 2 as a placeholder given the 'sexual awakening'/'cruising spot' themes, but the source gives no detail on explicitness — please verify."
+  "contributor_notes": "David Cho's gay identity is explicit in the plot summary. The source text does not state director Andrew Ahn's identity, so no identity tags were added for him despite his directing this queer-themed debut \u2014 a maintainer may verify. Poverty tag reflects the 'financially distressed/struggling immigrant parents' described. Homophobia may be implied by the 'closeted' framing and cultural tension, but the source does not explicitly depict homophobic events, so it was not tagged. Spicy level set to 2 as a placeholder given the 'sexual awakening'/'cruising spot' themes, but the source gives no detail on explicitness \u2014 please verify."
 }

@@ -2,7 +2,7 @@
   "tmdb_id": 99610,
   "media_type": "tv",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -16,7 +16,7 @@
       ],
       "rep_quality": "positive",
       "source": "explicit-in-text",
-      "notes": "Mae is in a lesbian relationship with George while explicitly grappling with gender identity across the series—initially she/her but increasingly uncertain, framed as a genderqueer/questioning arc. Semi-autobiographical portrayal gives depth.",
+      "notes": "Mae is in a lesbian relationship with George while explicitly grappling with gender identity across the series\u2014initially she/her but increasingly uncertain, framed as a genderqueer/questioning arc. Semi-autobiographical portrayal gives depth.",
       "contested": false,
       "contest_notes": ""
     },
@@ -52,5 +52,5 @@
     "own-voices",
     "explicit-representation"
   ],
-  "contributor_notes": "Mae Martin's identity is self-identified-public; the character Mae's gender arc is explicit-in-text as questioning/genderqueer per the plot description. George's specific label is unstated—flagged contested. Source notes PTSD/trauma as a trigger but there is no matching enum value; only 'addiction' was applicable. No subtitle/audio language info provided. Season 1 acclaim noted but not schema-relevant. Please verify George's identity and any additional trigger warnings on review."
+  "contributor_notes": "Mae Martin's identity is self-identified-public; the character Mae's gender arc is explicit-in-text as questioning/genderqueer per the plot description. George's specific label is unstated\u2014flagged contested. Source notes PTSD/trauma as a trigger but there is no matching enum value; only 'addiction' was applicable. No subtitle/audio language info provided. Season 1 acclaim noted but not schema-relevant. Please verify George's identity and any additional trigger warnings on review."
 }

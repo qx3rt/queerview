@@ -2,7 +2,7 @@
   "tmdb_id": 11703,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -42,5 +42,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Molina's death is central to the plot and triggers a bury-your-gays flag, though the source frames it as a heroic act of love rather than punishment—maintainer may reconsider rep_quality. Molina was imprisoned under charges of 'corrupting an underage youth'; the source does not clarify whether abuse is depicted, so no related warning was added. Valentin's queerness is flagged as contested/inferred pending confirmation. No language/subtitle info provided in source."
+  "contributor_notes": "Molina's death is central to the plot and triggers a bury-your-gays flag, though the source frames it as a heroic act of love rather than punishment\u2014maintainer may reconsider rep_quality. Molina was imprisoned under charges of 'corrupting an underage youth'; the source does not clarify whether abuse is depicted, so no related warning was added. Valentin's queerness is flagged as contested/inferred pending confirmation. No language/subtitle info provided in source."
 }

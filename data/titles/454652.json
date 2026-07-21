@@ -2,7 +2,7 @@
   "tmdb_id": 454652,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -49,5 +49,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Based on the provided source text about the historical writer Colette. Colette's bisexuality is explicit in the film's framing. Missy's specific gender identity is not clearly stated in the source beyond 'presents as male' — flagged as contested for maintainer review. Georgie's identity is unlabeled in the source, so tagged with the queer umbrella. Director Wash Westmoreland's identity is not mentioned in the source, so no creator identity tags were added. Public outrage over the Moulin Rouge kiss supports a homophobia trigger warning. No subtitle/audio language info provided."
+  "contributor_notes": "Based on the provided source text about the historical writer Colette. Colette's bisexuality is explicit in the film's framing. Missy's specific gender identity is not clearly stated in the source beyond 'presents as male' \u2014 flagged as contested for maintainer review. Georgie's identity is unlabeled in the source, so tagged with the queer umbrella. Director Wash Westmoreland's identity is not mentioned in the source, so no creator identity tags were added. Public outrage over the Moulin Rouge kiss supports a homophobia trigger warning. No subtitle/audio language info provided."
 }

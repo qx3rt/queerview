@@ -2,7 +2,7 @@
   "tmdb_id": 44441,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -32,5 +32,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "1919 German silent film, one of the first sympathetic gay portrayals in cinema, co-written and partially funded by sexologist Magnus Hirschfeld as a polemic against Paragraph 175. The tragic-queer/bury-your-gays tropes are present (Korner's suicide) but the source text stresses this is framed as social critique, not punitive — hence rep_quality 'historical-context'. Hirschfeld's own identity is not stated in the source text, so he is not tagged as a queer creator; a maintainer may verify. No subtitle/audio info given. Content includes flashbacks depicting attempts to change orientation (conversion-therapy) and parental rejection."
+  "contributor_notes": "1919 German silent film, one of the first sympathetic gay portrayals in cinema, co-written and partially funded by sexologist Magnus Hirschfeld as a polemic against Paragraph 175. The tragic-queer/bury-your-gays tropes are present (Korner's suicide) but the source text stresses this is framed as social critique, not punitive \u2014 hence rep_quality 'historical-context'. Hirschfeld's own identity is not stated in the source text, so he is not tagged as a queer creator; a maintainer may verify. No subtitle/audio info given. Content includes flashbacks depicting attempts to change orientation (conversion-therapy) and parental rejection."
 }

@@ -2,7 +2,7 @@
   "tmdb_id": 1360,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 3,
   "subtitles_available": [],
   "audio_languages": [],
@@ -28,5 +28,5 @@
     "period-piece",
     "explicit-representation"
   ],
-  "contributor_notes": "Frida Kahlo is a real historical figure; the film explicitly portrays her as bisexual. Content warnings from source (chronic pain/disability from the bus accident, miscarriage, infidelity) do not all map to available enum options—only alcoholism maps to 'addiction'. No subtitle or audio language info provided. Creator identities not discussed in source, so queer_creators left empty. Maintainer should verify."
+  "contributor_notes": "Frida Kahlo is a real historical figure; the film explicitly portrays her as bisexual. Content warnings from source (chronic pain/disability from the bus accident, miscarriage, infidelity) do not all map to available enum options\u2014only alcoholism maps to 'addiction'. No subtitle or audio language info provided. Creator identities not discussed in source, so queer_creators left empty. Maintainer should verify."
 }

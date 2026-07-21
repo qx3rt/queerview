@@ -2,7 +2,7 @@
   "tmdb_id": 611213,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -41,5 +41,5 @@
     "happy-ending",
     "explicit-representation"
   ],
-  "contributor_notes": "Source describes a musical centered on lesbian teen Emma and her girlfriend Alyssa, ending with an inclusive, happy prom. Critical reception was mixed, with concern raised about a straight actor's flamboyant supporting performance leaning into stereotype — that supporting character (one of the four Broadway actors) is not named in the source, so no character entry was drafted; a maintainer should verify names, identities, and whether a stereotype-related rep_quality/trope tag applies. Audio and subtitle languages were not mentioned in the source."
+  "contributor_notes": "Source describes a musical centered on lesbian teen Emma and her girlfriend Alyssa, ending with an inclusive, happy prom. Critical reception was mixed, with concern raised about a straight actor's flamboyant supporting performance leaning into stereotype \u2014 that supporting character (one of the four Broadway actors) is not named in the source, so no character entry was drafted; a maintainer should verify names, identities, and whether a stereotype-related rep_quality/trope tag applies. Audio and subtitle languages were not mentioned in the source."
 }

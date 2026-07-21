@@ -2,7 +2,7 @@
   "tmdb_id": 64786,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [
@@ -43,5 +43,5 @@
     "happy-ending",
     "no-death"
   ],
-  "contributor_notes": "Kim's 'transgender' tag is speculative and flagged as contested — the source explicitly calls her a butch lesbian 'tom,' and a maintainer should verify whether the transgender reading is appropriate or should be removed. Content warnings drawn from listed parental rejection based on orientation (homophobia) and suicidal ideation. Emotional manipulation/coercion and jealousy were noted but did not map cleanly to the trigger-warning enum. Spicy level set to 1 as no explicit content is indicated; adjust if the film contains more."
+  "contributor_notes": "Kim's 'transgender' tag is speculative and flagged as contested \u2014 the source explicitly calls her a butch lesbian 'tom,' and a maintainer should verify whether the transgender reading is appropriate or should be removed. Content warnings drawn from listed parental rejection based on orientation (homophobia) and suicidal ideation. Emotional manipulation/coercion and jealousy were noted but did not map cleanly to the trigger-warning enum. Spicy level set to 1 as no explicit content is indicated; adjust if the film contains more."
 }

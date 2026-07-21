@@ -2,7 +2,7 @@
   "tmdb_id": 140,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 3,
   "subtitles_available": [],
   "audio_languages": [
@@ -16,9 +16,9 @@
       ],
       "rep_quality": "harmful",
       "source": "explicit-in-text",
-      "notes": "Source describes her as a transgender woman; her arc embodies the 'tragic trans death' trope — heroin addiction, sex work, and murder, with her agency repeatedly undermined by exploitative men.",
+      "notes": "Source describes her as a transgender woman; her arc embodies the 'tragic trans death' trope \u2014 heroin addiction, sex work, and murder, with her agency repeatedly undermined by exploitative men.",
       "contested": true,
-      "contest_notes": "The source labels Ignacio/Zahara a transgender woman, but the character also functions as a drag persona of a boarding-school figure, and such Almodóvar characters are sometimes read as gay men in drag rather than as trans women; the framing is open to interpretation."
+      "contest_notes": "The source labels Ignacio/Zahara a transgender woman, but the character also functions as a drag persona of a boarding-school figure, and such Almod\u00f3var characters are sometimes read as gay men in drag rather than as trans women; the framing is open to interpretation."
     },
     {
       "name": "Enrique Goded",
@@ -69,5 +69,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Spanish-language Almodóvar film using nested narratives across 1964, 1977, and 1980. Source text does not state the director's or cast's personal identities, so none were tagged for creators — a maintainer may add self-identified-public sources. The trans character's classification is contested (see contest_notes); reviewer should verify whether the film/source frames Zahara as a trans woman or a gay man in drag. Spicy level set to 3 given depicted sexual abuse and sex work themes; adjust if a more precise content descriptor is available. No subtitle languages were mentioned in the source."
+  "contributor_notes": "Spanish-language Almod\u00f3var film using nested narratives across 1964, 1977, and 1980. Source text does not state the director's or cast's personal identities, so none were tagged for creators \u2014 a maintainer may add self-identified-public sources. The trans character's classification is contested (see contest_notes); reviewer should verify whether the film/source frames Zahara as a trans woman or a gay man in drag. Spicy level set to 3 given depicted sexual abuse and sex work themes; adjust if a more precise content descriptor is available. No subtitle languages were mentioned in the source."
 }

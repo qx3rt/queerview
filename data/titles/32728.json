@@ -2,7 +2,7 @@
   "tmdb_id": 32728,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -13,5 +13,5 @@
   ],
   "rep_tropes": [],
   "community_tags": [],
-  "contributor_notes": "Documentary on LGBTQ history in America from the 1910s through the 1960s, prior to the Stonewall riots. The source text describes interviews with LGBTQ pioneers and activists but names no specific individuals, so no character or creator identity tags could be sourced — a maintainer should add named interviewees and filmmakers with appropriate source types. Trigger warning for homophobia is drawn from the content notes citing historical persecution, systemic discrimination, and criminalization of LGBTQ people. No subtitle or audio language information was provided. This is a factual/historical work, so rep_quality character tags do not apply as drafted."
+  "contributor_notes": "Documentary on LGBTQ history in America from the 1910s through the 1960s, prior to the Stonewall riots. The source text describes interviews with LGBTQ pioneers and activists but names no specific individuals, so no character or creator identity tags could be sourced \u2014 a maintainer should add named interviewees and filmmakers with appropriate source types. Trigger warning for homophobia is drawn from the content notes citing historical persecution, systemic discrimination, and criminalization of LGBTQ people. No subtitle or audio language information was provided. This is a factual/historical work, so rep_quality character tags do not apply as drafted."
 }

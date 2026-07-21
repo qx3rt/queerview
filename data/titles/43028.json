@@ -2,7 +2,7 @@
   "tmdb_id": 43028,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -41,5 +41,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Landmark 1961 British film credited with liberalizing attitudes toward homosexuality; given an 'X' rating on release. Barrett's suicide could arguably support a 'bury-your-gays' tag, but given the historical context and sympathetic framing I've marked only tragic-queer — a maintainer may wish to reconsider. No creator identity information was provided in the source text. Subtitle/audio language details were not mentioned."
+  "contributor_notes": "Landmark 1961 British film credited with liberalizing attitudes toward homosexuality; given an 'X' rating on release. Barrett's suicide could arguably support a 'bury-your-gays' tag, but given the historical context and sympathetic framing I've marked only tragic-queer \u2014 a maintainer may wish to reconsider. No creator identity information was provided in the source text. Subtitle/audio language details were not mentioned."
 }

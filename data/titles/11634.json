@@ -2,7 +2,7 @@
   "tmdb_id": 11634,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [
@@ -40,5 +40,5 @@
   "community_tags": [
     "happy-ending"
   ],
-  "contributor_notes": "Agnes tagged lesbian based on the source calling her queerness central and explicit, though the text only specifies attraction to Elin — a maintainer may wish to confirm the exact on-screen label. Elin's attraction is stated but no specific orientation label is given, so 'questioning' was chosen under the humility principle; 'bisexual' or 'unlabeled' could also apply. happy-ending inferred from the couple publicly acknowledging their relationship at the film's close; please verify tone. homophobia trigger drawn from the described social pressure to hide their relationship. No creator queer identity is asserted in the source (the Teddy Award is a queer-cinema award but does not indicate the director's identity), so queer_creators left empty. Spicy level estimated as mild teen romance; adjust if needed."
+  "contributor_notes": "Agnes tagged lesbian based on the source calling her queerness central and explicit, though the text only specifies attraction to Elin \u2014 a maintainer may wish to confirm the exact on-screen label. Elin's attraction is stated but no specific orientation label is given, so 'questioning' was chosen under the humility principle; 'bisexual' or 'unlabeled' could also apply. happy-ending inferred from the couple publicly acknowledging their relationship at the film's close; please verify tone. homophobia trigger drawn from the described social pressure to hide their relationship. No creator queer identity is asserted in the source (the Teddy Award is a queer-cinema award but does not indicate the director's identity), so queer_creators left empty. Spicy level estimated as mild teen romance; adjust if needed."
 }

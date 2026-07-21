@@ -2,7 +2,7 @@
   "tmdb_id": 81356,
   "media_type": "tv",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 4,
   "subtitles_available": [],
   "audio_languages": [],
@@ -71,5 +71,5 @@
   "community_tags": [
     "explicit-representation"
   ],
-  "contributor_notes": "Source text confirms explicit queer identities for Eric (gay), Adam (bisexual), Ola (pansexual), and Cal (non-binary); Lily is noted as exploring her sexuality without a specific label, so tagged under the queer umbrella. Cal takes testosterone but the text only labels them non-binary, so a transgender tag was not added—maintainer may wish to verify. No creator/cast identities are stated in the source, so queer_creators is left empty. Homophobia trigger drawn from Eric's church/family arc. Subtitle and audio language info not provided. Spicy level reflects the show's central focus on sexual intimacy and therapy."
+  "contributor_notes": "Source text confirms explicit queer identities for Eric (gay), Adam (bisexual), Ola (pansexual), and Cal (non-binary); Lily is noted as exploring her sexuality without a specific label, so tagged under the queer umbrella. Cal takes testosterone but the text only labels them non-binary, so a transgender tag was not added\u2014maintainer may wish to verify. No creator/cast identities are stated in the source, so queer_creators is left empty. Homophobia trigger drawn from Eric's church/family arc. Subtitle and audio language info not provided. Spicy level reflects the show's central focus on sexual intimacy and therapy."
 }

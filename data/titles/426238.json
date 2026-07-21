@@ -2,7 +2,7 @@
   "tmdb_id": 426238,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 3,
   "subtitles_available": [],
   "audio_languages": [],
@@ -37,5 +37,5 @@
   ],
   "rep_tropes": [],
   "community_tags": [],
-  "contributor_notes": "Simone included only to note she is not tagged as queer per source; a maintainer may wish to remove non-queer characters. Frankie's queerness is central and explicit in behavior but he explicitly rejects the 'gay' label, so questioning/unlabeled were used. Director Eliza Hittman's identity is not addressed in the source text, so she was not added as a queer creator. Content warnings mention 'violence and physical assault' and 'sexual content' — a maintainer should confirm whether sexual-violence or domestic-abuse tags apply, as the source is ambiguous."
+  "contributor_notes": "Simone included only to note she is not tagged as queer per source; a maintainer may wish to remove non-queer characters. Frankie's queerness is central and explicit in behavior but he explicitly rejects the 'gay' label, so questioning/unlabeled were used. Director Eliza Hittman's identity is not addressed in the source text, so she was not added as a queer creator. Content warnings mention 'violence and physical assault' and 'sexual content' \u2014 a maintainer should confirm whether sexual-violence or domestic-abuse tags apply, as the source is ambiguous."
 }

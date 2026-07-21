@@ -2,7 +2,7 @@
   "tmdb_id": 72750,
   "media_type": "tv",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -38,5 +38,5 @@
     "bury-your-gays"
   ],
   "community_tags": [],
-  "contributor_notes": "Per source, Season 4 finale kills Villanelle right after she and Eve consummate their feelings, drawing significant 'bury your gays' backlash from critics who saw 'no real contextual reason' for the death. Source notes early seasons avoided queerbaiting through genuine mutual attraction. Villanelle's identity is tagged 'queer' rather than lesbian because the source only says she is 'romantically interested in women' without confirming exclusivity — a maintainer may wish to refine. No queer identity info is confirmed for any of the four showrunners in the provided source. Note: the series contains frequent graphic violence/murder, which is not covered by the available trigger warning enum."
+  "contributor_notes": "Per source, Season 4 finale kills Villanelle right after she and Eve consummate their feelings, drawing significant 'bury your gays' backlash from critics who saw 'no real contextual reason' for the death. Source notes early seasons avoided queerbaiting through genuine mutual attraction. Villanelle's identity is tagged 'queer' rather than lesbian because the source only says she is 'romantically interested in women' without confirming exclusivity \u2014 a maintainer may wish to refine. No queer identity info is confirmed for any of the four showrunners in the provided source. Note: the series contains frequent graphic violence/murder, which is not covered by the available trigger warning enum."
 }

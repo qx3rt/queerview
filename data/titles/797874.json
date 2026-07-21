@@ -2,7 +2,7 @@
   "tmdb_id": 797874,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 4,
   "subtitles_available": [],
   "audio_languages": [],
@@ -17,5 +17,5 @@
     "own-voices",
     "period-piece"
   ],
-  "contributor_notes": "Documentary chronicling the 1980s-90s London lesbian activist and underground scene (Greenham Common, the S&M club Chain Reaction, anti-Section 28 protests, and AIDS crisis responses), told by the women who lived it. The source text describes the subjects collectively as lesbians but names no individual participants, so no per-character entries could be drafted — a maintainer should add named subjects with 'self-identified-public' sourcing as appropriate. Spicy level 4 reflects mentioned S&M club scenes and sexual content. Won Iris Prize Best Feature (2021) and Best Documentary at Pornfilmfestival Berlin. Flagged as an own-voices work. Subtitle/audio language info not provided in source."
+  "contributor_notes": "Documentary chronicling the 1980s-90s London lesbian activist and underground scene (Greenham Common, the S&M club Chain Reaction, anti-Section 28 protests, and AIDS crisis responses), told by the women who lived it. The source text describes the subjects collectively as lesbians but names no individual participants, so no per-character entries could be drafted \u2014 a maintainer should add named subjects with 'self-identified-public' sourcing as appropriate. Spicy level 4 reflects mentioned S&M club scenes and sexual content. Won Iris Prize Best Feature (2021) and Best Documentary at Pornfilmfestival Berlin. Flagged as an own-voices work. Subtitle/audio language info not provided in source."
 }

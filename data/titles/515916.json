@@ -2,7 +2,7 @@
   "tmdb_id": 515916,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -40,5 +40,5 @@
     "tragic-queer"
   ],
   "community_tags": [],
-  "contributor_notes": "Lara is played by Victor Polster, a cisgender male, chosen after gender-neutral casting; this casting choice was a major point of criticism. Director Lukas Dhont's identity is not stated in the source. Nora Monsecour's production role is ambiguous ('collaborated uncredited') — please verify before publishing. rep_quality flagged contested per the source's explicit note. No subtitle/audio languages mentioned in source. The self-harm/genital mutilation scene is central and heavily criticized; suicide trigger reflects Monsecour's framing of it as suicidal-ideation metaphor."
+  "contributor_notes": "Lara is played by Victor Polster, a cisgender male, chosen after gender-neutral casting; this casting choice was a major point of criticism. Director Lukas Dhont's identity is not stated in the source. Nora Monsecour's production role is ambiguous ('collaborated uncredited') \u2014 please verify before publishing. rep_quality flagged contested per the source's explicit note. No subtitle/audio languages mentioned in source. The self-harm/genital mutilation scene is central and heavily criticized; suicide trigger reflects Monsecour's framing of it as suicidal-ideation metaphor."
 }

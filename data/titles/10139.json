@@ -2,7 +2,7 @@
   "tmdb_id": 10139,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -83,5 +83,5 @@
     "period-piece",
     "own-voices"
   ],
-  "contributor_notes": "Based on the true story of Harvey Milk; character deaths (Milk and Moscone's assassination) are historical fact rather than a bury-your-gays narrative choice, so that trope was not applied. Van Sant and Black are noted as publicly gay per the source but the excerpt says this is not stated directly in the film text — a maintainer may want to verify sourcing. Sean Penn has no disclosed queer identity and is excluded. Subtitle/audio languages not mentioned in source."
+  "contributor_notes": "Based on the true story of Harvey Milk; character deaths (Milk and Moscone's assassination) are historical fact rather than a bury-your-gays narrative choice, so that trope was not applied. Van Sant and Black are noted as publicly gay per the source but the excerpt says this is not stated directly in the film text \u2014 a maintainer may want to verify sourcing. Sean Penn has no disclosed queer identity and is excluded. Subtitle/audio languages not mentioned in source."
 }

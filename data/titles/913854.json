@@ -2,7 +2,7 @@
   "tmdb_id": 913854,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -38,5 +38,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Source text lists trigger warnings for historical medical gatekeeping/pathologization of trans identities and transphobia. The reenactments feature transgender actors playing historical case study subjects. Chase Joynt's personal identity is not explicitly stated in the source text and is marked 'inferred'—please verify. No subtitle or audio language info provided. Won a GLAAD Media Award and premiered at Sundance 2022."
+  "contributor_notes": "Source text lists trigger warnings for historical medical gatekeeping/pathologization of trans identities and transphobia. The reenactments feature transgender actors playing historical case study subjects. Chase Joynt's personal identity is not explicitly stated in the source text and is marked 'inferred'\u2014please verify. No subtitle or audio language info provided. Won a GLAAD Media Award and premiered at Sundance 2022."
 }

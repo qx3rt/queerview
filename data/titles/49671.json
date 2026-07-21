@@ -2,7 +2,7 @@
   "tmdb_id": 49671,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [
@@ -75,5 +75,5 @@
     "period-piece",
     "own-voices"
   ],
-  "contributor_notes": "Documentary on Nazi persecution of gay men under Paragraph 175. Character identities are drawn from real survivors' recorded testimonies (treated as self-identified-public). Source text mentions German language; subtitle availability not stated. Content warnings note extreme concentration-camp violence, graphic descriptions of prisoner deaths, and Holocaust-related persecution of gay and Jewish people — a human maintainer should verify whether additional trigger tags (e.g., sexual-violence) apply. Historical-context rep_quality reflects documentary testimony of real historical persecution."
+  "contributor_notes": "Documentary on Nazi persecution of gay men under Paragraph 175. Character identities are drawn from real survivors' recorded testimonies (treated as self-identified-public). Source text mentions German language; subtitle availability not stated. Content warnings note extreme concentration-camp violence, graphic descriptions of prisoner deaths, and Holocaust-related persecution of gay and Jewish people \u2014 a human maintainer should verify whether additional trigger tags (e.g., sexual-violence) apply. Historical-context rep_quality reflects documentary testimony of real historical persecution."
 }

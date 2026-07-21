@@ -2,7 +2,7 @@
   "tmdb_id": 258480,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -50,5 +50,5 @@
     "period-piece",
     "explicit-representation"
   ],
-  "contributor_notes": "Source text confirms Carol and Therese as a lesbian couple and Abby as Carol's ex-lover; identities marked explicit-in-text accordingly. Source describes an ending with 'the possibility of their reunion' — hopeful but not definitively a happy ending, so happy-ending was not tagged. Trigger warnings for custody loss, criminalization, and surveillance are noted in the source but fall outside the available enum; only homophobia mapped cleanly. No creator/cast queer identities are stated in the source, so queer_creators left empty. Maintainer should verify subtitle/audio availability and any creator identities from other sources."
+  "contributor_notes": "Source text confirms Carol and Therese as a lesbian couple and Abby as Carol's ex-lover; identities marked explicit-in-text accordingly. Source describes an ending with 'the possibility of their reunion' \u2014 hopeful but not definitively a happy ending, so happy-ending was not tagged. Trigger warnings for custody loss, criminalization, and surveillance are noted in the source but fall outside the available enum; only homophobia mapped cleanly. No creator/cast queer identities are stated in the source, so queer_creators left empty. Maintainer should verify subtitle/audio availability and any creator identities from other sources."
 }

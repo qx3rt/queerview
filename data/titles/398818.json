@@ -2,7 +2,7 @@
   "tmdb_id": 398818,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 3,
   "subtitles_available": [],
   "audio_languages": [],
@@ -37,5 +37,5 @@
     "period-piece",
     "explicit-representation"
   ],
-  "contributor_notes": "Both leads are explicitly involved in a same-sex relationship per the plot, but the source text does not provide specific identity labels, so the 'queer' umbrella is applied to both. The source text explicitly does NOT disclose the sexual orientations of director Luca Guadagnino, screenwriter James Ivory, or actors Timothee Chalamet and Armie Hammer, so no queer_creators are listed — a maintainer may add these if reliable sourcing exists. Note the documented age-gap controversy (17-year-old Elio and 24-year-old Oliver); this is not a listed trigger-warning enum value but a maintainer may wish to flag it. Spicy level set to 3 as an estimate based on the described sexual relationship; adjust with viewing knowledge."
+  "contributor_notes": "Both leads are explicitly involved in a same-sex relationship per the plot, but the source text does not provide specific identity labels, so the 'queer' umbrella is applied to both. The source text explicitly does NOT disclose the sexual orientations of director Luca Guadagnino, screenwriter James Ivory, or actors Timothee Chalamet and Armie Hammer, so no queer_creators are listed \u2014 a maintainer may add these if reliable sourcing exists. Note the documented age-gap controversy (17-year-old Elio and 24-year-old Oliver); this is not a listed trigger-warning enum value but a maintainer may wish to flag it. Spicy level set to 3 as an estimate based on the described sexual relationship; adjust with viewing knowledge."
 }

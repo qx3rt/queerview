@@ -2,7 +2,7 @@
   "tmdb_id": 424694,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -50,5 +50,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Source text lacks info on creators' identities, subtitle/audio languages, and Paul Prenter/Jim Hutton's specific identities — left as 'queer' umbrella per rules. Freddie is explicitly bisexual in-text. Considered 'tragic-queer' given his AIDS death and the film's restrained handling, but the source frames this as biographical fact/criticism rather than a clear narrative trope — flagging for maintainer review. Marketing criticism (Bryan Fuller) concerns the trailer, not the film itself, so no queerbaiting tag applied. Please verify rep_quality; multiple critics called the queer treatment restrained/reticent."
+  "contributor_notes": "Source text lacks info on creators' identities, subtitle/audio languages, and Paul Prenter/Jim Hutton's specific identities \u2014 left as 'queer' umbrella per rules. Freddie is explicitly bisexual in-text. Considered 'tragic-queer' given his AIDS death and the film's restrained handling, but the source frames this as biographical fact/criticism rather than a clear narrative trope \u2014 flagging for maintainer review. Marketing criticism (Bryan Fuller) concerns the trailer, not the film itself, so no queerbaiting tag applied. Please verify rep_quality; multiple critics called the queer treatment restrained/reticent."
 }

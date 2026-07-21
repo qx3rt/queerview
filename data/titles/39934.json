@@ -2,7 +2,7 @@
   "tmdb_id": 39934,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -75,5 +75,5 @@
     "period-piece",
     "explicit-representation"
   ],
-  "contributor_notes": "Historically significant as the first wide-release theatrical film to address AIDS. The tragic-queer trope reflects the narrative's focus on illness and death (John's early death, Sean's deterioration), which is grounded in the historical reality of the epidemic rather than gratuitous—reviewer may wish to consider a 'historical-context' framing. Character professions listed but not individually mapped to names in the source. Subtitle/audio language info not provided. Please verify creator information, as none was included in the source text."
+  "contributor_notes": "Historically significant as the first wide-release theatrical film to address AIDS. The tragic-queer trope reflects the narrative's focus on illness and death (John's early death, Sean's deterioration), which is grounded in the historical reality of the epidemic rather than gratuitous\u2014reviewer may wish to consider a 'historical-context' framing. Character professions listed but not individually mapped to names in the source. Subtitle/audio language info not provided. Please verify creator information, as none was included in the source text."
 }

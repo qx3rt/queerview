@@ -2,7 +2,7 @@
   "tmdb_id": 95215,
   "media_type": "tv",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -29,5 +29,5 @@
     "own-voices",
     "explicit-representation"
   ],
-  "contributor_notes": "Willie Jack is the only character the source text explicitly identifies as queer (Two-Spirit). No other characters' identities are supported by the provided text. Neither co-creator (Sterlin Harjo, Taika Waititi) is described as queer in the source, so queer_creators is left empty. Note the show's central plot involves a friend's death by suicide (Daniel) — flagged for suicide and character-death. The 'own-voices' tag reflects the Indigenous-led writers' room and cast, though this pertains to Indigenous rather than queer authorship; a maintainer should verify appropriateness. No sexual content mentioned in source, so spicy_level set to 1."
+  "contributor_notes": "Willie Jack is the only character the source text explicitly identifies as queer (Two-Spirit). No other characters' identities are supported by the provided text. Neither co-creator (Sterlin Harjo, Taika Waititi) is described as queer in the source, so queer_creators is left empty. Note the show's central plot involves a friend's death by suicide (Daniel) \u2014 flagged for suicide and character-death. The 'own-voices' tag reflects the Indigenous-led writers' room and cast, though this pertains to Indigenous rather than queer authorship; a maintainer should verify appropriateness. No sexual content mentioned in source, so spicy_level set to 1."
 }

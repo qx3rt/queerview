@@ -2,7 +2,7 @@
   "tmdb_id": 244063,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [
@@ -42,5 +42,5 @@
     "happy-ending",
     "explicit-representation"
   ],
-  "contributor_notes": "Audio language inferred as Dutch from the source noting the film is Dutch; no subtitle info provided. Trigger warnings drawn from source: parental death (character-death) and social pressure/identity suppression (tentatively tagged homophobia — maintainer should verify whether this reflects external homophobia or internalized distress). Both leads explicitly described as gay with a happy ending. No creator info in source. Please verify spicy level; source only mentions kisses."
+  "contributor_notes": "Audio language inferred as Dutch from the source noting the film is Dutch; no subtitle info provided. Trigger warnings drawn from source: parental death (character-death) and social pressure/identity suppression (tentatively tagged homophobia \u2014 maintainer should verify whether this reflects external homophobia or internalized distress). Both leads explicitly described as gay with a happy ending. No creator info in source. Please verify spicy level; source only mentions kisses."
 }

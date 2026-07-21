@@ -2,7 +2,7 @@
   "tmdb_id": 1580,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -40,5 +40,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Source text notes queerness is subtext obscured by the Hays Code but confirmed by screenwriter Arthur Laurents and actor Farley Granger — hence 'confirmed-by-creator' rather than 'inferred.' A landmark example of censorship-era queer-coding where villainy and queerness are intertwined. Maintainer may wish to consider whether 'historical-context' better fits rep_quality than 'harmful.' No creator identities stated in source, so queer_creators left empty despite named contributors."
+  "contributor_notes": "Source text notes queerness is subtext obscured by the Hays Code but confirmed by screenwriter Arthur Laurents and actor Farley Granger \u2014 hence 'confirmed-by-creator' rather than 'inferred.' A landmark example of censorship-era queer-coding where villainy and queerness are intertwined. Maintainer may wish to consider whether 'historical-context' better fits rep_quality than 'harmful.' No creator identities stated in source, so queer_creators left empty despite named contributors."
 }

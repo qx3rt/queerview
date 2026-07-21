@@ -2,7 +2,7 @@
   "tmdb_id": 418378,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -32,5 +32,5 @@
   "community_tags": [
     "found-family"
   ],
-  "contributor_notes": "Trisha is explicitly a trans woman per the plot summary. Rep marked 'mixed' because while the film received acclaim and centers her, her arc involves heavy trauma (gang rape, family rejection, death) — a maintainer may wish to reconsider. Barbs is named as her best friend but the source text does not state a queer identity, so she is not tagged. The father is described as homophobic; transphobia trigger inferred from his refusal to accept her as a woman and desire to bury her 'as a man.' Deadnaming warning based on the noted birth name and the burial conflict. No creator identities are stated in the source text; Paolo Ballesteros is credited as the actor but no identity is given. Subtitle/audio languages not mentioned."
+  "contributor_notes": "Trisha is explicitly a trans woman per the plot summary. Rep marked 'mixed' because while the film received acclaim and centers her, her arc involves heavy trauma (gang rape, family rejection, death) \u2014 a maintainer may wish to reconsider. Barbs is named as her best friend but the source text does not state a queer identity, so she is not tagged. The father is described as homophobic; transphobia trigger inferred from his refusal to accept her as a woman and desire to bury her 'as a man.' Deadnaming warning based on the noted birth name and the burial conflict. No creator identities are stated in the source text; Paolo Ballesteros is credited as the actor but no identity is given. Subtitle/audio languages not mentioned."
 }

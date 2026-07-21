@@ -2,7 +2,7 @@
   "tmdb_id": 370870,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -30,5 +30,5 @@
   "community_tags": [
     "own-voices"
   ],
-  "contributor_notes": "Siras's gay identity is central and explicit in the film's premise (filmed in an intimate moment with a man, prosecuted under Section 377). His tragic death is part of the real historical events, so 'tragic-queer' is flagged as historical-context rather than gratuitous — a maintainer may wish to reconsider whether 'bury-your-gays' applies given the true-story basis. 'own-voices' community tag is a guess about the source text describing this as authentic to the Indian gay experience — please verify, as no creator identity is stated in the source. Deepak Sebastian (journalist) and director Hansal Mehta have no queerness indicated in the source and were not tagged. Subtitles/audio languages not mentioned in source."
+  "contributor_notes": "Siras's gay identity is central and explicit in the film's premise (filmed in an intimate moment with a man, prosecuted under Section 377). His tragic death is part of the real historical events, so 'tragic-queer' is flagged as historical-context rather than gratuitous \u2014 a maintainer may wish to reconsider whether 'bury-your-gays' applies given the true-story basis. 'own-voices' community tag is a guess about the source text describing this as authentic to the Indian gay experience \u2014 please verify, as no creator identity is stated in the source. Deepak Sebastian (journalist) and director Hansal Mehta have no queerness indicated in the source and were not tagged. Subtitles/audio languages not mentioned in source."
 }

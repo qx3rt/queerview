@@ -2,7 +2,7 @@
   "tmdb_id": 319998,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [
@@ -26,5 +26,5 @@
   "trigger_warnings": [],
   "rep_tropes": [],
   "community_tags": [],
-  "contributor_notes": "The film centers Hana/Mark, an Albanian woman who takes the Burrnesha (sworn virgin) oath to live socially as a man, later immigrating to Italy and experiencing a 'sexual awakening' and 'forbidden love.' Per Queerview's humility value, I avoided imposing a specific Western identity label since the source explicitly distinguishes the Burrnesha tradition from Western trans/nonbinary frameworks; a maintainer familiar with the film should verify. The gender of the romantic partner in the 'forbidden love' subplot is not specified in the source, so I did not tag same-sex attraction. Audio languages inferred from the 'Albanian/Italian' production note — please confirm. Director Laura Bispuri is named but the source gives no information about her identity, so she is not listed as a queer creator."
+  "contributor_notes": "The film centers Hana/Mark, an Albanian woman who takes the Burrnesha (sworn virgin) oath to live socially as a man, later immigrating to Italy and experiencing a 'sexual awakening' and 'forbidden love.' Per Queerview's humility value, I avoided imposing a specific Western identity label since the source explicitly distinguishes the Burrnesha tradition from Western trans/nonbinary frameworks; a maintainer familiar with the film should verify. The gender of the romantic partner in the 'forbidden love' subplot is not specified in the source, so I did not tag same-sex attraction. Audio languages inferred from the 'Albanian/Italian' production note \u2014 please confirm. Director Laura Bispuri is named but the source gives no information about her identity, so she is not listed as a queer creator."
 }

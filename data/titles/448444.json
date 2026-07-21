@@ -2,7 +2,7 @@
   "tmdb_id": 448444,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -52,5 +52,5 @@
     "period-piece",
     "explicit-representation"
   ],
-  "contributor_notes": "Documentary chronicling real historical trans activists Marsha P. Johnson and Sylvia Rivera. Note the controversy raised in the source text: filmmaker Tourmaline alleged director David France appropriated her research; France denied it and investigations found no supporting evidence, but it raised questions about a non-transgender filmmaker telling this story — a maintainer may want to reflect this in the queer_creators/own-voices tagging. No source text on director's identity, so no queer_creators entries added. Trigger warnings for historical erasure and police negligence noted in source text but no matching enum values available. Subtitle/audio language info not provided."
+  "contributor_notes": "Documentary chronicling real historical trans activists Marsha P. Johnson and Sylvia Rivera. Note the controversy raised in the source text: filmmaker Tourmaline alleged director David France appropriated her research; France denied it and investigations found no supporting evidence, but it raised questions about a non-transgender filmmaker telling this story \u2014 a maintainer may want to reflect this in the queer_creators/own-voices tagging. No source text on director's identity, so no queer_creators entries added. Trigger warnings for historical erasure and police negligence noted in source text but no matching enum values available. Subtitle/audio language info not provided."
 }

@@ -2,7 +2,7 @@
   "tmdb_id": 308084,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -61,5 +61,5 @@
     "own-voices",
     "explicit-representation"
   ],
-  "contributor_notes": "Sin-Dee and Alexandra are explicitly trans; both played by trans actresses (Rodriguez and Taylor), supporting an own-voices tag. Razmik, the Armenian cab driver with a 'secret interest in trans sex workers,' and Chester, who slept with both trans women, are not given explicit queer labels in the source, so I left them out — a maintainer may want to review whether either warrants an inferred entry. Trigger warning for transphobia reflects the slurs and urine-throwing assault near the film's end; a maintainer may consider adding sexual-violence given the sex-work context. Subtitle/audio languages not discussed in source."
+  "contributor_notes": "Sin-Dee and Alexandra are explicitly trans; both played by trans actresses (Rodriguez and Taylor), supporting an own-voices tag. Razmik, the Armenian cab driver with a 'secret interest in trans sex workers,' and Chester, who slept with both trans women, are not given explicit queer labels in the source, so I left them out \u2014 a maintainer may want to review whether either warrants an inferred entry. Trigger warning for transphobia reflects the slurs and urine-throwing assault near the film's end; a maintainer may consider adding sexual-violence given the sex-work context. Subtitle/audio languages not discussed in source."
 }

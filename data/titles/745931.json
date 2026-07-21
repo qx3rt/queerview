@@ -2,7 +2,7 @@
   "tmdb_id": 745931,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -36,5 +36,5 @@
   ],
   "rep_tropes": [],
   "community_tags": [],
-  "contributor_notes": "Source text notes a love triangle involving an arranged marriage to childhood friend Seher, driven by family pressure after Beyto's relationship becomes known — reviewers cited homophobia/family rejection themes, hence the homophobia trigger warning. The film is described as multilingual reflecting contemporary Switzerland (Swiss-Turkish), but no specific subtitle or audio languages were listed, so those fields are left empty. Spicy level is an estimate (2) as the source does not describe sexual content. No creator identities were provided. A human maintainer should verify language availability and any own-voices/creator info."
+  "contributor_notes": "Source text notes a love triangle involving an arranged marriage to childhood friend Seher, driven by family pressure after Beyto's relationship becomes known \u2014 reviewers cited homophobia/family rejection themes, hence the homophobia trigger warning. The film is described as multilingual reflecting contemporary Switzerland (Swiss-Turkish), but no specific subtitle or audio languages were listed, so those fields are left empty. Spicy level is an estimate (2) as the source does not describe sexual content. No creator identities were provided. A human maintainer should verify language availability and any own-voices/creator info."
 }

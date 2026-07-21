@@ -2,7 +2,7 @@
   "tmdb_id": 10938,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -42,5 +42,5 @@
     "no-death",
     "period-piece"
   ],
-  "contributor_notes": "Source text describes Jamie and Ste as gay explicitly. Hettie Macdonald listed as director but source gives no identity info, so no creator identities claimed. Domestic abuse is by Ste's brother and father (family), tagged as both domestic-abuse and child-abuse; maintainer may wish to refine. period-piece tag reflects 1996 setting/release—verify appropriateness. Subtitle/audio languages not mentioned in source."
+  "contributor_notes": "Source text describes Jamie and Ste as gay explicitly. Hettie Macdonald listed as director but source gives no identity info, so no creator identities claimed. Domestic abuse is by Ste's brother and father (family), tagged as both domestic-abuse and child-abuse; maintainer may wish to refine. period-piece tag reflects 1996 setting/release\u2014verify appropriateness. Subtitle/audio languages not mentioned in source."
 }

@@ -2,7 +2,7 @@
   "tmdb_id": 428493,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 4,
   "subtitles_available": [],
   "audio_languages": [],
@@ -14,7 +14,7 @@
       ],
       "rep_quality": "positive",
       "source": "explicit-in-text",
-      "notes": "Depicted as a closeted farmer whose arc moves from repression—binge drinking and anonymous encounters—toward self-acceptance and choosing love, a hopeful and layered portrayal.",
+      "notes": "Depicted as a closeted farmer whose arc moves from repression\u2014binge drinking and anonymous encounters\u2014toward self-acceptance and choosing love, a hopeful and layered portrayal.",
       "contested": false,
       "contest_notes": ""
     },
@@ -52,5 +52,5 @@
     "explicit-representation",
     "no-death"
   ],
-  "contributor_notes": "Both leads' queerness is explicit in the text via their romantic/sexual relationship. Gheorghe is tagged 'gay' based on the same-sex relationship, but the source gives no explicit self-label for him—a maintainer may prefer 'queer' or 'unlabeled'. Source notes explicit sexual content (spicy level 4) and that the film ends hopefully, deliberately contrasting with the tragic 'Brokeback Mountain' pattern, so no bury-your-gays trope applies. Addiction warning drawn from Johnny's binge drinking; no audio/subtitle languages were mentioned in the source."
+  "contributor_notes": "Both leads' queerness is explicit in the text via their romantic/sexual relationship. Gheorghe is tagged 'gay' based on the same-sex relationship, but the source gives no explicit self-label for him\u2014a maintainer may prefer 'queer' or 'unlabeled'. Source notes explicit sexual content (spicy level 4) and that the film ends hopefully, deliberately contrasting with the tragic 'Brokeback Mountain' pattern, so no bury-your-gays trope applies. Addiction warning drawn from Johnny's binge drinking; no audio/subtitle languages were mentioned in the source."
 }

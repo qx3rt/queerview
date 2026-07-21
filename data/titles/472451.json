@@ -2,7 +2,7 @@
   "tmdb_id": 472451,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 2,
   "subtitles_available": [],
   "audio_languages": [],
@@ -30,5 +30,5 @@
     "own-voices",
     "period-piece"
   ],
-  "contributor_notes": "Based on Garrard Conley's 2016 memoir; adapted by Joel Edgerton with some dramatized/fictionalized scenes. 'own-voices' tag reflects the memoir source but Edgerton's own identity is not stated in the source text — maintainer should verify. Physical abuse (participants beaten with Bibles) and psychological abuse depicted. No subtitle/audio language info provided. Jared's happy/authentic ending is depicted (living openly in NYC) but I did not add 'happy-ending' given the traumatic overall content — maintainer may reconsider."
+  "contributor_notes": "Based on Garrard Conley's 2016 memoir; adapted by Joel Edgerton with some dramatized/fictionalized scenes. 'own-voices' tag reflects the memoir source but Edgerton's own identity is not stated in the source text \u2014 maintainer should verify. Physical abuse (participants beaten with Bibles) and psychological abuse depicted. No subtitle/audio language info provided. Jared's happy/authentic ending is depicted (living openly in NYC) but I did not add 'happy-ending' given the traumatic overall content \u2014 maintainer may reconsider."
 }

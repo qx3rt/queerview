@@ -2,7 +2,7 @@
   "tmdb_id": 306819,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -41,5 +41,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Draft based solely on provided source text. Lili Elbe is a real historical figure and one of the first known recipients of gender-affirming surgery; the film takes 'significant historical liberties.' The 'tragic-queer' trope is flagged because Lili dies from surgical complications. Note the significant real-world criticism regarding cis casting and problematic framing of trans identity — a human maintainer should verify rep_quality framing and consider a 'historical-context' note. Trigger warnings for medical trauma/surgical procedures are noted in the source but have no matching enum value. Subtitle and audio language info was not provided."
+  "contributor_notes": "Draft based solely on provided source text. Lili Elbe is a real historical figure and one of the first known recipients of gender-affirming surgery; the film takes 'significant historical liberties.' The 'tragic-queer' trope is flagged because Lili dies from surgical complications. Note the significant real-world criticism regarding cis casting and problematic framing of trans identity \u2014 a human maintainer should verify rep_quality framing and consider a 'historical-context' note. Trigger warnings for medical trauma/surgical procedures are noted in the source but have no matching enum value. Subtitle and audio language info was not provided."
 }

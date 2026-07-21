@@ -2,7 +2,7 @@
   "tmdb_id": 426613,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -64,5 +64,5 @@
     "found-family",
     "period-piece"
   ],
-  "contributor_notes": "Set in 1993 at 'God's Promise' conversion therapy center. Cameron's lesbian identity is explicit in the source; Coley, Jane, and Adam are less specifically labeled — flagged accordingly. Director Desiree Akhavan co-wrote and adapted the novel, but the source gives no information about her identity, so she is not listed as a queer creator. Source notes emotional abuse and religious trauma, which have no exact enum match; child-abuse used to cover the abuse of teen residents. Ending appears hopeful (the friends escape) but 'happy-ending' left off pending maintainer review. Please verify subtitle/audio and creator details from other sources."
+  "contributor_notes": "Set in 1993 at 'God's Promise' conversion therapy center. Cameron's lesbian identity is explicit in the source; Coley, Jane, and Adam are less specifically labeled \u2014 flagged accordingly. Director Desiree Akhavan co-wrote and adapted the novel, but the source gives no information about her identity, so she is not listed as a queer creator. Source notes emotional abuse and religious trauma, which have no exact enum match; child-abuse used to cover the abuse of teen residents. Ending appears hopeful (the friends escape) but 'happy-ending' left off pending maintainer review. Please verify subtitle/audio and creator details from other sources."
 }

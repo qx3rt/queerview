@@ -2,7 +2,7 @@
   "tmdb_id": 61662,
   "media_type": "tv",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -38,5 +38,5 @@
     "explicit-representation",
     "no-death"
   ],
-  "contributor_notes": "David Rose is explicitly pansexual per the source; Patrick's queerness is clear from his same-sex marriage to David but no specific orientation label is given in the text, so the 'queer' umbrella is used. Dan Levy is credited as co-creator, showrunner, and the actor playing David, but the source text does not state his sexual orientation, so no identity tags were added for creators — a maintainer may wish to verify. Source praises the show for portraying queerness with no homophobia; GLAAD and Dorian Award recognition noted. Censorship of same-sex kisses by some broadcasters is mentioned but is not a content trigger within the show itself. Subtitle/audio language info not provided."
+  "contributor_notes": "David Rose is explicitly pansexual per the source; Patrick's queerness is clear from his same-sex marriage to David but no specific orientation label is given in the text, so the 'queer' umbrella is used. Dan Levy is credited as co-creator, showrunner, and the actor playing David, but the source text does not state his sexual orientation, so no identity tags were added for creators \u2014 a maintainer may wish to verify. Source praises the show for portraying queerness with no homophobia; GLAAD and Dorian Award recognition noted. Censorship of same-sex kisses by some broadcasters is mentioned but is not a content trigger within the show itself. Subtitle/audio language info not provided."
 }

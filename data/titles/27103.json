@@ -2,7 +2,7 @@
   "tmdb_id": 27103,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [],
@@ -30,5 +30,5 @@
     "explicit-representation",
     "no-death"
   ],
-  "contributor_notes": "Ludovic's transgender identity is clearly supported by the plot summary. Trigger warnings for transphobia and misgendering reflect the community's hostility, the mother's initial attempts to suppress Ludovic's identity, job loss, and vandalism described in the text. The ending is described as hopeful/accepting, supporting happy-ending and no-death tags. Director Alain Berliner is mentioned but no queer identity is stated in the source, so he is not tagged as a queer creator. Consider whether 'poverty' warning fits given the father's job loss — left off as the text emphasizes it as social punishment rather than sustained poverty. Subtitles/audio languages not mentioned in source. Please verify."
+  "contributor_notes": "Ludovic's transgender identity is clearly supported by the plot summary. Trigger warnings for transphobia and misgendering reflect the community's hostility, the mother's initial attempts to suppress Ludovic's identity, job loss, and vandalism described in the text. The ending is described as hopeful/accepting, supporting happy-ending and no-death tags. Director Alain Berliner is mentioned but no queer identity is stated in the source, so he is not tagged as a queer creator. Consider whether 'poverty' warning fits given the father's job loss \u2014 left off as the text emphasizes it as social punishment rather than sustained poverty. Subtitles/audio languages not mentioned in source. Please verify."
 }

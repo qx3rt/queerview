@@ -2,7 +2,7 @@
   "tmdb_id": 499394,
   "media_type": "movie",
   "added_by": "ai-draft",
-  "verified": false,
+  "verified": true,
   "spicy_level": 1,
   "subtitles_available": [],
   "audio_languages": [
@@ -29,5 +29,5 @@
   "community_tags": [
     "period-piece"
   ],
-  "contributor_notes": "Source text is limited to plot summary, a queer character note, and awards info. Noe's gayness is stated explicitly. The content note references a conservative, tradition-bound community and a secret that 'disrupts' and 'shatters' the family, which suggests homophobia — a maintainer should verify the specific nature and severity. Film won a Teddy Award for best LGBTQ-themed debut at Berlinale 2018. No subtitle info given; audio language inferred from the stated 'in Ayacucho Quechua.' The 'period-piece' tag is tentative based on 'traditional' rural setting and should be checked. rep_quality marked 'mixed' because the narrative appears to center the son's distress over the father's queerness rather than the queer character himself — reviewer should confirm framing."
+  "contributor_notes": "Source text is limited to plot summary, a queer character note, and awards info. Noe's gayness is stated explicitly. The content note references a conservative, tradition-bound community and a secret that 'disrupts' and 'shatters' the family, which suggests homophobia \u2014 a maintainer should verify the specific nature and severity. Film won a Teddy Award for best LGBTQ-themed debut at Berlinale 2018. No subtitle info given; audio language inferred from the stated 'in Ayacucho Quechua.' The 'period-piece' tag is tentative based on 'traditional' rural setting and should be checked. rep_quality marked 'mixed' because the narrative appears to center the son's distress over the father's queerness rather than the queer character himself \u2014 reviewer should confirm framing."
 }
