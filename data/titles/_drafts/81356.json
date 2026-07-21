@@ -1,0 +1,75 @@
+{
+  "tmdb_id": 81356,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 4,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Eric Effiong",
+      "identities": [
+        "gay"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as Otis's openly gay best friend; arc covers coming out, his relationship with Adam, family/religious pressure, and leaving a church that refuses to accept him.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Adam Groff",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explicitly comes out as bisexual after initially bullying Eric; develops relationships with Eric and later a farm worker named Jem.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ola Nyman",
+      "identities": [
+        "pansexual"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Stated to be pansexual; dates Otis before realizing her attraction to women and starting a relationship with Lily.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lily Iglehart",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Explores her own sexuality alongside Ola and enters a relationship with her; source doesn't provide a specific label so the umbrella term is used.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Cal Bowman",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Described as a non-binary student who takes testosterone and navigates relationships and friendships with Jackson and Eric.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation"
+  ],
+  "contributor_notes": "Source text confirms explicit queer identities for Eric (gay), Adam (bisexual), Ola (pansexual), and Cal (non-binary); Lily is noted as exploring her sexuality without a specific label, so tagged under the queer umbrella. Cal takes testosterone but the text only labels them non-binary, so a transgender tag was not added—maintainer may wish to verify. No creator/cast identities are stated in the source, so queer_creators is left empty. Homophobia trigger drawn from Eric's church/family arc. Subtitle and audio language info not provided. Spicy level reflects the show's central focus on sexual intimacy and therapy."
+}

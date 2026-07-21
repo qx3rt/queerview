@@ -1,0 +1,49 @@
+{
+  "tmdb_id": 226,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Brandon Teena",
+      "identities": [
+        "transgender"
+      ],
+      "rep_quality": "historical-context",
+      "source": "explicit-in-text",
+      "notes": "The film dramatizes the true story of a real trans man, centering on his internal experience of gender identity and masculine self-expression. Portrayal emphasizes his humanity but culminates in his real-life rape and murder.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Lana Tisdel",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Becomes romantically involved with Brandon, a trans man, described by the director as 'a great love story.' Her own sexual identity is not labeled in the source.",
+      "contested": true,
+      "contest_notes": "The source does not state Lana's identity; her involvement with a trans man could be read as queer or as a relationship in which she understood Brandon as a man. The real Lana Tisdel sued producers, calling the film unfair to her."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "transphobia",
+    "homophobia",
+    "sexual-violence",
+    "character-death",
+    "misgendering"
+  ],
+  "rep_tropes": [
+    "bury-your-gays",
+    "tragic-queer"
+  ],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Based on the true story of Brandon Teena (1993). Note the ongoing critical debate about casting cisgender actress Hilary Swank as a trans man, referenced in the source (2016 protest, Swank's 2019 comments). Scholar Jack Halberstam is cited noting the murder arises from both homophobic and transphobic violence. Brandon's identity is explicit in the film/historical record; Lana's identity is unlabeled and left contested. Kimberly Peirce is mentioned as director but the source gives no statement of her own identity, so no creator identity is tagged. rep_quality for Brandon marked historical-context given it dramatizes real events; a maintainer may reconsider whether 'mixed' better fits given casting controversy. No subtitle/audio info in source."
+}

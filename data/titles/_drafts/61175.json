@@ -1,0 +1,117 @@
+{
+  "tmdb_id": 61175,
+  "media_type": "tv",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ruby",
+      "identities": [
+        "nonbinary",
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Ruby is one of the Gems (designed as non-binary women) and is in a romantic same-sex relationship with Sapphire; they had the first same-sex wedding in children's animation.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Sapphire",
+      "identities": [
+        "nonbinary",
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Sapphire is a Gem (non-binary woman) in a romantic same-sex relationship with Ruby, culminating in an on-screen wedding.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Garnet",
+      "identities": [
+        "nonbinary",
+        "queer"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Garnet is the romantic fusion of Ruby and Sapphire, embodying their same-sex relationship; leader of the Crystal Gems.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Stevonnie",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Fusion of Steven and Connie who explicitly uses they/them pronouns in the show.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Fluorite",
+      "identities": [
+        "polyamorous",
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "A six-Gem fusion described in the source as representing polyamorous relationships; Gems are non-binary women.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Pearl",
+      "identities": [
+        "nonbinary",
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "inferred",
+      "notes": "Pearl is a Gem (non-binary woman); an embrace between Rose and Pearl that was censored by Cartoon Network UK suggests romantic subtext, though the source does not explicitly confirm her orientation.",
+      "contested": true,
+      "contest_notes": "The source only mentions a removed embrace between Rose and Pearl framed as same-sex; her orientation is not explicitly stated in the provided text."
+    },
+    {
+      "name": "Amethyst",
+      "identities": [
+        "nonbinary"
+      ],
+      "rep_quality": "positive",
+      "source": "confirmed-by-creator",
+      "notes": "Amethyst is one of the Crystal Gems, deliberately designed by Sugar as a genderless alien projecting a female form ('non-binary women').",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [
+    {
+      "tmdb_person_id": null,
+      "name": "Rebecca Sugar",
+      "role": "creator",
+      "identities": [
+        "bisexual",
+        "nonbinary"
+      ],
+      "source": "self-identified-public",
+      "notes": "Sugar publicly identifies as a non-binary, bisexual woman and stated the show's LGBTQ themes drew on her own experience; first non-binary person to independently create a Cartoon Network show."
+    }
+  ],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "found-family",
+    "own-voices",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Draft based solely on provided source. Ruby/Sapphire tagged 'queer'/'nonbinary' because the source describes Gems as 'non-binary women' in a same-sex relationship rather than using a specific label like lesbian; a maintainer may refine. Pearl marked contested as her orientation is only implied via the censored Rose/Pearl embrace. Homophobia trigger reflects in-narrative context and real-world censorship/banning described; consider whether real-world context belongs in trigger_warnings. Awards, ratings, and censorship history noted but not mappable to schema fields."
+}

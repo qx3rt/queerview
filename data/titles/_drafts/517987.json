@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 517987,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 2,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Kena Mwaura",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Central protagonist in an explicit romantic relationship with another woman, Ziki; portrayed with 'quiet resilience' and a hopeful arc culminating in a reunion. The film's Afrobubblegum optimism resists tragic framing.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Ziki Okemi",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Openly pursues and defends her love for Kena even under attack; though forced into exile by family pressure, she returns and their love endures, avoiding a tragic ending.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "homophobia"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "happy-ending",
+    "explicit-representation"
+  ],
+  "contributor_notes": "Character identities labeled 'lesbian' based on the explicit same-sex women's romance central to the plot and the Kenya Film Classification Board's own citation of a 'homosexual theme' and 'lesbianism'; the characters are not shown using a specific self-label on screen, so a maintainer may prefer the 'queer' umbrella. Director Wanuri Kahiu's Afrobubblegum philosophy and refusal to change the 'too hopeful' ending informed the happy-ending tag. No queer identity is stated in the source for Kahiu or cast, so queer_creators is left empty. Homophobia trigger reflects the mob attack, arrest, and family/state pressure depicted. No subtitle/audio language info was provided."
+}

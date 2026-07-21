@@ -1,0 +1,43 @@
+{
+  "tmdb_id": 597219,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Ellie Chu",
+      "identities": [
+        "lesbian"
+      ],
+      "rep_quality": "positive",
+      "source": "explicit-in-text",
+      "notes": "Source states the narrative centers on her journey toward self-acceptance regarding her lesbian identity; critics praised the portrayal of a young lesbian immigrant's self-acceptance.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Aster Flores",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Source states Aster acknowledges her own feelings for Ellie and rejects her boyfriend's proposal, but no specific label is given in the text, so the umbrella 'queer' tag is used.",
+      "contested": true,
+      "contest_notes": "Bitch magazine argues the film 'flirts with the idea of lesbian relationships' but 'quickly pivots,' leaving the romantic resolution 'only halfway delivered'; lead actress Leah Lewis emphasizes the characters 'don't really end up with each other,' framing it as a self-love rather than romance story."
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "poverty"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "explicit-representation",
+    "no-death"
+  ],
+  "contributor_notes": "Ellie's lesbian identity is explicit in the source; Aster's specific label is unstated so 'queer' is used. Alice Wu (director, previously directed Saving Face) is not given any identity in the source text, so no creator identity tags were added — a maintainer may verify. The romantic resolution is disputed: Rolling Stone praises it while Bitch magazine finds it 'only halfway delivered,' and the actress frames it as a self-love story. Poverty is inferred from Ellie ghostwriting to help pay family bills. Subtitle/audio languages not mentioned in source."
+}

@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 424694,
+  "media_type": "movie",
+  "added_by": "ai-draft",
+  "verified": false,
+  "spicy_level": 1,
+  "subtitles_available": [],
+  "audio_languages": [],
+  "queer_characters": [
+    {
+      "name": "Freddie Mercury",
+      "identities": [
+        "bisexual"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Comes out as bisexual to Mary Austin; his bisexuality is shown via engagement to Mary and relationships with Paul Prenter and Jim Hutton. Critics (Vox, Empire, Variety) noted the film disengages from the 'gay' part and treats his queerness with 'kid-gloves reticence,' giving little space to happy gay relationships.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Jim Hutton",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Mercury becomes attracted to and enters a relationship with him; source text does not specify a more precise label for Hutton, and the romance is treated as restrained per critics.",
+      "contested": false,
+      "contest_notes": ""
+    },
+    {
+      "name": "Paul Prenter",
+      "identities": [
+        "queer"
+      ],
+      "rep_quality": "mixed",
+      "source": "explicit-in-text",
+      "notes": "Described as being in a romantic relationship with Mercury; no specific label given in source. Source text does not detail characterization beyond the relationship.",
+      "contested": false,
+      "contest_notes": ""
+    }
+  ],
+  "queer_creators": [],
+  "trigger_warnings": [
+    "hiv-aids",
+    "character-death"
+  ],
+  "rep_tropes": [],
+  "community_tags": [
+    "period-piece"
+  ],
+  "contributor_notes": "Source text lacks info on creators' identities, subtitle/audio languages, and Paul Prenter/Jim Hutton's specific identities — left as 'queer' umbrella per rules. Freddie is explicitly bisexual in-text. Considered 'tragic-queer' given his AIDS death and the film's restrained handling, but the source frames this as biographical fact/criticism rather than a clear narrative trope — flagging for maintainer review. Marketing criticism (Bryan Fuller) concerns the trailer, not the film itself, so no queerbaiting tag applied. Please verify rep_quality; multiple critics called the queer treatment restrained/reticent."
+}
