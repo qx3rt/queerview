@@ -16,6 +16,5 @@
   { "slug": "two-spirit", "label": "Two-Spirit", "description": "A gender identity used by some Indigenous North Americans encompassing cultural, spiritual, sexual, and gender roles.", "category": "gender-identity" },
   { "slug": "intersex", "label": "Intersex", "description": "Born with sex characteristics that don't fit typical binary notions of male or female bodies.", "category": "gender-identity" },
   { "slug": "travesti", "label": "Travesti", "description": "A trans-feminine gender identity and cultural/political identity distinct from 'transgender woman,' rooted in Latin American (especially Brazilian and Argentine) trans and sex-worker communities.", "category": "gender-identity" },
-  { "slug": "polyamorous", "label": "Polyamorous", "description": "Practices or is open to consensual relationships with multiple partners.", "category": "relationship-structure" },
-  { "slug": "relationship-anarchist", "label": "Relationship Anarchist", "description": "Rejects predefined relationship structures and hierarchies.", "category": "relationship-structure" }
+  { "slug": "polyamorous", "label": "Polyamorous", "description": "Practices or is open to consensual relationships with multiple partners.", "category": "relationship-structure" }
 ]
